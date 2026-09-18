@@ -172,8 +172,10 @@ def pnj_prices():
     data = json.loads(http_get("https://edge-api.pnj.io/ecom-frontend/v1/get-gold-price?zone=00"))
     out = {}
     for d in data["data"]:
-        if d["masp"] == "N24K":
-            # PNJ trả về nghìn đồng/chỉ -> đổi ra đồng/lượng
+        # PNJ trả về nghìn đồng/chỉ -> đổi ra đồng/lượng
+        if d["masp"] == "SJC":
+            out["Vàng miếng SJC"] = (d["giamua"] * 10_000, d["giaban"] * 10_000)
+        elif d["masp"] == "N24K":
             out["Nhẫn trơn PNJ 999.9"] = (d["giamua"] * 10_000, d["giaban"] * 10_000)
     return out, data.get("updateDate", "")
 
@@ -229,11 +231,13 @@ def build_price_report(state):
         errors.append(f"vàng thế giới: {e}")
 
     # Vàng trong nước
+    # Web SJC hay chặn máy chủ nước ngoài (GitHub) -> khi đó lấy giá miếng SJC từ bảng giá PNJ
     domestic = {}
     for fn, label in [(sjc_prices, "SJC"), (pnj_prices, "PNJ")]:
         try:
             rows, _ = fn()
-            domestic.update(rows)
+            for name, val in rows.items():
+                domestic.setdefault(name, val)
         except Exception as e:
             errors.append(f"{label}: {e}")
     if domestic:
@@ -315,7 +319,7 @@ def collect_news(seen):
             key = news_key(it["title"], label, it["pub"])
             if (it["pub"] < cutoff or key in seen or key in found
                     or not any(s in src for s in config.TRUSTED_SOURCES)
-                    or not any(k in t for k in config.REQUIRED_KEYWORDS[label])
+                    or not any(re.search(rf"\b{re.escape(k)}\b", t) for k in config.REQUIRED_KEYWORDS[label])
                     or any(k in t for k in config.EXCLUDE_KEYWORDS)):
                 continue
             found[key] = {**it, "label": label}
