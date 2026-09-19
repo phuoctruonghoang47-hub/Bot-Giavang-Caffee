@@ -174,6 +174,56 @@
   "philippines bets on coffee new government agency aims to boost production and reduce impor": 1789778463,
   "arabica futures ease as market balances record crop expectations against tight nearby supp": 1789779967,
   "dollar surges to best week since june on higher rate outlook": 1789779967,
-  "gold silver prices hold weekly gains as oil drops yields return to 5 kitco pm report": 1789779967
+  "gold silver prices hold weekly gains as oil drops yields return to 5 kitco pm report": 1789779967,
+  "bản tin nông sản hôm nay 19 9 giá cà phê tiếp tục giảm": 1789781838,
+  "giá vàng tăng lên mức cao nhất 1 tuần spdr gold trust mua ròng hơn 4 tấn": 1789781838,
+  "federal reserve": 1789781838,
+  "kevin warsh": 1789781838,
+  "after fed s rate increase borrowers face a bumpy road ahead": 1789781838
+ },
+ "usd": {
+  "2026-09-16T14:00:00-04:00": {
+   "done": 1789781840
+  },
+  "2026-09-16T14:30:00-04:00": {
+   "done": 1789781840
+  }
+ },
+ "cal": {
+  "fetched": 1789781840.809774,
+  "events": [
+   {
+    "title": "Federal Funds Rate",
+    "country": "USD",
+    "date": "2026-09-16T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "4.00%",
+    "previous": "3.75%"
+   },
+   {
+    "title": "FOMC Economic Projections",
+    "country": "USD",
+    "date": "2026-09-16T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "FOMC Statement",
+    "country": "USD",
+    "date": "2026-09-16T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "FOMC Press Conference",
+    "country": "USD",
+    "date": "2026-09-16T14:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   }
+  ]
  }
 }
