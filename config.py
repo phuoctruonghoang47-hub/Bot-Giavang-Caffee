@@ -29,11 +29,12 @@ NEWS_QUERIES = [
     ("🥇 Vàng", f'(gold price OR bullion OR "gold prices") {_sites(INTL_SITES)}', "en"),
     ("🥇 Vàng", f'("Fed" OR "Federal Reserve" OR "US dollar" OR inflation) gold {_sites(INTL_SITES)}', "en"),
     ("🥇 Vàng", f'("giá vàng" OR "vàng miếng" OR "vàng nhẫn" OR "SJC") {_sites(VN_SITES)}', "vi"),
-    # Yếu tố vĩ mô tác động giá vàng: Fed/lãi suất, USD, lạm phát, việc làm Mỹ, địa chính trị
-    ("🏦 Vĩ mô", f'(Fed OR "Federal Reserve" OR "rate cut" OR "rate hike" OR "interest rates") {_sites(["reuters.com", "bloomberg.com", "cnbc.com", "wsj.com", "ft.com"])}', "en"),
-    ("🏦 Vĩ mô", f'(inflation OR CPI OR PCE OR payrolls OR "jobs report" OR "Treasury yields" OR "dollar index") {_sites(["reuters.com", "bloomberg.com", "cnbc.com", "wsj.com"])}', "en"),
-    ("🏦 Vĩ mô", f'("safe haven" OR "central bank" OR geopolitical OR sanctions OR escalation) {_sites(["reuters.com", "bloomberg.com", "ft.com"])}', "en"),
-    ("🏦 Vĩ mô", f'("Fed" OR "lãi suất" OR "tỷ giá" OR "đồng USD" OR "lạm phát Mỹ") {_sites(VN_SITES)}', "vi"),
+    # Yếu tố vĩ mô tác động giá vàng: Fed, số liệu kinh tế Mỹ (CPI, Nonfarm...), USD, địa chính trị
+    ("🏦 Vĩ mô", f'(Fed OR "Federal Reserve" OR FOMC OR Powell OR Warsh OR "rate cut" OR "rate hike") {_sites(["reuters.com", "bloomberg.com", "cnbc.com", "wsj.com", "ft.com"])}', "en"),
+    ("🏦 Vĩ mô", f'(nonfarm OR payrolls OR "jobs report" OR unemployment OR "jobless claims") {_sites(["reuters.com", "bloomberg.com", "cnbc.com", "wsj.com"])}', "en"),
+    ("🏦 Vĩ mô", f'(CPI OR PCE OR PPI OR "consumer prices" OR "inflation data" OR "US inflation" OR GDP OR "retail sales") {_sites(["reuters.com", "bloomberg.com", "cnbc.com", "wsj.com"])}', "en"),
+    ("🏦 Vĩ mô", f'("dollar index" OR "Treasury yields" OR "safe haven" OR "central bank" OR geopolitical OR sanctions) {_sites(["reuters.com", "bloomberg.com", "ft.com"])}', "en"),
+    ("🏦 Vĩ mô", f'("Fed" OR "phi nông nghiệp" OR "CPI Mỹ" OR "lạm phát Mỹ" OR "đồng USD" OR "tỷ giá") {_sites(VN_SITES)}', "vi"),
     ("☕ Cà phê", "coffee futures", "en"),
     ("☕ Cà phê", "arabica robusta coffee prices", "en"),
     ("☕ Cà phê", "coffee (site:reuters.com OR site:bloomberg.com)", "en"),
@@ -55,11 +56,14 @@ TRUSTED_SOURCES = [
 # Tin phải chứa ít nhất một từ khoá này trong tiêu đề (không phân biệt hoa thường)
 REQUIRED_KEYWORDS = {
     "🥇 Vàng": ["gold", "bullion", "vàng", "sjc"],
-    "🏦 Vĩ mô": ["fed", "federal reserve", "powell", "warsh", "fomc", "rate cut", "rate cuts",
-                "rate hike", "rate hikes", "interest rates", "inflation", "cpi", "pce", "payrolls",
-                "jobs report", "treasury yields", "yields", "dollar", "safe haven", "central bank",
-                # Tiếng Việt: chỉ nhận tin về Fed/USD/tỷ giá, bỏ tin lãi suất cho vay trong nước
-                "tỷ giá", "đồng usd", "đô la mỹ", "lạm phát mỹ", "ngân hàng trung ương"],
+    # Chỉ tin liên quan Mỹ: Fed, số liệu kinh tế Mỹ, USD, lợi suất trái phiếu Mỹ
+    "🏦 Vĩ mô": ["fed", "federal reserve", "powell", "warsh", "fomc", "nonfarm", "non-farm",
+                "payrolls", "jobs report", "jobless claims", "us unemployment", "u.s. unemployment",
+                "cpi", "pce", "ppi", "us inflation", "u.s. inflation", "us gdp", "u.s. gdp",
+                "us retail sales", "u.s. retail sales", "treasury yields", "dollar", "safe haven",
+                # Tiếng Việt: chỉ nhận tin về Fed/USD/số liệu Mỹ, bỏ tin lãi suất cho vay trong nước
+                "phi nông nghiệp", "cpi mỹ", "lạm phát mỹ", "tỷ giá", "đồng usd", "đô la mỹ",
+                "ngân hàng trung ương"],
     "☕ Cà phê": ["coffee", "arabica", "robusta", "giá cà phê", "xuất khẩu cà phê",
                  "cà phê nhân", "niên vụ", "thị trường cà phê", "ngành cà phê", "tt cà phê"],
 }
@@ -70,4 +74,28 @@ EXCLUDE_KEYWORDS = [
     "quả bóng vàng", "giờ vàng", "coffee shop", "starbucks", "tuần lễ vàng",
     "live gold prices", "| kitco",  # trang bảng giá, không phải bài báo
     "coffee tasting", "barista",
+    # tin tổng hợp chứng khoán, không phải tin vĩ mô
+    "stock futures", "equity fund", "wall st set", "wall street set", "stocks set to",
 ]
+
+# Loại riêng cho nhóm Vĩ mô: tin nước khác, tin chứng khoán, bình luận/talkshow
+LABEL_EXCLUDE = {
+    "🏦 Vĩ mô": [
+        "bank of england", "boe", "boj", "bank of japan", "ecb", "rba", "sterling", "yen",
+        "rand", "u.k.", "uk", "britain", "british", "japan", "australia", "hungary", "india",
+        "russia", "russian", "latam", "europe", "european", "china", "canada",
+        "stocks", "stock", "equities", "ipo", "jim cramer", "the club", "live q&a", "investors can",
+        "chứng khoán", "ví bạn",
+    ],
+}
+
+# Tin quan trọng nhất với vàng -> gắn 🔥 và ưu tiên gửi trước
+HIGH_IMPACT_KEYWORDS = [
+    "fomc", "fed decision", "rate decision", "fed raises", "fed hikes", "fed cuts",
+    "fed holds", "fed keeps", "fed minutes", "nonfarm", "non-farm", "payrolls", "jobs report",
+    "cpi", "pce", "consumer prices", "phi nông nghiệp", "cpi mỹ",
+    "fed tăng lãi suất", "fed giảm lãi suất", "fed giữ nguyên",
+]
+
+# Số tin tối đa mỗi nhóm trong một lần gửi (tin còn lại để lần quét sau)
+NEWS_MAX_PER_LABEL = {"🏦 Vĩ mô": 4, "🥇 Vàng": 4, "☕ Cà phê": 4}

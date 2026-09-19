@@ -2,7 +2,7 @@
 
 Cách dùng:
     python bot.py prices     # gửi bản tin giá
-    python bot.py news       # quét tin mới + cảnh báo biến động vàng
+    python bot.py news       # quét tin mới + cảnh báo biến động vàng + săn tin USD
     python bot.py prices --dry-run   # in ra màn hình, không gửi Telegram
 
 Biến môi trường: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (có thể đặt trong file .env).
@@ -22,6 +22,7 @@ from itertools import zip_longest
 from pathlib import Path
 
 import config
+import usd_events
 
 ROOT = Path(__file__).parent
 STATE_FILE = ROOT / "state" / "state.json"
@@ -44,8 +45,15 @@ def load_env():
                 os.environ.setdefault(k.strip(), v.strip().strip('"'))
 
 
-def http_get(url, data=None, timeout=25):
-    req = urllib.request.Request(url, data=data, headers={"User-Agent": UA})
+def http_post_json(url, body, timeout=25):
+    return http_get(url, data=body, timeout=timeout, content_type="application/json")
+
+
+def http_get(url, data=None, timeout=25, content_type=None):
+    headers = {"User-Agent": UA}
+    if content_type:
+        headers["Content-Type"] = content_type
+    req = urllib.request.Request(url, data=data, headers=headers)
     last = None
     for attempt in range(3):
         try:
@@ -263,7 +271,8 @@ def build_price_report(state):
     except Exception as e:
         errors.append(f"cà phê: {e}")
 
-    lines.append("\n<i>Nguồn: Yahoo Finance (COMEX), SJC, PNJ, giacaphe.com</i>")
+    lines += usd_events.calendar_lines(state, http_get)
+    lines.append("\n<i>Nguồn: Yahoo Finance (COMEX), SJC, PNJ, giacaphe.com, ForexFactory</i>")
     if errors:
         print("Lỗi nguồn:", *errors, sep="\n  ", file=sys.stderr)
     state["last_prices"] = {**prev, **cur}
@@ -320,11 +329,17 @@ def collect_news(seen):
             if (it["pub"] < cutoff or key in seen or key in found
                     or not any(s in src for s in config.TRUSTED_SOURCES)
                     or not any(re.search(rf"\b{re.escape(k)}\b", t) for k in config.REQUIRED_KEYWORDS[label])
-                    or any(k in t for k in config.EXCLUDE_KEYWORDS)):
+                    or any(k in t for k in config.EXCLUDE_KEYWORDS)
+                    or any(re.search(rf"\b{re.escape(k)}\b", t) for k in config.LABEL_EXCLUDE.get(label, []))):
                 continue
             found[key] = {**it, "label": label}
         time.sleep(1)
     return sorted(found.items(), key=lambda kv: kv[1]["pub"], reverse=True)
+
+
+def is_high_impact(title):
+    t = title.lower()
+    return any(re.search(rf"\b{re.escape(k)}\b", t) for k in config.HIGH_IMPACT_KEYWORDS)
 
 
 def build_news_report(state):
@@ -332,23 +347,34 @@ def build_news_report(state):
     items = collect_news(seen)
     first_run = not seen
     stamp = int(time.time())
-    for key, _ in items:
-        seen[key] = stamp
-    # Giữ lịch sử 3 ngày cho gọn file
-    state["seen"] = {k: v for k, v in seen.items() if stamp - v < 3 * 86400}
 
-    # Xen kẽ vàng / cà phê để một chủ đề không lấn át chủ đề kia
+    # Mỗi nhóm: tin 🔥 quan trọng lên trước, sau đó tin mới nhất; giới hạn số tin mỗi nhóm
     groups = {}
     for kv in items:
         groups.setdefault(kv[1]["label"], []).append(kv)
+    for label, lst in groups.items():
+        lst.sort(key=lambda kv: (not is_high_impact(kv[1]["title"]), -kv[1]["pub"].timestamp()))
+        groups[label] = lst[: config.NEWS_MAX_PER_LABEL.get(label, 4)]
+    # Xen kẽ các nhóm để một chủ đề không lấn át chủ đề khác
     mixed = [kv for rnd in zip_longest(*groups.values()) for kv in rnd if kv]
     to_send = mixed[: 6 if first_run else config.NEWS_MAX_PER_RUN]
+
+    # Đánh dấu tin đã gửi; tin chưa gửi được giữ cho lần quét sau, trừ khi đã cũ quá 6 giờ
+    stale = datetime.now(timezone.utc) - timedelta(hours=6)
+    sent_keys = {k for k, _ in to_send}
+    for key, it in items:
+        if key in sent_keys or it["pub"] < stale:
+            seen[key] = stamp
+    # Giữ lịch sử 3 ngày cho gọn file
+    state["seen"] = {k: v for k, v in seen.items() if stamp - v < 3 * 86400}
+
     if not to_send:
         return None
     lines = [f"📰 <b>TIN MỚI – VÀNG & CÀ PHÊ</b> · {now_vn():%H:%M %d/%m}\n"]
     for _, it in to_send:
         t = it["pub"].astimezone(VN_TZ)
-        lines.append(f'{it["label"]} <a href="{html.escape(it["link"])}">{html.escape(it["title"])}</a>\n'
+        fire = "🔥 " if is_high_impact(it["title"]) else ""
+        lines.append(f'{it["label"]} {fire}<a href="{html.escape(it["link"])}">{html.escape(it["title"])}</a>\n'
                      f'   <i>{html.escape(it["source"])} · {t:%H:%M %d/%m}</i>\n')
     return "\n".join(lines)
 
@@ -391,6 +417,16 @@ def main():
             send_telegram(report, dry)
         else:
             print("Không có tin mới.")
+        if not dry:
+            save_state(state)
+
+        # Săn tin USD: có thể chờ tới giờ công bố -> lưu state sau mỗi tin gửi đi
+        def send_and_save(msg):
+            send_telegram(msg, dry)
+            if not dry:
+                save_state(state)
+        usd_events.run(state, send_and_save, http_get, http_post_json,
+                       wait_limit_min=0 if dry else 40)
     elif cmd == "test":
         send_telegram("✅ Bot đã kết nối thành công với kênh!", dry)
         return
