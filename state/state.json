@@ -222,7 +222,8 @@
   "82x0 athena gold corp advanced charts": 1789857341,
   "the fed trending news latest updates analysis": 1789859169,
   "legyf legacy gold mines ltd quarterly balance sheet": 1789859169,
-  "legyf legacy gold mines ltd annual income statement": 1789859169
+  "legyf legacy gold mines ltd annual income statement": 1789859169,
+  "legyf legacy gold mines ltd options": 1789864964
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -233,7 +234,7 @@
   }
  },
  "cal": {
-  "fetched": 1789853729.3850565,
+  "fetched": 1789864966.7078989,
   "events": [
    {
     "title": "Federal Funds Rate",
