@@ -242,40 +242,7 @@
   }
  },
  "cal": {
-  "fetched": 1789877217.9052787,
-  "events": [
-   {
-    "title": "Federal Funds Rate",
-    "country": "USD",
-    "date": "2026-09-16T14:00:00-04:00",
-    "impact": "High",
-    "forecast": "4.00%",
-    "previous": "3.75%"
-   },
-   {
-    "title": "FOMC Economic Projections",
-    "country": "USD",
-    "date": "2026-09-16T14:00:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "FOMC Statement",
-    "country": "USD",
-    "date": "2026-09-16T14:00:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "FOMC Press Conference",
-    "country": "USD",
-    "date": "2026-09-16T14:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-   }
-  ]
+  "fetched": 1789889798.3401778,
+  "events": []
  }
 }
