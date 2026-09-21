@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4393.5,
  "seen": {
-  "vàng tăng không đủ bù lỗ ngân hàng hút usd": 1789774541,
-  "global shares edge higher as central banks double down on inflation fight": 1789774541,
   "wall street goes full bull on gold price after post hike gains main street bolsters bullis": 1789776560,
   "treasuries fall as fed rate hike outlook dents sentiment": 1789776560,
   "the fed raised rates and gold didn t break here s why": 1789776560,
@@ -165,7 +163,9 @@
   "fed s musalem says more rate hikes likely needed to cool prices": 1790026600,
   "nasdaq notches record high close ai optimism reignites and treasury yields retreat": 1790028403,
   "coffee prices retreat as global supply situation improves": 1790032012,
-  "gold silver ease as stocks rally hormuz risk premium fades kitco pm report": 1790032012
+  "gold silver ease as stocks rally hormuz risk premium fades kitco pm report": 1790032012,
+  "bản tin nông sản hôm nay 22 9 giá cà phê hồ tiêu đi ngang": 1790033817,
+  "most firms keep cash from tariff refunds fed study finds": 1790033817
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -176,7 +176,7 @@
   }
  },
  "cal": {
-  "fetched": 1790021223.1136827,
+  "fetched": 1790033818.7112687,
   "events": []
  }
 }
