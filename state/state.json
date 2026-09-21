@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4393.5,
  "seen": {
-  "mỗi lượng vàng tăng gần hai triệu đồng": 1789762007,
   "gold shrugs off fed rate hike as deeper forces drive safe haven demand": 1789767383,
   "white house attacks fed official after review of silicon valley bank collapse": 1789767383,
   "the fed rate hike opens up an opportunity for muni bond investors": 1789769217,
@@ -165,7 +164,9 @@
   "don t give up your gold disciplined monetary policy can t fix fiscal risk axel merk": 1790016079,
   "wall street rallies as ai optimism reignites and treasury yields retreat": 1790017554,
   "gold spot prices silver prices platinum palladium": 1790019463,
-  "giá vàng trong nước bất ngờ giảm 1 triệu đồng phiên chiều nay": 1790019463
+  "giá vàng trong nước bất ngờ giảm 1 triệu đồng phiên chiều nay": 1790019463,
+  "gold records barely an up week in maintaining the long streak": 1790021221,
+  "goolsbee rejects idea of fed cutting rates to help us finance its debt": 1790021221
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -176,7 +177,7 @@
   }
  },
  "cal": {
-  "fetched": 1790008742.5295172,
+  "fetched": 1790021223.1136827,
   "events": []
  }
 }
