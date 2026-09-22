@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4337.0,
  "seen": {
-  "charting the global economy fed officials raise interest rates": 1789810620,
-  "the trillion dollar question did warsh really seek trump s blessing to hike rates": 1789810620,
-  "report finds culture of risk aversion hindered oversight of svb fed official says": 1789810620,
   "dollar outlook hinges on fed communication": 1789812411,
   "don t count out corporate bonds just because the fed is raising rates": 1789814205,
   "u s treasury yields gain ahead of fed meeting": 1789814205,
@@ -159,7 +156,10 @@
   "giá vàng giảm liên tiếp đang thấp nhất 1 tuần qua": 1790066394,
   "giá vàng chịu sức ép khi nhiều ngân hàng trung ương lớn bước vào chu kỳ thắt chặt": 1790066394,
   "gold falls as higher for longer rate outlook weighs": 1790066394,
-  "china spends record amount importing over 1 000 tonnes of gold this year": 1790068034
+  "china spends record amount importing over 1 000 tonnes of gold this year": 1790068034,
+  "dollar briefly rises to 7 week high as oil prices swing": 1790069858,
+  "gold silver post weekly gains despite fed rate increase": 1790069858,
+  "kevin warsh": 1790069858
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -170,7 +170,7 @@
   }
  },
  "cal": {
-  "fetched": 1790057320.9979293,
+  "fetched": 1790069860.8095853,
   "events": []
  }
 }
