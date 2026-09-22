@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4388.3,
  "seen": {
-  "legyf legacy gold mines ltd quarterly cash flow statement": 1789846448,
   "wsj dollar index falls 0 08 to 94 91": 1789850200,
   "legyf legacy gold mines ltd advanced charts": 1789851973,
   "wsj opinion kevin warsh is an inflation hawk": 1789857341,
@@ -181,7 +180,9 @@
   "gold and silver alert more downside before another rally": 1790103966,
   "fed s barkin warns inflation pressures will take time to pass": 1790103966,
   "fed s collins says she supported rate hike warns of elevated inflation risks": 1790103966,
-  "treasury yields are little changed as traders await fed comments": 1790103966
+  "treasury yields are little changed as traders await fed comments": 1790103966,
+  "fed s barkin warns inflation pressures may take time to pass": 1790105758,
+  "fed s barkin says one rate hike may not be enough to tame inflation": 1790105758
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -192,7 +193,7 @@
   }
  },
  "cal": {
-  "fetched": 1790093235.6810489,
+  "fetched": 1790105760.7896612,
   "events": []
  }
 }
