@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4388.3,
  "seen": {
-  "wsj opinion kevin warsh is an inflation hawk": 1789857341,
-  "82x0 athena gold corp advanced charts": 1789857341,
   "the fed trending news latest updates analysis": 1789859169,
   "legyf legacy gold mines ltd quarterly balance sheet": 1789859169,
   "legyf legacy gold mines ltd annual income statement": 1789859169,
@@ -187,7 +185,8 @@
   "fed s williams says treasuries clearing moving ahead of schedule": 1790109475,
   "silver leads metals higher as dollar strength caps gold after fed rate repricing kitco pm ": 1790111180,
   "dow falls 500 points as the federal reserve raises key interest rate": 1790114777,
-  "fed s barkin says economy may be firming inflation not limited to energy tariff shocks": 1790114777
+  "fed s barkin says economy may be firming inflation not limited to energy tariff shocks": 1790114777,
+  "coffee prices fall as global supplies grow": 1790116610
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -198,7 +197,7 @@
   }
  },
  "cal": {
-  "fetched": 1790105760.7896612,
+  "fetched": 1790116612.465746,
   "events": []
  }
 }
