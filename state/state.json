@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4393.5,
  "seen": {
-  "daily:🥇 Vàng:2026-09-19": 1789785422,
   "tại sao giá cà phê liên tục giảm sau khi lên 96 000 đồng kg": 1789787207,
   "giá vàng thế giới ghi nhận tuần tăng đầu tiên sau 3 tuần giảm liên tiếp": 1789789047,
   "fed tăng lãi suất ảnh hưởng gì tới việt nam": 1789789047,
@@ -158,7 +157,8 @@
   "gold edges higher as lower oil prices damp chance of rate hikes": 1790037716,
   "gold rises as strong fundamentals support": 1790041038,
   "daily:🥇 Vàng:2026-09-22": 1790042829,
-  "treasury yields change little despite falling oil prices": 1790042829
+  "treasury yields change little despite falling oil prices": 1790042829,
+  "gold muted as higher for longer rate outlook weighs": 1790044707
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -169,7 +169,7 @@
   }
  },
  "cal": {
-  "fetched": 1790033818.7112687,
+  "fetched": 1790044709.100864,
   "events": []
  }
 }
