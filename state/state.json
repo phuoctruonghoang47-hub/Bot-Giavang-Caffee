@@ -14,7 +14,7 @@
   },
   "coffee": 91900
  },
- "alert_ref_gold": 4388.3,
+ "alert_ref_gold": 4342.3,
  "seen": {
   "oaktree s marks wants a less activist central bank in warsh era": 1789909571,
   "em investors are favoring local bonds as dollar debt lags": 1789909571,
@@ -207,7 +207,8 @@
   "global inflation will linger and fed will hike again oecd says": 1790158005,
   "rupee slips as dollar gets fed hike expectations tailwind": 1790159942,
   "treasury yields little changed as oil price oscillates": 1790161597,
-  "dollar at 2 month highs as fed outlook dominant": 1790161597
+  "dollar at 2 month highs as fed outlook dominant": 1790161597,
+  "dollar jumps to 8 week high as fed rate hike bets outweigh lower oil prices": 1790163518
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -218,7 +219,7 @@
   }
  },
  "cal": {
-  "fetched": 1790150833.374749,
+  "fetched": 1790163519.914778,
   "events": []
  }
 }
