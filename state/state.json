@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4388.3,
  "seen": {
-  "legyf legacy gold mines ltd annual cash flow statement": 1789877216,
   "knbgf koonenberry gold ltd profile": 1789880797,
   "fed hike adds to dollar momentum": 1789882599,
   "coffee prices today september 20th week reverses to decline": 1789884489,
@@ -190,7 +189,8 @@
   "watch bofa s irigoyen on fed policy inflation": 1790132809,
   "firm floor seen under gold prices": 1790134761,
   "traders load up on hedges for shallower fed rate hike cycle": 1790134761,
-  "cambodia no safe haven for scams prime minister tells anti fraud summit": 1790136415
+  "cambodia no safe haven for scams prime minister tells anti fraud summit": 1790136415,
+  "gold futures slip as u s dollar gains": 1790138419
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -201,7 +201,7 @@
   }
  },
  "cal": {
-  "fetched": 1790127419.2778459,
+  "fetched": 1790138421.2911513,
   "events": []
  }
 }
