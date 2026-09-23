@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4342.3,
  "seen": {
-  "precious metals relinquish gains following fed rate increase": 1789940170,
   "gold steadies as traders weigh inflation and fed hike outlook": 1789949359,
   "giá usd trong nước sẽ biến động thế nào sau khi fed tăng lãi suất": 1789951358,
   "letter warsh accedes to the inevitable in raising rates": 1789952814,
@@ -233,7 +232,9 @@
   "wall street ends down as oil prices treasury yields rise": 1790195868,
   "rosneft billions fed kremlin backed money laundering network": 1790195868,
   "hassett blasts fed officials calling for hikes in recent days": 1790197627,
-  "dollar jumps to near two month high on fed outlook inflation concern": 1790197627
+  "dollar jumps to near two month high on fed outlook inflation concern": 1790197627,
+  "treasury yields resume their rise": 1790199437,
+  "markets are rapidly coming around to the reality that the fed has a lot more work to do": 1790199437
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -244,7 +245,7 @@
   }
  },
  "cal": {
-  "fetched": 1790186932.6354969,
+  "fetched": 1790199439.7796192,
   "events": []
  }
 }
