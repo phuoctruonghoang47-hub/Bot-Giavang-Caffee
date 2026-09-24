@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4298.6,
  "seen": {
-  "the price of gold today sept 21 2026 and the best places to buy": 1789997904,
-  "gold steadies above 4 300 as oil eases and yields stay high kitco am report": 1789997904,
-  "a new fed tightening cycle may have just begun if that s the case buckle up": 1789997904,
   "euro could trade in record narrow range vs dollar": 1789999600,
   "markets can handle a hawkish fed not uncertainty": 1789999600,
   "gold swot gold etf holdings extended their buying streak to eight consecutive days": 1790001549,
@@ -260,7 +257,9 @@
   "us weekly jobless claims decrease as labor market regains footing": 1790255288,
   "xi arrives in d c treasury yields hit multiyear highs mcdonald s growth plan and more in m": 1790255288,
   "arabica coffee hovers around 3 month lows": 1790255288,
-  "watch us economy jobless claims hover close to historic lows at 197 000": 1790255288
+  "watch us economy jobless claims hover close to historic lows at 197 000": 1790255288,
+  "us jobless claims slip to 197 000 remain historically low": 1790257220,
+  "prep for the next fed rate increase by boosting your credit score with these tools": 1790257220
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -271,7 +270,7 @@
   }
  },
  "cal": {
-  "fetched": 1790246355.8979356,
+  "fetched": 1790257222.4502697,
   "events": []
  }
 }
