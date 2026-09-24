@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4342.3,
  "seen": {
-  "coffee prices today september 21st keeping the same before entering the new crop year": 1789973089,
   "gold falls as focus remains on rate outlook": 1789976393,
   "rupee nudges up as foreign bank dollar sales counter corporate demand": 1789976393,
   "mỗi lượng vàng giảm một triệu đồng": 1789978053,
@@ -245,7 +244,8 @@
   "highlands coffee được jollibee chuyển quyền kiểm soát cho đối tác việt trước thềm ipo": 1790228283,
   "coffee prices today september 24th sharp increase reaching 93 000 vnd kg": 1790232162,
   "us treasury yields soar": 1790232162,
-  "gold muted on fed policy tightening bets decline in oil": 1790232162
+  "gold muted on fed policy tightening bets decline in oil": 1790232162,
+  "canadian dollar hits eight week low as investors brace for domestic slowdown": 1790233709
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -256,7 +256,7 @@
   }
  },
  "cal": {
-  "fetched": 1790222809.8810234,
+  "fetched": 1790233711.200703,
   "events": []
  }
 }
