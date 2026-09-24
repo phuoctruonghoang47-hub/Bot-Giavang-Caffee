@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4298.6,
  "seen": {
-  "u s treasury yields ease dollar stable": 1789987083,
   "fed s goolsbee strong demand may be adding to us inflation no ambiguity how fed would reac": 1789988801,
   "fed s goolsbee says road to 2 inflation may not be painless": 1789988801,
   "spanish mountain gold announces uplift in scale and value at its b c gold project and rece": 1789990765,
@@ -253,7 +252,12 @@
   "gold slips as rising oil prices treasury yields dent appeal": 1790242748,
   "tỷ giá biến động doanh nghiệp xuất nhập khẩu nên làm gì để bảo vệ lợi nhuận": 1790244414,
   "fed s williams says more work needed to bring down us inflation": 1790244414,
-  "wildfires threaten colombian coffee belt as el niño intensifies": 1790244414
+  "wildfires threaten colombian coffee belt as el niño intensifies": 1790244414,
+  "fed again hoping for a pain free landing from current inflation spike": 1790246353,
+  "u s treasury german bund yields hit multiyear highs dollar strengthens": 1790246353,
+  "brazil s coffee exports surge as harvest advances shifting market focus toward the 2027 cr": 1790246353,
+  "gold price today price of gold per ounce 24 hour spot chart": 1790246353,
+  "dollar hovers near 2 month peak swiss franc falls norwegian crown rises": 1790246353
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -264,7 +268,7 @@
   }
  },
  "cal": {
-  "fetched": 1790233711.200703,
+  "fetched": 1790246355.8979356,
   "events": []
  }
 }
