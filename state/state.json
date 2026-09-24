@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4298.6,
  "seen": {
-  "coffee prices retreat as global supply situation improves": 1790032012,
-  "gold silver ease as stocks rally hormuz risk premium fades kitco pm report": 1790032012,
   "bản tin nông sản hôm nay 22 9 giá cà phê hồ tiêu đi ngang": 1790033817,
   "most firms keep cash from tariff refunds fed study finds": 1790033817,
   "vàng tụt giá vì triển vọng lãi suất cao hơn lâu hơn spdr gold trust bán ròng": 1790035760,
@@ -274,11 +272,13 @@
   "treasury yields rise at slower pace": 1790289417,
   "fed s paulson says more rate hikes may be needed to quash inflation": 1790289417,
   "fed s hammack warns inflation pressures remain tilted to upside": 1790291197,
-  "watch oil treasury yields inflation pressure markets": 1790291197
+  "watch oil treasury yields inflation pressure markets": 1790291197,
+  "bản tin nông sản hôm nay 25 9 giá cà phê bật tăng hồ tiêu đi ngang": 1790293001,
+  "gold spot prices silver prices platinum palladium": 1790293001
  },
  "usd": {},
  "cal": {
-  "fetched": 1790280461.7292066,
+  "fetched": 1790293003.5797505,
   "events": []
  }
 }
