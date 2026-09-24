@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4342.3,
  "seen": {
-  "gold steadies as traders weigh inflation and fed path for rates": 1789962032,
-  "giá vàng trên thị trường châu á ổn định ở mức khoảng 4 375 usd mỗi ounce": 1789962032,
   "chuyện gì xảy ra với giá vàng hôm nay": 1789965635,
   "ngân hàng nhà nước hút về hơn 62 000 tỷ đồng trong tuần fed tăng lãi suất": 1789965635,
   "if fed embarks on additional rate hikes that d be a massive policy mistake economist": 1789967246,
@@ -239,7 +237,9 @@
   "bản tin nông sản hôm nay 24 9 giá cà phê giá hồ tiêu giảm mạnh": 1790219209,
   "vì sao tổng thống trump liên tục đòi fed hạ lãi suất xuống 1": 1790221158,
   "các quan chức fed tiếp tục kêu gọi tăng lãi suất": 1790221158,
-  "gold muted as oil treasury yields resume climb": 1790221158
+  "gold muted as oil treasury yields resume climb": 1790221158,
+  "các quỹ etf toàn cầu âm thầm gom gần 200 tấn vàng từ đầu tháng 7 chuyện gì đang xảy ra": 1790222808,
+  "gold holds drop as higher oil and hot us data fan rate hike bets": 1790222808
  },
  "usd": {
   "2026-09-16T14:00:00-04:00": {
@@ -250,7 +250,7 @@
   }
  },
  "cal": {
-  "fetched": 1790210998.2911818,
+  "fetched": 1790222809.8810234,
   "events": []
  }
 }
