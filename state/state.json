@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "dow falls 500 points as the federal reserve raises key interest rate": 1790114777,
-  "fed s barkin says economy may be firming inflation not limited to energy tariff shocks": 1790114777,
   "coffee prices fall as global supplies grow": 1790116610,
   "canadian dollar hits nearly seven week low on wider yield spreads": 1790122152,
   "giá vàng hồi phục dù áp lực giảm còn lớn": 1790124076,
@@ -278,7 +276,7 @@
  },
  "usd": {},
  "cal": {
-  "fetched": 1790361611.2703683,
+  "fetched": 1790373988.9606998,
   "events": []
  }
 }
