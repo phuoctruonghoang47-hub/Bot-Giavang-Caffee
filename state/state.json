@@ -16,13 +16,6 @@
  },
  "alert_ref_gold": 4298.6,
  "seen": {
-  "gold falls as u s treasury yields crude rise": 1790064439,
-  "giá vàng miếng giảm hơn một triệu đồng": 1790064439,
-  "dollar stays firm on prospect of further u s rate hikes": 1790064439,
-  "fed rate increase puts borrowers on notice as warsh takes hard line on inflation the 10 po": 1790066394,
-  "giá vàng giảm liên tiếp đang thấp nhất 1 tuần qua": 1790066394,
-  "giá vàng chịu sức ép khi nhiều ngân hàng trung ương lớn bước vào chu kỳ thắt chặt": 1790066394,
-  "gold falls as higher for longer rate outlook weighs": 1790066394,
   "china spends record amount importing over 1 000 tonnes of gold this year": 1790068034,
   "dollar briefly rises to 7 week high as oil prices swing": 1790069858,
   "gold silver post weekly gains despite fed rate increase": 1790069858,
@@ -283,11 +276,13 @@
   "khai lấy trót lọt 44 lượng vàng nhưng sjc kiểm kho lại thấy không mất": 1790320071,
   "sơn la tổ chức hội nghị kết nối giao thương cà phê arabica 2026": 1790320071,
   "u s treasury yields rise but stay shy of thursday s long term highs": 1790321953,
-  "một doanh nghiệp tăng giá vàng miếng sjc trong phiên sáng": 1790323634
+  "một doanh nghiệp tăng giá vàng miếng sjc trong phiên sáng": 1790323634,
+  "u s treasury yields tick higher as global bond rout slows": 1790325619,
+  "commentary dollar rally tells trump treasury that the house is losing": 1790325619
  },
  "usd": {},
  "cal": {
-  "fetched": 1790314748.5155365,
+  "fetched": 1790325620.83026,
   "events": []
  }
 }
