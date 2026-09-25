@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "audio gold the shop that really listens to london s audiophiles": 1790091454,
   "ample global coffee supplies weigh on prices": 1790093234,
   "china s gold imports approach 1 200 tonnes in 2026 as local premiums and strong yuan drive": 1790093234,
   "dollar choppy as investors weigh oil drop against fed rate path": 1790093234,
@@ -278,11 +277,12 @@
   "gold price hits low of 4 254 oz after final consumer sentiment rises to 48 1 inflation exp": 1790347216,
   "treasury yields rise again to end a volatile week": 1790347216,
   "mounting rate hike bets keep weekly loss in sight for gold": 1790347216,
-  "gold a token gesture at 20 000": 1790348851
+  "gold a token gesture at 20 000": 1790348851,
+  "giá cà phê đồng loạt tăng": 1790350687
  },
  "usd": {},
  "cal": {
-  "fetched": 1790338128.4931865,
+  "fetched": 1790350689.4749398,
   "events": []
  }
 }
