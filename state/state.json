@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4298.6,
  "seen": {
-  "daily:🥇 Vàng:2026-09-22": 1790042829,
-  "treasury yields change little despite falling oil prices": 1790042829,
   "gold muted as higher for longer rate outlook weighs": 1790044707,
   "tỷ giá và lãi suất cuối năm 2026 sức ép từ bên ngoài và lá chắn từ nội lực": 1790048341,
   "giá vàng chịu sức ép trước khả năng fed tiếp tục nâng lãi suất": 1790048341,
@@ -278,11 +276,13 @@
   "giá usd hôm nay 25 9 2026 đô la mỹ eur bảng anh đồng loạt giảm": 1790301985,
   "asian currencies consolidate as treasury yields hit new highs": 1790301985,
   "gold tilts lower as iran impasse continues to fan rate hike bets": 1790301985,
-  "the magnificent seven is bucking the market trend why the jump in treasury yields may be h": 1790301985
+  "the magnificent seven is bucking the market trend why the jump in treasury yields may be h": 1790301985,
+  "gold heads for weekly loss as stronger dollar fed rate outlook weighs": 1790303867,
+  "precious metals prices canada gold silver platinum palladium rhodium in cad": 1790303867
  },
  "usd": {},
  "cal": {
-  "fetched": 1790293003.5797505,
+  "fetched": 1790303869.4416518,
   "events": []
  }
 }
