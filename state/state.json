@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "hassett blasts fed officials calling for hikes in recent days": 1790197627,
-  "dollar jumps to near two month high on fed outlook inflation concern": 1790197627,
   "treasury yields resume their rise": 1790199437,
   "markets are rapidly coming around to the reality that the fed has a lot more work to do": 1790199437,
   "gold breaks 4 300 as fed hike odds jump after pmi kitco pm report": 1790201229,
@@ -233,11 +231,12 @@
   "gamco global gold natural resources income trust 5 cum pfd series b": 1790453192,
   "west red lake gold mines ltd uj0 han profile": 1790456794,
   "gau galiano gold inc sec filings": 1790456794,
-  "azasf arizona gold silver inc profile": 1790456794
+  "azasf arizona gold silver inc profile": 1790456794,
+  "dust direxion daily gold miners index bear 2x etf sec filings": 1790458615
  },
  "usd": {},
  "cal": {
-  "fetched": 1790446070.6859853,
+  "fetched": 1790458617.1116798,
   "events": []
  }
 }
