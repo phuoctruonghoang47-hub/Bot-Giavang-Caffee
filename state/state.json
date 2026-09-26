@@ -16,15 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "fed s collins warns inflation could be notably higher after backing rate hike": 1790149149,
-  "coffee prices today september 23 continuing the price slippage": 1790149149,
-  "treasury yields edge lower as brent crude falls below 99": 1790149149,
-  "dollar outlook hinges on fed communication": 1790149149,
-  "gold silver futures settle higher": 1790149149,
-  "rupee edges lower as dollar firms on fed hike wagers": 1790149149,
-  "fed s perli treasury bill purchases depend on market conditions": 1790149149,
-  "một doanh nghiệp niêm yết giá vàng nhẫn 9999 thấp hơn sjc tới 8 5 triệu đồng lượng": 1790150831,
-  "dollar jumps on u s rate rise bets": 1790150831,
   "lone star said to weigh options for coffee machine firm evoca": 1790152786,
   "treasury yields at multi year highs ahead of expected fed hike": 1790152786,
   "gold pressured by interest rate outlook": 1790152786,
@@ -269,11 +260,13 @@
   "nông sản hôm nay 26 9 giá cà phê cacao đồng loạt bật tăng": 1790401025,
   "treasury yields at multi year highs ahead of pce payrolls": 1790406388,
   "white gold corp whgof stock price today the wall street journal": 1790408214,
-  "freeman gold corp fmanf stock price today the wall street journal": 1790408214
+  "freeman gold corp fmanf stock price today the wall street journal": 1790408214,
+  "rise gold corp ryes stock price today the wall street journal": 1790410075,
+  "centerra gold inc cgau stock price today the wall street journal": 1790410075
  },
  "usd": {},
  "cal": {
-  "fetched": 1790397524.9592967,
+  "fetched": 1790410077.531998,
   "events": []
  }
 }
