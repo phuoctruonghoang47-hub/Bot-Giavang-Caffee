@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "analysis higher treasury yields deliver a reality check on a hot inflation prone economy": 1790267954,
   "canadian dollar hits two month low as retail sales post monthly decline": 1790269584,
   "fed s paulson says modest further rate increases may be needed": 1790269584,
   "here s why the debasement trade is boosting bitcoin price more than gold price stonex s ci": 1790269584,
@@ -192,7 +191,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790516657.211184,
+  "fetched": 1790528768.8524418,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
