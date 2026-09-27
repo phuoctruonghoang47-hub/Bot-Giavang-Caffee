@@ -16,13 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "u s jobless claims slid further last week": 1790255288,
-  "us weekly jobless claims decrease as labor market regains footing": 1790255288,
-  "xi arrives in d c treasury yields hit multiyear highs mcdonald s growth plan and more in m": 1790255288,
-  "arabica coffee hovers around 3 month lows": 1790255288,
-  "watch us economy jobless claims hover close to historic lows at 197 000": 1790255288,
-  "us jobless claims slip to 197 000 remain historically low": 1790257220,
-  "prep for the next fed rate increase by boosting your credit score with these tools": 1790257220,
   "gold price dips to 4 268 oz as u s new home sales rise 6 4 in august": 1790262470,
   "philadelphia fed s anna paulson says modest rate moves likely ahead to tame inflation": 1790262470,
   "gold under pressure as jobless claims remain below 200k supporting further rate hikes": 1790262470,
@@ -207,7 +200,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790505468.511975,
+  "fetched": 1790516657.211184,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
