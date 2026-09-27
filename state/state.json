@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "coffee prices today september 24th sharp increase reaching 93 000 vnd kg": 1790232162,
-  "us treasury yields soar": 1790232162,
-  "gold muted on fed policy tightening bets decline in oil": 1790232162,
   "canadian dollar hits eight week low as investors brace for domestic slowdown": 1790233709,
   "treasury yields continue to rise after 10 year hit 19 year high as investors ramp up rate ": 1790235522,
   "bond selloff deepens as fed rate hike bets build markets wrap": 1790235522,
@@ -221,9 +218,53 @@
   "lần gần nhất điều này xảy ra vàng đảo chiều tăng 30 bạc tăng 50": 1790482005,
   "vietnam s golfing gold rush": 1790483993
  },
- "usd": {},
+ "usd": {
+  "2026-09-30T08:30:00-04:00": {},
+  "2026-10-02T08:30:00-04:00": {}
+ },
  "cal": {
-  "fetched": 1790482007.264537,
-  "events": []
+  "fetched": 1790492819.71849,
+  "events": [
+   {
+    "title": "Core PCE Price Index m/m",
+    "country": "USD",
+    "date": "2026-09-30T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.3%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "Final GDP q/q",
+    "country": "USD",
+    "date": "2026-09-30T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "1.5%",
+    "previous": "1.5%"
+   },
+   {
+    "title": "Average Hourly Earnings m/m",
+    "country": "USD",
+    "date": "2026-10-02T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.3%",
+    "previous": "0.3%"
+   },
+   {
+    "title": "Non-Farm Employment Change",
+    "country": "USD",
+    "date": "2026-10-02T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "98K",
+    "previous": "162K"
+   },
+   {
+    "title": "Unemployment Rate",
+    "country": "USD",
+    "date": "2026-10-02T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "4.1%",
+    "previous": "4.1%"
+   }
+  ]
  }
 }
