@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4343.9,
  "seen": {
-  "tỷ giá biến động doanh nghiệp xuất nhập khẩu nên làm gì để bảo vệ lợi nhuận": 1790244414,
-  "fed s williams says more work needed to bring down us inflation": 1790244414,
-  "wildfires threaten colombian coffee belt as el niño intensifies": 1790244414,
   "fed again hoping for a pain free landing from current inflation spike": 1790246353,
   "u s treasury german bund yields hit multiyear highs dollar strengthens": 1790246353,
   "brazil s coffee exports surge as harvest advances shifting market focus toward the 2027 cr": 1790246353,
@@ -207,14 +204,17 @@
   "vietnam s golfing gold rush": 1790483993,
   "agricultural products today september 27 coffee prices stagnate after week of fluctuations": 1790494674,
   "nông sản hôm nay 27 9 giá cà phê bất động sau tuần trồi sụt": 1790494674,
-  "wsj dollar index falls 0 10 to 96 07": 1790499990
+  "wsj dollar index falls 0 10 to 96 07": 1790499990,
+  "giá bitcoin tăng vọt bất chấp fed tăng lãi suất": 1790505466,
+  "making sense of sky high treasury yields": 1790505466,
+  "making sense of sky high treasury yields wsj s take on the week wsj podcasts": 1790505466
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790492819.71849,
+  "fetched": 1790505468.511975,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
