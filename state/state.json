@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4196.9,
  "seen": {
-  "dollar eases but remains elevated on fed rate rise bets": 1790329177,
-  "rupiah heads for biggest weekly fall since may on higher us yields firm dollar": 1790329177,
   "gold on track for weekly loss as fed rate hike expectations build": 1790330817,
   "us fed plans to raise bank oversight thresholds sources say": 1790332771,
   "wall st week ahead jobs report inflation data to test us rate path economic strength": 1790332771,
@@ -180,14 +178,18 @@
   "u s treasury yields edge higher amid pressure on global government bonds": 1790586540,
   "giá vàng tiếp tục giảm sjc giao dịch ở ngưỡng 142 4 triệu đồng": 1790586540,
   "gold futures down 3 on fed rate hike bets": 1790586540,
-  "general motors warns on us market as carmakers seek safe haven from chinese rivals": 1790586540
+  "general motors warns on us market as carmakers seek safe haven from chinese rivals": 1790586540,
+  "đà giảm của giá vàng trong nước chỉ bằng 30 so với vàng thế giới": 1790588472,
+  "treasury yields rise amid u s iran stalemate german 10 year bund yield hits highest since ": 1790588472,
+  "gold hits 7 week low as oil driven inflation fears boost rate hike bets": 1790588472,
+  "dollar steadies near two month high as us iran stalemate lifts oil fed rate hike bets buil": 1790588472
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790575782.6089303,
+  "fetched": 1790588474.232664,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
