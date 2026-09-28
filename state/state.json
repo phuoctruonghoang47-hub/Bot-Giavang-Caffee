@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4150.3,
  "seen": {
-  "gold futures settle higher as dollar slips": 1790377586,
-  "watch markets rise as ai oil treasury yields drive the week": 1790377586,
   "gold is throwing out the old rulebook": 1790379393,
   "fed s hammack says yields reflect growth us debt and rate path": 1790381346,
   "is gold s cup half empty or half full": 1790384742,
@@ -211,7 +209,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790624412.3716424,
+  "fetched": 1790636810.2261271,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
@@ -242,7 +240,7 @@
     "country": "USD",
     "date": "2026-10-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "89K",
+    "forecast": "90K",
     "previous": "162K"
    },
    {
