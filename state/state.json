@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4150.3,
  "seen": {
-  "week ahead for fx bonds u s jobs data in focus as another fed rate hike looks possible": 1790352455,
   "fed s schmid need to understand if ai ecosystem getting too big to fail": 1790354457,
   "fed s barr says more rate hikes likely needed to return inflation to target": 1790354457,
   "dollar s best rally since march is set to last as fortunes shift": 1790355971,
@@ -188,14 +187,17 @@
   "kganyago sees significant 2027 slowdown in south african cpi": 1790606512,
   "an inversion of the us yield curve becomes new risk as fed hikes": 1790606512,
   "gold hits seven week low as oil surge fuels rate hike bets": 1790606512,
-  "china on pace to import 1 700 tonnes of gold in 2026 silver price faces key test near 60 o": 1790608211
+  "china on pace to import 1 700 tonnes of gold in 2026 silver price faces key test near 60 o": 1790608211,
+  "dry weather forecasts for brazil boost coffee prices": 1790611734,
+  "fed s watchdog warns of classified file breach by former staffer": 1790611734,
+  "arabica coffee futures hit 2 week high": 1790611734
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790599553.6418357,
+  "fetched": 1790611736.4405837,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
@@ -226,7 +228,7 @@
     "country": "USD",
     "date": "2026-10-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "98K",
+    "forecast": "89K",
     "previous": "162K"
    },
    {
