@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4247.0,
  "seen": {
-  "gold heads for weekly loss as stronger dollar fed rate outlook weighs": 1790303867,
-  "precious metals prices canada gold silver platinum palladium rhodium in cad": 1790303867,
   "xung đột lợi ích trong kinh doanh kim cương pnj thoái sạch vốn người bạn vàng từ khi nào": 1790305604,
   "gold falls but remains above a line in the sand for a swift recovery": 1790305604,
   "không ngậm thìa vàng nhưng sống như công chúa trong phòng trọ 7 triệu tháng cô gái sn 1999": 1790307540,
@@ -165,14 +163,16 @@
   "gold drops more than 1 on us rate hike bets": 1790561201,
   "dollar firms as us iran tensions lift oil hawkish fed bets build": 1790561201,
   "giá vàng giảm hơn 2 trong tuần chịu sức ép từ căng thẳng hormuz": 1790561201,
-  "pantoro gold ltd rkn han forecasts": 1790561201
+  "pantoro gold ltd rkn han forecasts": 1790561201,
+  "gold drops more than 1 on u s rate hike bets": 1790563229,
+  "dollar firms as u s iran tensions lift oil hawkish fed bets build": 1790563229
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790552209.3637214,
+  "fetched": 1790563231.5417776,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
