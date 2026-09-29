@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4150.3,
  "seen": {
-  "giá vàng hướng tới đợt giảm mới": 1790411930,
-  "galleon gold corp ggoxf stock price today the wall street journal": 1790411930,
   "great pacific gold corp gpgcf stock price today the wall street journal": 1790417212,
   "robusta coffee 10 t may 28 futures price history": 1790419040,
   "download xkgs data reksa dana syariah kim gold etf price data": 1790419040,
@@ -224,14 +222,17 @@
   "treasury yields move lower as inflation concerns persist": 1790669370,
   "gold ticks higher but remains below 4 200 on fed rate hike bets": 1790669370,
   "treasury yields trade close to multidecade highs": 1790669370,
-  "gold trending news latest updates analysis": 1790669370
+  "gold trending news latest updates analysis": 1790669370,
+  "treasury yields ease as inflation concerns persist": 1790671294,
+  "dollar gains as oil prices rise on middle east concerns": 1790671294,
+  "u s treasury yields edge higher hover near recent highs": 1790671294
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790660409.6735344,
+  "fetched": 1790671296.1325493,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
