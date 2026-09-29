@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4150.3,
  "seen": {
-  "người mua vàng từ đầu năm lỗ hay lãi": 1790390256,
   "bản tin nông sản hôm nay 26 9 giá cà phê quay đầu giảm nhẹ giá hồ tiêu đi ngang": 1790391973,
   "fed s hammack worried inflation expectations could deteriorate": 1790393917,
   "động thái lạ của quỹ etf vàng lớn nhất thế giới": 1790397523,
@@ -209,14 +208,15 @@
   "dollar hold near two month peak as yields rise fed data looms": 1790647591,
   "tag gold correction": 1790647591,
   "tag gold daily chart analysis": 1790647591,
-  "tag gold price technical analysis": 1790647591
+  "tag gold price technical analysis": 1790647591,
+  "gold trades near seven week low as rate hike pressure mounts": 1790649539
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790636810.2261271,
+  "fetched": 1790649541.1890967,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
