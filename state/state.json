@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "daily:☕ Cà phê:2026-09-27": 1790448038,
   "loạt tổ chức phố wall liên tiếp hạ dự báo giá vàng điều gì đang diễn ra": 1790449568,
   "thesis gold and silver inc zu7 han summary": 1790453192,
   "gamco global gold natural resources income trust 5 cum pfd series b": 1790453192,
@@ -247,14 +246,20 @@
   "tag gold buy zone": 1790705389,
   "tag gold price correction": 1790705389,
   "tag treasury yields and gold": 1790705389,
-  "fed s barr says more hikes likely needed as growth picks up": 1790705389
+  "fed s barr says more hikes likely needed as growth picks up": 1790705389,
+  "watch musalem clear framework helps fed policy transmission": 1790707396,
+  "coffee prices supported by dry weather in brazil": 1790707396,
+  "fed s williams hints next rate increase can wait": 1790707396,
+  "tag gold and rising interest rates": 1790707396,
+  "tag inverse head and shoulders gold miners": 1790707396,
+  "fed s barr surge of investment and related demand from ai buildout is having measurable ef": 1790707396
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790694626.6406665,
+  "fetched": 1790707398.6378753,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
