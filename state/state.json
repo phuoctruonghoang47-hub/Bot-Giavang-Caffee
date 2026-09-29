@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4150.3,
  "seen": {
-  "bản tin nông sản hôm nay 26 9 giá cà phê quay đầu giảm nhẹ giá hồ tiêu đi ngang": 1790391973,
   "fed s hammack worried inflation expectations could deteriorate": 1790393917,
   "động thái lạ của quỹ etf vàng lớn nhất thế giới": 1790397523,
   "wsj dollar index rises 0 63 this week to 96 70": 1790399190,
@@ -209,7 +208,9 @@
   "tag gold correction": 1790647591,
   "tag gold daily chart analysis": 1790647591,
   "tag gold price technical analysis": 1790647591,
-  "gold trades near seven week low as rate hike pressure mounts": 1790649539
+  "gold trades near seven week low as rate hike pressure mounts": 1790649539,
+  "dollar holds near two month peak as yields rise fed data looms": 1790651253,
+  "wsj dollar index rises 0 15 to 96 85": 1790651253
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
