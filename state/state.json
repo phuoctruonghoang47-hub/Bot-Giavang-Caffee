@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "vietnam s golfing gold rush": 1790483993,
   "agricultural products today september 27 coffee prices stagnate after week of fluctuations": 1790494674,
   "nông sản hôm nay 27 9 giá cà phê bất động sau tuần trồi sụt": 1790494674,
   "wsj dollar index falls 0 10 to 96 07": 1790499990,
@@ -274,14 +273,15 @@
   "cash gold market booms in india as high prices and taxes bite": 1790737682,
   "từ 30 9 pnj thay đổi chính sách mua lại vàng rút ngắn thời gian nhận 100 tiền bán xuống cò": 1790739693,
   "dollar jumps to 8 week high on fed rate hike bets": 1790741302,
-  "singapore dollar consolidates ahead of major u s economic data": 1790741302
+  "singapore dollar consolidates ahead of major u s economic data": 1790741302,
+  "lower fed hike odds oil dip lend rbi hand in supporting rupee": 1790743270
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790730530.891682,
+  "fetched": 1790743272.0851474,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
