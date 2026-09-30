@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "watch inflation keeps pressure on the fed": 1790518000,
-  "rubenstein on the billion dollar sports boom": 1790518000,
   "bessent urges fed to keep open mind on us inflation outlook": 1790527139,
   "các chuyên gia thận trọng với giá vàng tuần này": 1790530627,
   "daily:☕ Cà phê:2026-09-28": 1790532473,
@@ -293,7 +291,10 @@
   "10 year treasury yield retreats from 2007 high after pce data shows inflation slowed in au": 1790773853,
   "signs of stagflation will push the fed to react more aggressively fedwatch advisors": 1790773853,
   "us inflation rises less than expected in august consumer spending surges": 1790775625,
-  "gold faces new headwinds as adp reports strong private sector job growth": 1790775625
+  "gold faces new headwinds as adp reports strong private sector job growth": 1790775625,
+  "surge in bond yields is spilling over to the dollar": 1790777477,
+  "gold price rockets to session highs as us economy rises 2 2 in q2 pce inflation rises 0 2 ": 1790777477,
+  "gold rises after cooler inflation data but monthly decline looms": 1790777477
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -303,7 +304,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790766472.2116654,
+  "fetched": 1790777479.1278162,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
