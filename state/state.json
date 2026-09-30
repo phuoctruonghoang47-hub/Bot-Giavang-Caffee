@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "will us jobs data add to pressure on fed policymakers": 1790507219,
   "sierra madre gold and silver ltd 409 han summary": 1790509075,
   "first mining gold corp fmg han interactive chart": 1790509075,
   "gold futures slip as u s dollar gains": 1790514353,
@@ -289,11 +288,13 @@
   "inside man how chinese spies used lies love and betrayal to target the federal reserve": 1790764865
  },
  "usd": {
-  "2026-09-30T08:30:00-04:00": {},
+  "2026-09-30T08:30:00-04:00": {
+   "pre": 1790766472
+  },
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790754075.5021565,
+  "fetched": 1790766472.2116654,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
