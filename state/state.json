@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "agricultural products today september 27 coffee prices stagnate after week of fluctuations": 1790494674,
-  "nông sản hôm nay 27 9 giá cà phê bất động sau tuần trồi sụt": 1790494674,
   "wsj dollar index falls 0 10 to 96 07": 1790499990,
   "giá bitcoin tăng vọt bất chấp fed tăng lãi suất": 1790505466,
   "making sense of sky high treasury yields": 1790505466,
@@ -281,14 +279,16 @@
   "dollar set for large rise in september mainly at euro s expense": 1790746823,
   "gold steady markets await u s economic data": 1790746823,
   "dollar set for big rise in september mainly at euro s expense": 1790750726,
-  "u s treasury yields fall as fed speak calms rate hike expectations": 1790752175
+  "u s treasury yields fall as fed speak calms rate hike expectations": 1790752175,
+  "pnj sẽ thanh toán 100 tiền cho khách bán vàng miếng sjc vàng nhẫn trong 2 ngày": 1790754073,
+  "nông sản hôm nay 30 9 giá cà phê quay đầu giảm cacao dự kiến tăng nhẹ": 1790754073
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {},
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790743272.0851474,
+  "fetched": 1790754075.5021565,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
