@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "freeman gold corp 3wu han profile": 1790541466,
   "patagonia gold corp 0n9 han profile": 1790543208,
   "northisle copper and gold inc 0n4 han profile": 1790548720,
   "torex gold resources inc 73gn han summary": 1790548720,
@@ -321,7 +320,9 @@
   "arabica pulls back as brazil supply outlook weighs on futures": 1790797119,
   "10 year treasury yield are higher as traders look past inflation data await jobs report": 1790797119,
   "gold falls despite cooler inflation data monthly loss in sight": 1790797119,
-  "gold price will break 5 000 oz in h2 2027 and silver s run to 120 was driven by more than ": 1790798890
+  "gold price will break 5 000 oz in h2 2027 and silver s run to 120 was driven by more than ": 1790798890,
+  "gold is setting up for one of its best decades as fiat currencies face mounting pressure w": 1790800780,
+  "us dollar flat against peers after softer than expected inflation data": 1790800780
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -331,7 +332,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790789981.071892,
+  "fetched": 1790800781.9544542,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
