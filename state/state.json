@@ -16,11 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "dry weather forecasts for brazil boost coffee prices": 1790611734,
-  "fed s watchdog warns of classified file breach by former staffer": 1790611734,
-  "arabica coffee futures hit 2 week high": 1790611734,
-  "tag vista gold": 1790613604,
-  "watch gold slumps as markets price more fed hikes": 1790613604,
   "tag shandong gold mining": 1790615267,
   "gold and silver prices are struggling now but a much higher long term base is building bmo": 1790615267,
   "nên làm gì khi giá vàng giảm": 1790615267,
@@ -311,7 +306,12 @@
   "the fed s building renovations and trump s push to oust powell": 1790867323,
   "wall street dips as surging treasury yields outweigh software gains": 1790869295,
   "gold holds steady as traders weigh higher bond yields oil": 1790869295,
-  "gold price at 4 158 oz after ism manufacturing pmi dips to 54 5 prices shoot higher": 1790870885
+  "gold price at 4 158 oz after ism manufacturing pmi dips to 54 5 prices shoot higher": 1790870885,
+  "dollar strength spurs long liquidation in coffee futures": 1790872811,
+  "gold wavers as traders weigh higher bond yields oil at 100": 1790872811,
+  "bank of korea plans gold purchase from domestic producers in december": 1790872811,
+  "gold silver rise as jobless claims temper pce driven fed repricing kitco am report": 1790872811,
+  "the fed right now is a follower they are not a leader of the yield curve says peter boockv": 1790872811
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -321,7 +321,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790860247.5328555,
+  "fetched": 1790872813.487839,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
