@@ -327,7 +327,8 @@
   "10 year treasury yield is higher as traders look past inflation data await jobs report": 1790808022,
   "treasury yields reach new highs in volatile quarter": 1790809575,
   "u s dollar retreats after softer than expected inflation data": 1790809575,
-  "fed s cook inflation has been too high for too long": 1790811497
+  "fed s cook inflation has been too high for too long": 1790811497,
+  "bloomberg businessweek daily pce curbs fed bets": 1790813426
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -337,7 +338,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790800781.9544542,
+  "fetched": 1790813428.402263,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
