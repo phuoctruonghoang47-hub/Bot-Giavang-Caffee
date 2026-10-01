@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "gold futures settle lower with as u s yields rise": 1790600904,
-  "ông trump bác đề xuất mở lại eo biển hormuz giá vàng giảm về sát 4 100 usd ounce": 1790600904,
-  "gold price canada today live gold price in cad": 1790600904,
   "the price of gold today sept 28 2026 and the best places to buy": 1790602930,
   "gold swot ramelius resources raised its fy27 30 production outlook by approximately 5": 1790606512,
   "precious metals prices canada gold silver platinum palladium rhodium in cad": 1790606512,
@@ -304,7 +301,11 @@
   "keurig dr pepper names kimberly clark executive as new ceo of coffee unit": 1790856671,
   "us weekly jobless claims fall layoffs drop in september": 1790858820,
   "dollar extends gains after data show fall in u s job cuts": 1790858820,
-  "gold gains as cooler us inflation data counters higher treasury yields": 1790858820
+  "gold gains as cooler us inflation data counters higher treasury yields": 1790858820,
+  "u s jobless claims fall for the fourth straight week": 1790860245,
+  "jobless claims edge lower as layoff plans hit lowest in four years": 1790860245,
+  "us initial jobless claims slip to 197 000 lowest since july": 1790860245,
+  "view bond markets take a drubbing again 10 year treasury yields highest since 2002": 1790860245
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -314,7 +315,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790849367.0093133,
+  "fetched": 1790860247.5328555,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
