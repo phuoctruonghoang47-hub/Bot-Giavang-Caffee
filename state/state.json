@@ -16,11 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "treasury yields ease as inflation concerns persist": 1790671294,
-  "dollar gains as oil prices rise on middle east concerns": 1790671294,
-  "u s treasury yields edge higher hover near recent highs": 1790671294,
-  "giá vàng lập đáy mới sau 1 tháng": 1790672921,
-  "dollar keeps climbing as oil us yields stay high jobs data looms": 1790672921,
   "gold ticks up after hitting over 7 week low us data in focus": 1790676472,
   "gold spot prices silver prices platinum palladium": 1790678494,
   "giá mua bán vàng miếng sjc liên tục tăng giảm thất thường": 1790681977,
@@ -310,7 +305,8 @@
   "dollar at 17 month high as bond rout french fiscal worries weigh on euro": 1790923585,
   "how a sanctioned conflict gold trader s network continues to thrive": 1790928539,
   "gold edges higher as markets dial back expectations for fed hike": 1790930428,
-  "treasury yields inch higher as investors await key jobs report": 1790930428
+  "treasury yields inch higher as investors await key jobs report": 1790930428,
+  "dollar eases ahead of key u s payrolls data": 1790932125
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -320,7 +316,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790919633.1859958,
+  "fetched": 1790932127.2427793,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
