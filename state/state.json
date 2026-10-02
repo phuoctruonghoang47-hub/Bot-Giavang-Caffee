@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "oil price and us treasury yields in tightest relationship since 1990": 1790658468,
-  "giá vàng lao dốc quỹ lớn nhất thế giới mạnh tay gom hàng tấn vàng": 1790658468,
-  "wsj dollar index rises 0 63 this week to 96 70": 1790660407,
   "vì sao giá vàng bốc hơi hơn 100 usd ounce": 1790662172,
   "euro s dollar resilience faces energy price political risk tests": 1790662172,
   "nông sản hôm nay 29 9 giá cà phê nâng giá chạm mốc 94 000 đồng kg": 1790662172,
@@ -319,7 +316,10 @@
   "foreign bid highlights australia s battle to forge a gold champion": 1790914048,
   "gold slips before u s payrolls data set for second weekly loss": 1790914048,
   "washington will inflate away its 40 trillion debt and gold is how you fight back jim ricka": 1790914048,
-  "gold steadies as easing us bond yields reduce rate hike bets": 1790917617
+  "gold steadies as easing us bond yields reduce rate hike bets": 1790917617,
+  "nông sản hôm nay 2 10 giá cà phê tăng giảm chóng mặt": 1790919631,
+  "giá vàng trong nước tiếp tục đi xuống tỷ giá trung tâm tăng 12 đồng": 1790919631,
+  "gold steadies before us payrolls data set for second weekly loss": 1790919631
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -329,7 +329,7 @@
   "2026-10-02T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1790908800.7220595,
+  "fetched": 1790919633.1859958,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
