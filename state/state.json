@@ -16,10 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "fed s bowman touts ai benefits risks for bank cybersecurity": 1790719623,
-  "long term treasury yields push higher despite decline in oil prices": 1790721539,
-  "treasury yields push to fresh highs": 1790721539,
-  "gold silver rebound as soft data cools october fed hike bets kitco pm report": 1790721539,
   "giá vàng usd lãi suất cùng hạ": 1790725029,
   "tag gold 4 000 to 3 900 support": 1790725029,
   "canadian dollar steadies near 12 week low as gdp data meets expectations": 1790727005,
@@ -332,7 +328,10 @@
   "watch former labor secretary rob reich on sept jobs report": 1790977243,
   "wall street on the brink of bearish majority after gold s post payrolls slide main street ": 1790978787,
   "gold bulls disappointed as weak jobs report fails to spark rally 4 000 support looms": 1790978787,
-  "week ahead for fx bonds fed minutes in focus as near term rate hike prospects dim": 1790978787
+  "week ahead for fx bonds fed minutes in focus as near term rate hike prospects dim": 1790978787,
+  "us justice department will not reopen criminal probe of fed s jay powell": 1790980808,
+  "asian gold demand improves as price pullback draws buyers": 1790980808,
+  "watch former cea chair on jobs report gdp growth": 1790980808
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -345,7 +344,7 @@
   }
  },
  "cal": {
-  "fetched": 1790968128.0317118,
+  "fetched": 1790980810.267161,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
