@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4204.4,
  "seen": {
-  "dollar rises to 2 month high on growing prospect of october u s rate rise": 1790683775,
-  "gold silver gains likely limited by fed in inflation fighting mode": 1790685960,
-  "rethinking the dollar": 1790685960,
   "gold holds above 4 150 as traders await jolts pce and payrolls kitco am report": 1790687419,
   "treasury yields hover around recent highs as selloff halts": 1790692900,
   "banxico can chart rate path independently of fed governor says": 1790692900,
@@ -315,8 +312,14 @@
   "người đàn ông nói bán vàng gia truyền mua iphone mới tặng vợ bài đăng của tỷ phú ấn độ gây": 1790939230,
   "treasury yields hold flat as investors await key jobs report": 1790941263,
   "hút vốn quốc tế vào trái phiếu giải bài toán nâng hạng tín nhiệm và rủi ro tỷ giá": 1790941263,
-  "china s coffee boom emerges as a key demand story amid growing global supplies": 1790942950,
-  "watch odd lots why are global bond and us treasury yields rising": 1790942950
+  "us payrolls miss forecast flydubai pilots taken to uae more": 1790945763,
+  "view soft september jobs report sends markets higher": 1790945763,
+  "gold prices see sold bid as u s economy created 29k jobs in september": 1790945763,
+  "snapshot wall st futures extend gains after non farm payrolls data": 1790945763,
+  "u s nonfarm payrolls increase by 29 000 in september less than expected unemployment rises": 1790945763,
+  "gold falls to seven week low as rate hike bets rise": 1790945763,
+  "arabica coffee futures at near 1 month high": 1790945763,
+  "watch odd lots why are global bond and us treasury yields rising": 1790945763
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -325,11 +328,11 @@
   },
   "2026-10-02T08:30:00-04:00": {
    "pre": 1790939231,
-   "done": 1790945733
+   "done": 1790945766
   }
  },
  "cal": {
-  "fetched": 1790942952.0444047,
+  "fetched": 1790945765.723416,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
