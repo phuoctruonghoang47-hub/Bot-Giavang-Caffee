@@ -16,11 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "tag is gold a buy now": 1790708897,
-  "tag gold mining stocks outlook": 1790708897,
-  "tag when to buy gold mining stocks": 1790708897,
-  "tag inflation and gold investing": 1790708897,
-  "gold rises after hitting seven week low fed hike bets curb gains": 1790708897,
   "natixis sees gold price falling to 4 100 by year end but three scenarios remain in play": 1790710777,
   "the fed s main inflation measure will be released wednesday here s what to expect": 1790710777,
   "fed s williams sees one more interest rate hike in late 2026": 1790710777,
@@ -329,7 +324,12 @@
   "gold climbs on u s jobs report miss": 1790964566,
   "gold heads for weekly drop as strong dollar elevated treasury yields weigh": 1790964566,
   "coffee prices settle higher as dollar weakness spurs short covering": 1790966620,
-  "millions of barrels of oil from g7 down jobs report more": 1790966620
+  "millions of barrels of oil from g7 down jobs report more": 1790966620,
+  "september jobs report hiring stalls unemployment rises to 4 2": 1790968126,
+  "gold grinds on while bitcoin primes a move": 1790968126,
+  "fed may skip october but pull rate hike trigger in december": 1790968126,
+  "kpmg s diane swonk on jobs report a low pace and low hire environment": 1790968126,
+  "fed s barr surge of investment and related demand from ai buildout is having measurable ef": 1790968126
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -342,7 +342,7 @@
   }
  },
  "cal": {
-  "fetched": 1790957251.974403,
+  "fetched": 1790968128.0317118,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
