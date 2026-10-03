@@ -16,26 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "s p 500 nasdaq advance as soft inflation tempers fed rate hike bets": 1790786448,
-  "us inflation rises below expectations in august consumer spending robust": 1790786448,
-  "10 year treasury yield turns higher as traders look past inflation data await jobs report": 1790786448,
-  "fed finalizes bank stress test overhaul": 1790788089,
-  "fed watchdog finds deficiencies but no criminal wrongdoing in 2 5bn renovation project": 1790789979,
-  "fed watchdog finds renovation failures but no grounds for criminal referral": 1790789979,
-  "fed s watchdog finds no evidence of criminality in renovations": 1790791736,
-  "coffee prices rise on brazil weather risks": 1790793826,
-  "watchdog finds problems but no fed misconduct in powell era renovation project": 1790793826,
-  "us oil gas output up in q3 producers wary of price outlook dallas fed says": 1790793826,
-  "gold rises but still headed for monthly loss": 1790793826,
-  "treasury yields hit fresh highs": 1790795369,
-  "s p 500 nasdaq climb as soft inflation dampens fed rate hike expectations": 1790795369,
-  "us inflation rises below expectations in august gives the fed breathing space": 1790795369,
-  "gold price could have a shinier q4 despite 20 year highs in bond yields forex com s razaqz": 1790795369,
-  "daily:☕ Cà phê:2026-10-01": 1790797119,
-  "arabica pulls back as brazil supply outlook weighs on futures": 1790797119,
-  "10 year treasury yield are higher as traders look past inflation data await jobs report": 1790797119,
-  "gold falls despite cooler inflation data monthly loss in sight": 1790797119,
-  "gold price will break 5 000 oz in h2 2027 and silver s run to 120 was driven by more than ": 1790798890,
   "gold is setting up for one of its best decades as fiat currencies face mounting pressure w": 1790800780,
   "us dollar flat against peers after softer than expected inflation data": 1790800780,
   "pres trump calls for jerome powell to resign immediately": 1790802439,
@@ -297,7 +277,12 @@
   "bloomberg businessweek daily nfp eases fed worries": 1791028867,
   "keurig says its new compressed coffee pucks can go straight into compost": 1791044135,
   "dollar falls as soft job data roils timing of fed rate hike bets": 1791044135,
-  "colombia reports expansion of mostly illegal alluvial gold mining": 1791044135
+  "colombia reports expansion of mostly illegal alluvial gold mining": 1791044135,
+  "fed có thể không tăng lãi suất trong tháng này": 1791058221,
+  "công an xác minh cụ ông 92 tuổi mang theo 7 cây vàng sjc đi ngoài đường lúc 21h": 1791058221,
+  "latest on flydubai pilot powell case not reopened more": 1791058221,
+  "latest on flydubai pilot doj not reopening powell probe more": 1791058221,
+  "hard to think the fed can just sit and do nothing right now says fmr trump advisor joe lav": 1791058221
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -310,7 +295,7 @@
   }
  },
  "cal": {
-  "fetched": 1791044137.595171,
+  "fetched": 1791058223.1449144,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
