@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "gold ticks up yet is set for monthly loss as fed rate outlook weighs": 1790768401,
-  "wsj dollar index rises 0 11 to 96 96": 1790768401,
   "dollar surges in september leaving euro lagging": 1790770204,
   "giá cà phê bật tăng lên mức 6 365 usd tấn": 1790770204,
   "fed s preferred gauge showed core inflation at 3 0 in august much lighter than expected": 1790772497,
@@ -318,7 +316,10 @@
   "cụ ông 92 tuổi mang 7 cây vàng sjc đi lạc trong đêm ở hải phòng": 1791024789,
   "tsx pares weekly decline as investors reduce fed rate hike bets": 1791024789,
   "canadian dollar extends weekly losing streak as interest rate spreads widen": 1791024789,
-  "radius gold inc rduff stock price today the wall street journal": 1791024789
+  "radius gold inc rduff stock price today the wall street journal": 1791024789,
+  "london gold body s legal fight exposes threat to bullion market": 1791028867,
+  "fed s hammack tells pbs there s still time to weigh next monetary policy move": 1791028867,
+  "bloomberg businessweek daily nfp eases fed worries": 1791028867
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -331,7 +332,7 @@
   }
  },
  "cal": {
-  "fetched": 1791014877.0961888,
+  "fetched": 1791028869.3804493,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
