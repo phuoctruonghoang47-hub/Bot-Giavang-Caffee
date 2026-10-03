@@ -16,31 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "dollar surges in september leaving euro lagging": 1790770204,
-  "giá cà phê bật tăng lên mức 6 365 usd tấn": 1790770204,
-  "fed s preferred gauge showed core inflation at 3 0 in august much lighter than expected": 1790772497,
-  "us private payrolls growth picks up in september adp says": 1790772497,
-  "i m afraid of human stupidity why this top economist prefers u s tech and gold over bonds": 1790772497,
-  "us consumer spending rises by most in a year core pce up 0 2": 1790773853,
-  "10 year treasury yield retreats from 2007 high after pce data shows inflation slowed in au": 1790773853,
-  "signs of stagflation will push the fed to react more aggressively fedwatch advisors": 1790773853,
-  "us inflation rises less than expected in august consumer spending surges": 1790775625,
-  "gold faces new headwinds as adp reports strong private sector job growth": 1790775625,
-  "surge in bond yields is spilling over to the dollar": 1790777477,
-  "gold price rockets to session highs as us economy rises 2 2 in q2 pce inflation rises 0 2 ": 1790777477,
-  "gold rises after cooler inflation data but monthly decline looms": 1790777477,
-  "evercore s julian emanuel the fed won t hike in october but will in december": 1790779384,
-  "wall st climbs as cooling inflation tempers fed rate hike concerns": 1790779384,
-  "traders pull back on october fed hike bets after cool pce data": 1790779384,
-  "us consumer spending rises most in a year core pce up 0 2": 1790779384,
-  "us dollar retreats after softer than expected inflation data": 1790779384,
-  "u s treasury yields hit multiyear highs on economic data fed rate boost expectations": 1790781110,
-  "fed votes to overhaul stress tests in major wall street bank win": 1790781110,
-  "gold rises as softer pce cools october fed hike odds kitco am report": 1790781110,
-  "treasury yields fall on softer than expected inflation": 1790782976,
-  "fed seen on pause in october after inflation data": 1790784603,
-  "brazil weather risks boost coffee prices": 1790784603,
-  "global bond yields fall on mild u s inflation": 1790784603,
   "s p 500 nasdaq advance as soft inflation tempers fed rate hike bets": 1790786448,
   "us inflation rises below expectations in august consumer spending robust": 1790786448,
   "10 year treasury yield turns higher as traders look past inflation data await jobs report": 1790786448,
@@ -319,7 +294,10 @@
   "radius gold inc rduff stock price today the wall street journal": 1791024789,
   "london gold body s legal fight exposes threat to bullion market": 1791028867,
   "fed s hammack tells pbs there s still time to weigh next monetary policy move": 1791028867,
-  "bloomberg businessweek daily nfp eases fed worries": 1791028867
+  "bloomberg businessweek daily nfp eases fed worries": 1791028867,
+  "keurig says its new compressed coffee pucks can go straight into compost": 1791044135,
+  "dollar falls as soft job data roils timing of fed rate hike bets": 1791044135,
+  "colombia reports expansion of mostly illegal alluvial gold mining": 1791044135
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -332,7 +310,7 @@
   }
  },
  "cal": {
-  "fetched": 1791028869.3804493,
+  "fetched": 1791044137.595171,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
