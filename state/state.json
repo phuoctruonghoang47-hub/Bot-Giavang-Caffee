@@ -270,47 +270,15 @@
   }
  },
  "cal": {
-  "fetched": 1791081784.6963713,
+  "fetched": 1791110992.2982874,
   "events": [
    {
-    "title": "Core PCE Price Index m/m",
+    "title": "FOMC Meeting Minutes",
     "country": "USD",
-    "date": "2026-09-30T08:30:00-04:00",
+    "date": "2026-10-07T14:00:00-04:00",
     "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.2%"
-   },
-   {
-    "title": "Final GDP q/q",
-    "country": "USD",
-    "date": "2026-09-30T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "1.5%",
-    "previous": "1.5%"
-   },
-   {
-    "title": "Average Hourly Earnings m/m",
-    "country": "USD",
-    "date": "2026-10-02T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.3%"
-   },
-   {
-    "title": "Non-Farm Employment Change",
-    "country": "USD",
-    "date": "2026-10-02T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "89K",
-    "previous": "162K"
-   },
-   {
-    "title": "Unemployment Rate",
-    "country": "USD",
-    "date": "2026-10-02T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "4.1%",
-    "previous": "4.1%"
+    "forecast": "",
+    "previous": ""
    }
   ]
  }
