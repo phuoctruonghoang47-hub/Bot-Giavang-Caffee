@@ -16,32 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "gold is setting up for one of its best decades as fiat currencies face mounting pressure w": 1790800780,
-  "us dollar flat against peers after softer than expected inflation data": 1790800780,
-  "pres trump calls for jerome powell to resign immediately": 1790802439,
-  "watchdog finds no fed misconduct in renovation trump calls for powell s resignation": 1790804482,
-  "trump says powell should be forced to resign from fed board": 1790804482,
-  "trump says powell should resign after fed watchdog clears ex chair of misconduct": 1790804482,
-  "six years after a mining reboot egypt s gold ambitions start to take shape": 1790804482,
-  "fed s kashkari says inflation is still too high even after softer than expected pce data": 1790808022,
-  "gold is supposed to be a safe haven when inflation surges so why isn t it working that way": 1790808022,
-  "10 year treasury yield is higher as traders look past inflation data await jobs report": 1790808022,
-  "treasury yields reach new highs in volatile quarter": 1790809575,
-  "u s dollar retreats after softer than expected inflation data": 1790809575,
-  "fed s cook inflation has been too high for too long": 1790811497,
-  "bloomberg businessweek daily pce curbs fed bets": 1790813426,
-  "gold steady as softer inflation data tempers fed rate hike bets": 1790815695,
-  "bản tin nông sản hôm nay 1 10 giá hồ tiêu giá cà phê tăng giảm trái chiều": 1790815695,
-  "watch minneapolis fed president neel kashkari discuss the economy and monetary policy": 1790815695,
-  "the price of gold today sept 30 2026 and the best places to buy": 1790815695,
-  "s p 500 giảm điểm sau báo cáo pce giá dầu tăng vì đàm phán hòa bình lại bế tắc": 1790818792,
-  "fed s kashkari says inflation still too high latest data didn t change view": 1790818792,
-  "fed s kashkari says inflation is still too high even after softer than expected pce data l": 1790818792,
-  "giảm mạnh khả năng fed tăng lãi suất trong tháng 10 sau báo cáo lạm phát": 1790820466,
-  "quan chức fed giữ thái độ diều hâu cảnh báo 2 rủi ro lớn": 1790822483,
-  "dollar gets lift from higher yields": 1790822483,
-  "fed s kashkari says central bank must lower inflation pressures": 1790822483,
-  "fed s kashkari says ai not only driver of us economic growth": 1790822483,
   "giá vàng trong nước giảm nhẹ sjc về ngưỡng 143 8 triệu đồng mỗi lượng": 1790824068,
   "daily:🥇 Vàng:2026-10-01": 1790824068,
   "daily coffee report 9 30 26": 1790824068,
@@ -282,7 +256,12 @@
   "công an xác minh cụ ông 92 tuổi mang theo 7 cây vàng sjc đi ngoài đường lúc 21h": 1791058221,
   "latest on flydubai pilot powell case not reopened more": 1791058221,
   "latest on flydubai pilot doj not reopening powell probe more": 1791058221,
-  "hard to think the fed can just sit and do nothing right now says fmr trump advisor joe lav": 1791058221
+  "hard to think the fed can just sit and do nothing right now says fmr trump advisor joe lav": 1791058221,
+  "wsj dollar index rises 0 15 to 96 85": 1791081782,
+  "daily:🥇 Vàng:2026-10-04": 1791081782,
+  "bản tin nông sản hôm nay 4 10 giá cà phê thế giới đồng loạt tăng": 1791081782,
+  "gold x2 mining inc auxx stock price today the wall street journal": 1791081782,
+  "gold silver platinum news opinion analysis": 1791081782
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -295,7 +274,7 @@
   }
  },
  "cal": {
-  "fetched": 1791058223.1449144,
+  "fetched": 1791081784.6963713,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
