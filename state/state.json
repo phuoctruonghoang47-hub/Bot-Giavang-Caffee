@@ -16,26 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "daily:☕ Cà phê:2026-10-02": 1790878229,
-  "fed could be in pause mode and make next move a cut says citi s chronert": 1790878229,
-  "entrenched premium leaves gold primed to climb despite surge in us bond yields": 1790878229,
-  "gold price holding steady despite potential headwinds from a solid us labor market": 1790878229,
-  "top fed official signals central bank will keep rates on hold in october": 1790880270,
-  "another fed leader suggests next rate increase can wait": 1790880270,
-  "the september jobs report will be released friday here s what to expect": 1790881671,
-  "dollar strength weighs on coffee prices": 1790881671,
-  "jefferson says fed may need more time to weigh next move": 1790881671,
-  "vietnam coffee exports surge as robusta supplies return to market but revenue lags behind": 1790881671,
-  "trump could target three fed governors removing them may be harder than it looks": 1790883574,
-  "fed s jefferson says officials may need more time for next move": 1790883574,
-  "fed may take time to make next interest rate move jefferson says": 1790883574,
-  "risks rising that gold prices fall below 4 000 in q4 bank of america": 1790883574,
-  "lacy hunt converted bond bear sees fed behind curve in new inflation era": 1790883574,
-  "fed officials wash away market bets on october rate increase": 1790887314,
-  "canadian dollar steadies near 18 month low as greenback posts broad based gains": 1790887314,
-  "another fed official suggests next rate increase can wait": 1790887314,
-  "watch fed s kashkari unsure how high rates will have to climb to fight inflation": 1790887314,
-  "gold edges up as softer inflation data dents fed rate hike bets": 1790888799,
   "fast money traders talk state of u s economy ahead of friday s jobs report": 1790890901,
   "gold holds firm despite elevated yields as fed bets soften kitco pm report": 1790890901,
   "gold s selloff creates a tactical buying opportunity but carley garner says she s still be": 1790890901,
@@ -215,7 +195,10 @@
   "hits and misses incl the federal reserve renovation gavin newsom and the heroes of flyduba": 1791136316,
   "wsj dollar index falls 0 50 this quarter to 97 04": 1791136316,
   "agricultural products today 4 10 coffee prices and pepper prices rise after 1 week": 1791136316,
-  "watch jobs slow but inflation keeps fed on alert": 1791136316
+  "watch jobs slow but inflation keeps fed on alert": 1791136316,
+  "daily:☕ Cà phê:2026-10-05": 1791148085,
+  "robusta tuần qua đầu vụ giá tăng": 1791148085,
+  "u s jobless claims fall for the fourth straight week": 1791148085
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -229,7 +212,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791136318.2690926,
+  "fetched": 1791148086.8376565,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
