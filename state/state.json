@@ -16,10 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "fast growing dutch bros coffee known for drive throughs wants to cater to walkers": 1790935611,
-  "us adds troops to mideast september jobs report more": 1790935611,
-  "u s treasury yields steady as buyers resurface": 1790935611,
-  "gold steadies ahead of us payrolls data heads for weekly decline": 1790935611,
   "euro stays higher vs dollar after eurozone inflation data": 1790937658,
   "keurig dr pepper hires kimberly clark president torres to helm coffee spinoff": 1790937658,
   "us payrolls vie with french debt for investors attention": 1790939230,
@@ -197,7 +193,10 @@
   "most gulf bourses edge up on energy relief fading fed hike odds": 1791191408,
   "nhiều người hoang mang vì bất ngờ bị đòi nợ tiền thuế sử dụng đất phi nông nghiệp": 1791191408,
   "comex gold ends the quarter 3 30 higher at 4155 60": 1791193434,
-  "gold rises on fading u s rate hike bets but stronger dollar caps gains": 1791193434
+  "gold rises on fading u s rate hike bets but stronger dollar caps gains": 1791193434,
+  "vì sao đèn đường thường có màu vàng chứ không phải màu trắng": 1791195018,
+  "mayfair gold appoints daniel janusauskas as vice president technical services": 1791195018,
+  "gold edges up as october rate hike bets ease stronger dollar cap gains": 1791195018
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -211,7 +210,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791183114.9262815,
+  "fetched": 1791195020.858668,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
