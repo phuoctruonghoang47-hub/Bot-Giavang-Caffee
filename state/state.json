@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "gold edges higher as markets dial back expectations for fed hike": 1790930428,
-  "treasury yields inch higher as investors await key jobs report": 1790930428,
   "dollar eases ahead of key u s payrolls data": 1790932125,
   "wall st futures gain as yields oil prices ease ahead of jobs report": 1790934108,
   "euro set for biggest weekly fall in months vs dollar as france fiscal trajectory weighs": 1790934108,
@@ -194,7 +192,11 @@
   "dollar has scope to extend gains against euro": 1791183113,
   "euro falls to 16 month low vs dollar weighed by french concerns": 1791184393,
   "euro slides to 17 month low against dollar": 1791184393,
-  "euro at 17 month low dollar near pre liberation day highs": 1791187816
+  "euro at 17 month low dollar near pre liberation day highs": 1791187816,
+  "french bond yields stay elevated treasury yields ease": 1791189854,
+  "treasury yields inch lower as investors pare back fed rate hike bets": 1791189854,
+  "dollar lifted by french debt concerns u s rate rise bets": 1791189854,
+  "french government bond yields rise on fiscal worries treasury yields fall": 1791189854
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
