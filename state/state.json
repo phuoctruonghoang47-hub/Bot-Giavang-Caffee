@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "treasury yields resume upward trend": 1790959362,
-  "rebecca patterson sees fed dissents coming after united front": 1790959362,
-  "dollar falls as traders pare fed hike bets after jobs data": 1790959362,
   "the fed trending news latest updates analysis": 1790962801,
   "us dollar strength to fizzle fx forecasters unmoved by searing rally reuters poll": 1790962801,
   "10 year treasury yield ticks higher despite weaker than expected jobs report": 1790962801,
@@ -177,7 +174,8 @@
   "gold ticks higher on softer fed outlook as strong dollar limits gains": 1791211461,
   "lbma 2026 central banks aren t done with gold as geopolitical risks reshape reserves bunde": 1791215023,
   "surging brazilian real boosts coffee prices": 1791216501,
-  "gold price suffers under oil yield pressures mexico s silver production weakens in july he": 1791216501
+  "gold price suffers under oil yield pressures mexico s silver production weakens in july he": 1791216501,
+  "5 3 bond yields can compete with gold but they can t stop fiat currency erosion yieldmax s": 1791218630
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -191,7 +189,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791205924.664875,
+  "fetched": 1791218632.4760647,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
