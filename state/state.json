@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4157.7,
  "seen": {
-  "most of peru s gold now comes from booming illegal mining sector": 1790999315,
   "giá vàng nới rộng khoảng cách với thế giới nhà đầu tư lưu ý gì": 1791000667,
   "gold keeps flowing from african countries with none": 1791000667,
   "week ahead for fx bonds u s jobs data in focus as another fed rate hike looks possible": 1791002466,
@@ -157,7 +156,10 @@
   "fed s kashkari says inflation still too high latest data didn t change view": 1791258155,
   "asian shares track wall street higher treasury yields near multi decade highs": 1791258155,
   "bản tin nông sản hôm nay 6 10 giá cà phê trong nước tương đối ổn định": 1791258155,
-  "giá vàng trong nước ngược chiều với vàng thế giới": 1791258155
+  "giá vàng trong nước ngược chiều với vàng thế giới": 1791258155,
+  "gold inches lower as firmer dollar higher yields weigh": 1791259728,
+  "giá vàng về thấp nhất 2 tháng quỹ lớn nhất thế giới gom 600 cân vàng": 1791259728,
+  "gold steadies as stronger dollar and yields weigh on rate path": 1791259728
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -171,7 +173,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791247773.017419,
+  "fetched": 1791259730.6513114,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
