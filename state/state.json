@@ -169,7 +169,11 @@
   "uganda shilling weakens to record low as dollar demand persists": 1791290782,
   "gold silver prices rise as yields ease but december fed risk remains kitco am report": 1791292182,
   "fed minutes are next key test for dollar s direction": 1791292182,
-  "gold gains as softer fed rate expectations offset higher us yields": 1791292182
+  "gold gains as softer fed rate expectations offset higher us yields": 1791292182,
+  "dollar falls after weak u s jobs data boosting swiss franc further": 1791294130,
+  "s p 500 set to open near record highs as treasury yields cool oil slips": 1791294130,
+  "treasury yields fall as oil prices slide": 1791294130,
+  "giá vàng đi ngang khi đồng usd mạnh và lợi suất trái phiếu mỹ tăng": 1791294130
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -183,7 +187,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791283305.0193577,
+  "fetched": 1791294132.4600277,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
