@@ -236,7 +236,10 @@
   "dollar climbs ahead of fed minutes euro slides towards 17 month lows": 1791380520,
   "wall st opens lower as bond yields and oil rebound fed minutes in focus": 1791382128,
   "comex gold ends the week 3 59 lower at 4133 70": 1791384132,
-  "hawkish fed triggers emerging market outflows in september": 1791384132
+  "hawkish fed triggers emerging market outflows in september": 1791384132,
+  "ny fed september survey finds public expecting more near term inflation": 1791386392,
+  "dow lower treasury yields hit fresh 24 year highs": 1791386392,
+  "gold slides to two month low as robust dollar yields add pressure": 1791386392
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -250,7 +253,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791375067.4133077,
+  "fetched": 1791386394.1853619,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
