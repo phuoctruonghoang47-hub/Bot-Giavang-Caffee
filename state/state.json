@@ -243,7 +243,11 @@
   "inflation fears on the rise as one year outlook in fed survey hits highest level since may": 1791388075,
   "u s treasury yields hit new 24 year highs and french bonds underperform": 1791388075,
   "coffee prices tumble on larger coffee supplies from brazil": 1791389474,
-  "china s central bank buys 21 tonnes of gold in september largest monthly purchase in 3 yea": 1791389474
+  "china s central bank buys 21 tonnes of gold in september largest monthly purchase in 3 yea": 1791389474,
+  "data hungry bots swarm the fed s fred portal": 1791391472,
+  "hong kong and singapore pitch rival gold hubs to bullion market": 1791391472,
+  "euro stumbles toward 17 month lows dollar rises with fed minutes on tap": 1791391472,
+  "perseus says gold m a activity high but deals hard to close over price uncertainty": 1791391472
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -254,7 +258,9 @@
    "pre": 1790939231,
    "done": 1790945766
   },
-  "2026-10-07T14:00:00-04:00": {}
+  "2026-10-07T14:00:00-04:00": {
+   "pre": 1791391474
+  }
  },
  "cal": {
   "fetched": 1791386394.1853619,
