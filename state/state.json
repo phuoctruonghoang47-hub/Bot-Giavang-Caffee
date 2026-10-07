@@ -224,7 +224,9 @@
   "u s treasury yields rise in asian trade as markets await fed minutes": 1791355628,
   "kevin warsh": 1791360587,
   "gold and silver alert why a pullback doesn t end the bull market": 1791360587,
-  "gold slips ahead of fed minutes": 1791362578
+  "gold slips ahead of fed minutes": 1791362578,
+  "treasury yields rise ahead of closely watched 10 year auction and fomc minutes": 1791364147,
+  "dollar gains as oil climbs and investors focus on the fed": 1791364147
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -238,7 +240,7 @@
   "2026-10-07T14:00:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791353319.159236,
+  "fetched": 1791364149.0801454,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
