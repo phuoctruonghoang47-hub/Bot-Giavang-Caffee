@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4110.4,
  "seen": {
-  "brazil votes in key election hassett powell should move on": 1791136316,
-  "trump aide hassett says powell should move on from fed board": 1791136316,
-  "hits and misses incl the federal reserve renovation gavin newsom and the heroes of flyduba": 1791136316,
-  "wsj dollar index falls 0 50 this quarter to 97 04": 1791136316,
-  "agricultural products today 4 10 coffee prices and pepper prices rise after 1 week": 1791136316,
-  "watch jobs slow but inflation keeps fed on alert": 1791136316,
   "daily:☕ Cà phê:2026-10-05": 1791148085,
   "robusta tuần qua đầu vụ giá tăng": 1791148085,
   "u s jobless claims fall for the fourth straight week": 1791148085,
@@ -249,7 +243,9 @@
   "euro stumbles toward 17 month lows dollar rises with fed minutes on tap": 1791391472,
   "perseus says gold m a activity high but deals hard to close over price uncertainty": 1791391472,
   "short term inflation expectations reach three year high ny fed survey says": 1791393413,
-  "u s dollar gains could be extended by fed minutes readout": 1791394945
+  "fed officials see another hike coming but no sign as to when minutes show": 1791396631,
+  "u s dollar gains could be extended by fed minutes readout": 1791396631,
+  "data hungry bots flock to the fed s fred portal": 1791396631
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -262,7 +258,7 @@
   },
   "2026-10-07T14:00:00-04:00": {
    "pre": 1791391474,
-   "done": 1791396600
+   "done": 1791396632
   }
  },
  "cal": {
