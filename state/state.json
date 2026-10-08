@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4151.8,
  "seen": {
-  "the price of gold today oct 5 2026 and the best places to buy": 1791207878,
-  "gold falls to seven week low as rate hike bets rise": 1791207878,
   "opinion kevin warsh steps into view": 1791209497,
   "gold dips to 4 141 oz after ism services pmi falls to 54 9 in september": 1791211461,
   "treasury yields stable as oil prices stay high bets on fed hold rise": 1791211461,
@@ -260,7 +258,10 @@
   "watch us jobless claims fall to lowest level since july": 1791465184,
   "fed minutes pepsi earnings midterm megadonors and more in morning squawk": 1791467008,
   "watch blackrock s rieder on yield curve federal reserve rate hikes": 1791467008,
-  "watch fed minutes show hawkish unity behind september rate hike": 1791467008
+  "watch fed minutes show hawkish unity behind september rate hike": 1791467008,
+  "fed minutes show no urgency for october hike": 1791468647,
+  "giá vàng miếng sjc và vàng nhẫn nằm im": 1791468647,
+  "vietnam s coffee crop faces an el niño test but flooding fears appear overstated": 1791468647
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
@@ -273,7 +274,7 @@
   }
  },
  "cal": {
-  "fetched": 1791457726.8746839,
+  "fetched": 1791468648.9959655,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
