@@ -259,7 +259,9 @@
   "the price of gold today oct 8 2026 and the best places to buy": 1791474263,
   "india scraps key tax relief for gold imports raising costs": 1791474263,
   "10 year treasury yield is little changed as fed s waller says more hikes needed investors ": 1791474263,
-  "ample brazil coffee supplies weigh on prices": 1791475837
+  "ample brazil coffee supplies weigh on prices": 1791475837,
+  "canadian dollar tries to bounce as yield spreads compress": 1791481321,
+  "gold ticks up as investors weigh fed path mounting debt concerns": 1791481321
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
@@ -272,7 +274,7 @@
   }
  },
  "cal": {
-  "fetched": 1791468648.9959655,
+  "fetched": 1791481322.891735,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
