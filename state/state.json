@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4151.8,
  "seen": {
-  "euro falls to 16 month low vs dollar weighed by french concerns": 1791184393,
-  "euro slides to 17 month low against dollar": 1791184393,
   "euro at 17 month low dollar near pre liberation day highs": 1791187816,
   "french bond yields stay elevated treasury yields ease": 1791189854,
   "treasury yields inch lower as investors pare back fed rate hike bets": 1791189854,
@@ -256,7 +254,9 @@
   "dollar steady near 18 month high after fed minutes flag inflation risks": 1791438115,
   "giá vàng giảm sâu người mua lỗ hơn 7 triệu đồng sau một tháng": 1791439838,
   "biên bản họp fed được công bố xuất hiện tín hiệu nhtw không vội tăng lãi suất hàng loạt": 1791439838,
-  "fed có thể tăng lãi suất một lần nữa năm nay": 1791442143
+  "fed có thể tăng lãi suất một lần nữa năm nay": 1791442143,
+  "dollar stays elevated as treasury yields oil prices rise": 1791445416,
+  "gold pauses decline after two month low as traders weigh us fed move": 1791445416
  },
  "usd": {
   "2026-09-30T08:30:00-04:00": {
@@ -273,7 +273,7 @@
   }
  },
  "cal": {
-  "fetched": 1791434578.5683756,
+  "fetched": 1791445417.969078,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
