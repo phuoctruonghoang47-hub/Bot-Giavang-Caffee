@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "giá vàng giảm trước sức ép từ usd và trái phiếu": 1791274171,
-  "wsj dollar index rises 0 05 to 97 31": 1791274171,
   "gold edges higher but focus remains on u s dollar yields": 1791276111,
   "el niño đảo nhịp mùa màng bài 3 tâm điểm lo ngại của ngành cà phê": 1791276111,
   "treasury yields are broadly flat as investors anticipate fomc minutes": 1791276111,
@@ -262,7 +260,8 @@
   "comex gold settles 0 44 higher at 4131 80": 1791526267,
   "giá vàng tăng vùn vụt sau cả tuần ít biến động": 1791528563,
   "india withdraws bank tax benefit on gold silver platinum imports": 1791528563,
-  "dollar edges lower as oil prices ease": 1791531789
+  "dollar edges lower as oil prices ease": 1791531789,
+  "wsj dollar index falls 0 06 to 97 34": 1791533382
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
