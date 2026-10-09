@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "gold silver prices rise as yields ease but december fed risk remains kitco am report": 1791292182,
-  "fed minutes are next key test for dollar s direction": 1791292182,
-  "gold gains as softer fed rate expectations offset higher us yields": 1791292182,
   "dollar falls after weak u s jobs data boosting swiss franc further": 1791294130,
   "s p 500 set to open near record highs as treasury yields cool oil slips": 1791294130,
   "treasury yields fall as oil prices slide": 1791294130,
@@ -278,7 +275,7 @@
   }
  },
  "cal": {
-  "fetched": 1791540566.7081268,
+  "fetched": 1791551514.6129675,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
