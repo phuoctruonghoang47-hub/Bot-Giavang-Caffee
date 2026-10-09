@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "giá vàng thế giới có đang nghịch lý": 1791327988,
   "i m getting fed up early us midterm voters line up before dawn in ohio": 1791329995,
   "giá cà phê đồng loạt tăng": 1791329995,
   "bản tin nông sản hôm nay 7 10 giá cà phê thế giới tăng nhẹ": 1791334250,
@@ -272,7 +271,8 @@
   "morning gold analysis for december futures 10 9 26": 1791582101,
   "gold tests 4 200 as weak sentiment offsets sticky inflation expectations kitco pm report": 1791582101,
   "daily:☕ Cà phê:2026-10-10": 1791583696,
-  "wall street nears bullish majority after gold s late week rally main street fails to recla": 1791583696
+  "wall street nears bullish majority after gold s late week rally main street fails to recla": 1791583696,
+  "precious metals prices canada gold silver platinum palladium rhodium in cad": 1791587229
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
@@ -285,7 +285,7 @@
   }
  },
  "cal": {
-  "fetched": 1791576399.874273,
+  "fetched": 1791587231.397717,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
