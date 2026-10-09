@@ -16,10 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "fed s kashkari says inflation still too high latest data didn t change view": 1791258155,
-  "asian shares track wall street higher treasury yields near multi decade highs": 1791258155,
-  "bản tin nông sản hôm nay 6 10 giá cà phê trong nước tương đối ổn định": 1791258155,
-  "giá vàng trong nước ngược chiều với vàng thế giới": 1791258155,
   "gold inches lower as firmer dollar higher yields weigh": 1791259728,
   "giá vàng về thấp nhất 2 tháng quỹ lớn nhất thế giới gom 600 cân vàng": 1791259728,
   "gold steadies as stronger dollar and yields weigh on rate path": 1791259728,
@@ -268,7 +264,8 @@
   "bản tin nông sản hôm nay 9 10 giá cà phê và hồ tiêu đều giảm": 1791510189,
   "comex gold settles 0 27 higher at 4147 70": 1791510189,
   "gold rises on softer dollar easing yields fed outlook in focus": 1791511717,
-  "gold rises supported by potential china demand": 1791513703
+  "gold rises supported by potential china demand": 1791513703,
+  "quỹ vàng lớn nhất thế giới xả gần 6 tấn vàng chỉ trong 1 ngày": 1791517431
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
@@ -281,7 +278,7 @@
   }
  },
  "cal": {
-  "fetched": 1791504705.8359764,
+  "fetched": 1791517432.7387757,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
