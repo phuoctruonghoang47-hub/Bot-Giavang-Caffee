@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "vàng sjc cao hơn thế giới gần 13 triệu đồng lượng": 1791281301,
   "u s treasury yields turn lower eurozone bond yields slide": 1791283303,
   "treasury yields fall as investors anticipate fomc minutes": 1791283303,
   "gold ticks up as softer fed rate expectations offset higher yields": 1791286864,
@@ -263,7 +262,9 @@
   "treasury yields steady as trump strikes diplomatic tone on iran ahead of midterms": 1791539003,
   "amundi usd fed funds rate ucits etf acc net asset value s company announcement": 1791539003,
   "watch st louis fed s musalem why rates may need to rise again": 1791539003,
-  "macro matters pimco s clarida on fed policy and balance sheet": 1791539003
+  "macro matters pimco s clarida on fed policy and balance sheet": 1791539003,
+  "wall st week ahead bank earnings cpi headline busy markets week as s p 500 hovers near rec": 1791540564,
+  "dollar falls could prove limited": 1791540564
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
@@ -276,7 +277,7 @@
   }
  },
  "cal": {
-  "fetched": 1791528564.7412379,
+  "fetched": 1791540566.7081268,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
