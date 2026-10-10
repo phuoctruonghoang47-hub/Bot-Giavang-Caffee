@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "fed officials see another hike coming but no sign as to when minutes show": 1791396631,
-  "u s dollar gains could be extended by fed minutes readout": 1791396631,
-  "data hungry bots flock to the fed s fred portal": 1791396631,
   "larger supplies from brazil pressure coffee prices": 1791398775,
   "fed policymakers divided over rate hike logic in september minutes show": 1791398775,
   "fed minutes show hawkish unity behind september rate hike": 1791398775,
@@ -242,7 +239,8 @@
   "dxy dollar index falls to intraday low of 101 714 after weak u s jobs data": 1791643243,
   "pc gold ltd pcgdf stock price today the wall street journal": 1791648364,
   "gold royalty corp wt groy wt stock price today the wall street journal": 1791653974,
-  "khai hội arabica sơn la vươn tầm thế giới": 1791655626
+  "khai hội arabica sơn la vươn tầm thế giới": 1791655626,
+  "daily:☕ Cà phê:2026-10-11": 1791657887
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -251,7 +249,7 @@
   }
  },
  "cal": {
-  "fetched": 1791646871.5072176,
+  "fetched": 1791657889.5098617,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
