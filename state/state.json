@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "ny fed september survey finds public expecting more near term inflation": 1791386392,
-  "dow lower treasury yields hit fresh 24 year highs": 1791386392,
-  "gold slides to two month low as robust dollar yields add pressure": 1791386392,
   "inflation fears on the rise as one year outlook in fed survey hits highest level since may": 1791388075,
   "u s treasury yields hit new 24 year highs and french bonds underperform": 1791388075,
   "coffee prices tumble on larger coffee supplies from brazil": 1791389474,
@@ -260,7 +257,7 @@
   }
  },
  "cal": {
-  "fetched": 1791634100.7125032,
+  "fetched": 1791646871.5072176,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
