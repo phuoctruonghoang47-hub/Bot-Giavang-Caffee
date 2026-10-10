@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "kevin warsh": 1791360587,
-  "gold and silver alert why a pullback doesn t end the bull market": 1791360587,
   "gold slips ahead of fed minutes": 1791362578,
   "treasury yields rise ahead of closely watched 10 year auction and fomc minutes": 1791364147,
   "dollar gains as oil climbs and investors focus on the fed": 1791364147,
@@ -257,7 +255,8 @@
   "làm gì khi muốn bán vàng": 1791603770,
   "daily coffee report 10 9 26": 1791603770,
   "agricultural products today october 10th coffee and pepper prices increase sharply": 1791618047,
-  "nông sản hôm nay 10 10 giá cà phê hồ tiêu tăng mạnh": 1791618047
+  "nông sản hôm nay 10 10 giá cà phê hồ tiêu tăng mạnh": 1791618047,
+  "giá vàng thế giới phục hồi sau khi chạm đáy 2 tháng": 1791621719
  },
  "usd": {
   "2026-10-02T08:30:00-04:00": {
@@ -270,7 +269,7 @@
   }
  },
  "cal": {
-  "fetched": 1791610858.6642222,
+  "fetched": 1791621721.6150408,
   "events": [
    {
     "title": "FOMC Meeting Minutes",
