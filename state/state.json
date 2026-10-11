@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "singapore dollar consolidates higher oil prices may weigh": 1791432520,
-  "giá vàng càng giảm trung quốc mua càng mạnh": 1791432520,
   "how a trillion dollar hedge fund borrowing spree became wall street s cash cow": 1791436136,
   "dollar steady near 18 month high after fed minutes flag inflation risks": 1791438115,
   "giá vàng giảm sâu người mua lỗ hơn 7 triệu đồng sau một tháng": 1791439838,
@@ -219,15 +217,82 @@
   "2026-10-07T14:00:00-04:00": {
    "pre": 1791391474,
    "done": 1791396632
-  }
+  },
+  "2026-10-14T08:30:00-04:00": {},
+  "2026-10-15T08:30:00-04:00": {},
+  "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791681002.8927057,
+  "fetched": 1791693776.5128443,
   "events": [
    {
-    "title": "FOMC Meeting Minutes",
+    "title": "Core CPI m/m",
     "country": "USD",
-    "date": "2026-10-07T14:00:00-04:00",
+    "date": "2026-10-14T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.2%",
+    "previous": "0.3%"
+   },
+   {
+    "title": "Core CPI y/y",
+    "country": "USD",
+    "date": "2026-10-14T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "2.5%",
+    "previous": "2.4%"
+   },
+   {
+    "title": "CPI m/m",
+    "country": "USD",
+    "date": "2026-10-14T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.6%",
+    "previous": "0.4%"
+   },
+   {
+    "title": "CPI y/y",
+    "country": "USD",
+    "date": "2026-10-14T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "3.6%",
+    "previous": "3.4%"
+   },
+   {
+    "title": "Core PPI m/m",
+    "country": "USD",
+    "date": "2026-10-15T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.3%",
+    "previous": "0.2%"
+   },
+   {
+    "title": "Core Retail Sales m/m",
+    "country": "USD",
+    "date": "2026-10-15T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.5%",
+    "previous": "1.4%"
+   },
+   {
+    "title": "PPI m/m",
+    "country": "USD",
+    "date": "2026-10-15T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.5%",
+    "previous": "0.4%"
+   },
+   {
+    "title": "Retail Sales m/m",
+    "country": "USD",
+    "date": "2026-10-15T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.3%",
+    "previous": "1.2%"
+   },
+   {
+    "title": "Fed Chairman Warsh Speaks",
+    "country": "USD",
+    "date": "2026-10-15T23:30:00-04:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
