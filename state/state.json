@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "u s treasury yields retreat from early highs eurozone yields remain elevated": 1791493720,
-  "u s interest rates could rise over next six to nine months fed s musalem says": 1791493720,
   "fed could raise rates before midterm election says investor": 1791495729,
   "fed s musalem says tighter monetary policy needed to lower inflation": 1791495729,
   "mackay gold silver targets 2 3 million ounces across consolidated comstock district": 1791495729,
@@ -192,7 +190,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791742063.912099,
+  "fetched": 1791754915.0271196,
   "events": [
    {
     "title": "Core CPI m/m",
