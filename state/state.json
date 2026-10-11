@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "giá vàng giảm sâu người mua lỗ hơn 7 triệu đồng sau một tháng": 1791439838,
-  "biên bản họp fed được công bố xuất hiện tín hiệu nhtw không vội tăng lãi suất hàng loạt": 1791439838,
   "fed có thể tăng lãi suất một lần nữa năm nay": 1791442143,
   "dollar stays elevated as treasury yields oil prices rise": 1791445416,
   "gold pauses decline after two month low as traders weigh us fed move": 1791445416,
@@ -211,7 +209,9 @@
   "download qom28 data miny gold jun 2028 price data": 1791688089,
   "prcgf precore gold corp options": 1791691677,
   "prcgf precore gold corp analyst estimates": 1791695276,
-  "prcgf precore gold corp annual income statement": 1791697281
+  "prcgf precore gold corp annual income statement": 1791697281,
+  "prcgf precore gold corp quarterly income statement": 1791701263,
+  "qom28 miny gold jun 2028 advanced charts": 1791701263
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
