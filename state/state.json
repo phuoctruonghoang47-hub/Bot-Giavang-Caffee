@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "canadian dollar tries to bounce as yield spreads compress": 1791481321,
-  "gold ticks up as investors weigh fed path mounting debt concerns": 1791481321,
   "daily:☕ Cà phê:2026-10-09": 1791485199,
   "treasury yields steady after solid 30 year bond auction": 1791485199,
   "treasury yields are lower after reaching multiyear highs traders weigh latest bond auction": 1791486571,
@@ -183,7 +181,8 @@
   "wsj dollar index falls 0 16 to 97 15": 1791729711,
   "the compute gold rush": 1791731179,
   "thương vụ việt nam đồng hành kết nối xuất khẩu cà phê sơn la": 1791731179,
-  "prcgf precore gold corp quarterly balance sheet": 1791738413
+  "prcgf precore gold corp quarterly balance sheet": 1791738413,
+  "daily:☕ Cà phê:2026-10-12": 1791742062
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -195,7 +194,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791729713.2147887,
+  "fetched": 1791742063.912099,
   "events": [
    {
     "title": "Core CPI m/m",
