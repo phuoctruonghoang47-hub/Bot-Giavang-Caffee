@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "dollar stays elevated as treasury yields oil prices rise": 1791445416,
-  "gold pauses decline after two month low as traders weigh us fed move": 1791445416,
   "giá vàng miếng jsc và vàng nhẫn nằm im": 1791446974,
   "tsx futures slip as oil yields fuel rate hike fears ahead of fed minutes": 1791446974,
   "fed s waller more hikes needed but there is flexibility about the pace": 1791449004,
@@ -222,7 +220,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791693776.5128443,
+  "fetched": 1791706081.406387,
   "events": [
    {
     "title": "Core CPI m/m",
