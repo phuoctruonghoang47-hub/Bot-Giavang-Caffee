@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "bessent taps former fed nominee shelton as senior adviser": 1791564192,
-  "a trade opportunity in gold": 1791564192,
-  "fed says household income wealth debt stress increased from 2022 to 2025": 1791565697,
   "canadian dollar hits 18 month low as jobs data clips rate hike bets": 1791567679,
   "gold futures set for weekly gain": 1791567679,
   "donald trump launches committee to investigate federal reserve governor lisa cook": 1791567679,
@@ -165,7 +162,11 @@
   "arabica coffee gains on lower output in colombia": 1791821397,
   "gold price needs a dovish fed or renewed debasement fears to reverse its downtrend bank of": 1791821397,
   "gold price outlook weekly bottom confirmed but two key levels still matter": 1791821397,
-  "gold futures slip as u s dollar oil futures gain": 1791823388
+  "gold futures slip as u s dollar oil futures gain": 1791823388,
+  "fed s hammack backs restrictive policy says better if it comes relatively quickly": 1791824928,
+  "fed s hammack says smaller frequent rate adjustments preferable": 1791824928,
+  "r0b trifecta gold ltd advanced charts": 1791824928,
+  "r0b trifecta gold ltd annual income statement": 1791824928
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -177,7 +178,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791813404.054682,
+  "fetched": 1791824930.3902094,
   "events": [
    {
     "title": "Core CPI m/m",
