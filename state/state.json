@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "daily:🥇 Vàng:2026-10-09": 1791504704,
-  "musalem signals fed rates should rise over next six to nine months": 1791504704,
-  "fed s waller sees some flexibility on rate hike timing": 1791504704,
-  "giá vàng hồi phục khi đồng usd và lợi suất trái phiếu cùng giảm spdr gold trust bất ngờ xả": 1791507225,
-  "gold steadies as traders assess us iran tensions fed rate path": 1791507225,
-  "watch fed s musalem signals rates should rise next six to nine months": 1791507225,
   "bản tin nông sản hôm nay 9 10 giá cà phê và hồ tiêu đều giảm": 1791510189,
   "comex gold settles 0 27 higher at 4147 70": 1791510189,
   "gold rises on softer dollar easing yields fed outlook in focus": 1791511717,
@@ -169,7 +163,10 @@
   "wsj dollar index rises 0 26 to 97 40": 1791745646,
   "check out ashapuri gold ornament ltd s stock price agol in in real time": 1791745646,
   "treasury yields steady after solid 30 year bond auction": 1791747622,
-  "us bond traders await cpi warsh for insight on fed s rate path": 1791747622
+  "us bond traders await cpi warsh for insight on fed s rate path": 1791747622,
+  "gold rises as markets weigh oil pullback": 1791766427,
+  "robusta tuần qua đâu là ngưỡng giá của vụ mới": 1791766427,
+  "oil rises on mideast attacks dollar edges higher markets wrap": 1791766427
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -181,7 +178,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791754915.0271196,
+  "fetched": 1791766428.94372,
   "events": [
    {
     "title": "Core CPI m/m",
