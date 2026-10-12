@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "from leading exports to the brand problem for robusta vietnam": 1791542568,
-  "từ xuất khẩu dẫn đầu đến bài toán thương hiệu cho robusta việt nam": 1791542568,
   "giá vàng châu á tăng hơn 1 nhờ đồng usd sụt giảm": 1791544113,
   "gold adds over 1 on easing oil prices softer dollar": 1791544113,
   "top 3 ngành học sẽ trở thành mỏ vàng trong 5 năm tới ai khuyên tìm hiểu ngay": 1791545997,
@@ -167,7 +165,8 @@
   "giá vàng giảm nhẹ khi thị trường chờ đợi số liệu lạm phát mỹ": 1791798456,
   "gold slips from one week high as firm us dollar weighs": 1791798456,
   "dollar firm near 18 month highs as gulf unrest us inflation keep investors on edge": 1791798456,
-  "shares supported as oil retreats focus turns to us cpi earnings": 1791799867
+  "shares supported as oil retreats focus turns to us cpi earnings": 1791799867,
+  "82x0 athena gold corp profile": 1791801923
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -179,7 +178,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791789426.3762443,
+  "fetched": 1791801924.7915761,
   "events": [
    {
     "title": "Core CPI m/m",
