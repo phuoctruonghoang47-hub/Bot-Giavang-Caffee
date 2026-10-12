@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "dollar finishes fourth straight week of gains": 1791589205,
   "can trump s new bid to fire the fed s lisa cook succeed what to know": 1791591050,
   "gold futures snap two week losing streak": 1791591050,
   "bản tin nông sản hôm nay 10 10 giá cà phê giảm mạnh": 1791593511,
@@ -159,7 +158,8 @@
   "gold silver soften as markets price in december fed hike risk kitco pm report": 1791841396,
   "watch fmr fed governor betsy duke on cpi amid bank results": 1791841396,
   "fed s hammack hope to cool demand and inflation without job market pain": 1791842864,
-  "oil rallies sending dollar higher on expectations of higher us rates": 1791844953
+  "oil rallies sending dollar higher on expectations of higher us rates": 1791844953,
+  "cnbc s the china connection newsletter how a gold buying spree helps the yuan go global": 1791848501
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -171,7 +171,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791835735.2855647,
+  "fetched": 1791848503.353597,
   "events": [
    {
     "title": "Core CPI m/m",
@@ -218,7 +218,7 @@
     "country": "USD",
     "date": "2026-10-15T08:30:00-04:00",
     "impact": "High",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "1.4%"
    },
    {
@@ -226,7 +226,7 @@
     "country": "USD",
     "date": "2026-10-15T08:30:00-04:00",
     "impact": "High",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "0.4%"
    },
    {
