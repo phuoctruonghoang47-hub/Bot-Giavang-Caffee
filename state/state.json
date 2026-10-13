@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "giá vàng thế giới phục hồi sau khi chạm đáy 2 tháng": 1791621719,
   "long term treasury yields settle at new multidecade highs": 1791628839,
   "banks head for 5 billion gold trading windfall in record year": 1791628839,
   "b9z blue gold ltd profile": 1791630393,
@@ -184,7 +183,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791870296.570107,
+  "fetched": 1791881244.0154178,
   "events": [
    {
     "title": "Core CPI m/m",
