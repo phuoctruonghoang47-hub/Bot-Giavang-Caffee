@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "giá vàng tăng vì sao người mua lỗ nặng": 1791716785,
   "prcgf precore gold corp annual cash flow statement": 1791724158,
   "download prcgf data precore gold corp price data": 1791724158,
   "prcgf precore gold corp profile": 1791724158,
@@ -233,12 +232,14 @@
    "pre": 1791391474,
    "done": 1791396632
   },
-  "2026-10-14T08:30:00-04:00": {},
+  "2026-10-14T08:30:00-04:00": {
+   "pre": 1791977326
+  },
   "2026-10-15T08:30:00-04:00": {},
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791964836.5756323,
+  "fetched": 1791977326.3240645,
   "events": [
    {
     "title": "Core CPI m/m",
