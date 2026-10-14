@@ -215,7 +215,9 @@
   "đồng usd xuống thang từ đỉnh 18 tháng": 1791962167,
   "market remains rates driven as high u s treasury yields dominate": 1791962167,
   "week ahead for fx bonds u s inflation data in focus": 1791962167,
-  "giá vàng vừa tăng trở lại chiều qua sáng nay lại quay đầu giảm": 1791962167
+  "giá vàng vừa tăng trở lại chiều qua sáng nay lại quay đầu giảm": 1791962167,
+  "gold prices hold firm ahead of u s inflation data": 1791964834,
+  "gold holds steady ahead of us inflation data": 1791964834
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -227,7 +229,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791952099.0408602,
+  "fetched": 1791964836.5756323,
   "events": [
    {
     "title": "Core CPI m/m",
