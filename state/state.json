@@ -16,11 +16,6 @@
  },
  "alert_ref_gold": 4115.4,
  "seen": {
-  "when companies stop driving a hard bargain this fed official starts worrying": 1791727627,
-  "prcgf precore gold corp annual balance sheet": 1791727627,
-  "prcgf precore gold corp advanced charts": 1791727627,
-  "prcgf stock price precore gold corp stock quote u s otc": 1791727627,
-  "wsj dollar index falls 0 16 to 97 15": 1791729711,
   "the compute gold rush": 1791731179,
   "thương vụ việt nam đồng hành kết nối xuất khẩu cà phê sơn la": 1791731179,
   "prcgf precore gold corp quarterly balance sheet": 1791738413,
@@ -241,7 +236,13 @@
   "việt nam có thứ rau dân dã rẻ bèo là thực phẩm vàng cho mắt chẳng kém cà rốt": 1791986554,
   "us treasuries slump as hot inflation lifts fed rate hike bets": 1791986554,
   "commentary morning bid trillion dollar trade": 1791986554,
-  "gold drops over 1 as hot us inflation data boosts fed hike bets": 1791986554
+  "gold drops over 1 as hot us inflation data boosts fed hike bets": 1791986554,
+  "us inflation heats up in september fed rate hike this month back on table": 1791989933,
+  "dollar advances to highest since may 2025 on fed hike views": 1791989933,
+  "gold adds to losses as u s core cpi exceeds expectations": 1791989933,
+  "view hot september cpi sends rate hike bets soaring": 1791989933,
+  "experts react to the september cpi report": 1791989933,
+  "gold silver drop as hotter cpi revives fed rate pressure kitco am report": 1791989933
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -256,7 +257,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791977326.3240645,
+  "fetched": 1791989935.6003728,
   "events": [
    {
     "title": "Core CPI m/m",
