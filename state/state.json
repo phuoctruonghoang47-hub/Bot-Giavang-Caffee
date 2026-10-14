@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4199.1,
  "seen": {
-  "prcgf precore gold corp options": 1791691677,
   "prcgf precore gold corp analyst estimates": 1791695276,
   "prcgf precore gold corp annual income statement": 1791697281,
   "prcgf precore gold corp quarterly income statement": 1791701263,
@@ -207,7 +206,11 @@
   "daily:🥇 Vàng:2026-10-14": 1791944308,
   "giá vàng trong nước giảm sjc về ngưỡng 143 3 triệu đồng mỗi lượng": 1791946537,
   "fed s lisa cook puts off white house hearing over trump s allegations": 1791946537,
-  "asia shares edge up as chip selloff eases us cpi awaited": 1791948022
+  "asia shares edge up as chip selloff eases us cpi awaited": 1791948022,
+  "ngày 2 11 là hạn cuối nộp thuế sử dụng đất phi nông nghiệp": 1791952097,
+  "fed có thể không tăng lãi suất năm 2027": 1791952097,
+  "mua vàng ở một nơi bán ở nơi khác có được không": 1791952097,
+  "treasury yields mostly lower ahead of expected cpi increase": 1791952097
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -219,7 +222,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1791940091.020729,
+  "fetched": 1791952099.0408602,
   "events": [
    {
     "title": "Core CPI m/m",
