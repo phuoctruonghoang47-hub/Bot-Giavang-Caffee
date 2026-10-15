@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "rupee jumps 1 after rbi redirects oil dollar demand raises cost of some fx hedges": 1791778206,
   "forecasting 25 bps hike by the fed expect real yields to remain elevated alliancebernstein": 1791780374,
   "fed sau đại dịch cả thu nhập tài sản và áp lực nợ nần của người mỹ đều tăng": 1791781817,
   "gold gains on weaker oil dollar u s inflation data in focus": 1791783855,
@@ -271,7 +270,10 @@
   "rolex and gold were for us and not trump swiss trade chief says": 1792033045,
   "dollar retreats from 18 month high despite hot cpi as fed officials temper hike bets": 1792034531,
   "giá vàng miếng sjc đi ngang giữ ngưỡng 143 3 triệu đồng mỗi lượng": 1792036721,
-  "dollar hits fresh 18 month high as hot inflation boosts fed hike expectation": 1792036721
+  "dollar hits fresh 18 month high as hot inflation boosts fed hike expectation": 1792036721,
+  "investors predict new record price for gold within two years": 1792038327,
+  "gold rebounds from one week low as dollar slips": 1792038327,
+  "gold rises on possible technical correction": 1792038327
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -286,7 +288,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792026336.807289,
+  "fetched": 1792038329.1789956,
   "events": [
    {
     "title": "Core CPI m/m",
