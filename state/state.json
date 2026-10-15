@@ -286,7 +286,8 @@
   "dollar pulls back from 18 month high as treasury yields fall fed hike bets ease": 1792054903,
   "giá vàng phục hồi từ mức thấp nhất trong một tuần": 1792060044,
   "gold climbs over 1 on softer dollar yields ahead of us inflation data": 1792060044,
-  "analysis why a 2 trillion deficit and 5 treasury yields are becoming america s biggest eco": 1792061996
+  "analysis why a 2 trillion deficit and 5 treasury yields are becoming america s biggest eco": 1792061996,
+  "warsh s quest for quiet fed gets vocal pushback": 1792063704
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -297,11 +298,13 @@
    "pre": 1791977326,
    "done": 1791982569
   },
-  "2026-10-15T08:30:00-04:00": {},
+  "2026-10-15T08:30:00-04:00": {
+   "pre": 1792063706
+  },
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792051250.949736,
+  "fetched": 1792063706.14746,
   "events": [
    {
     "title": "Core CPI m/m",
