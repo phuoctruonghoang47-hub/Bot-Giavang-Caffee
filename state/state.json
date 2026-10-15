@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "daily:☕ Cà phê:2026-10-13": 1791828519,
-  "cleveland fed s beth hammack restrictive monetary policy appropriate for timely return to ": 1791828519,
-  "watch fed s hammack prefers smaller frequent rate adjustments": 1791828519,
   "treasury yields slip from lofty levels ahead of fed minutes": 1791830900,
   "coffee prices settle higher on lower output in colombia": 1791830900,
   "gold spot prices silver prices platinum palladium": 1791830900,
@@ -288,13 +285,14 @@
   "xuất khẩu cà phê đạt 6 57 tỷ usd giá chịu sức ép ra sao cuối năm": 1792083682,
   "economists hot ppi shows fed s work is not done": 1792083682,
   "ubs extends fed tightening cycle forecast with march rate hike after inflation surprise": 1792083682,
-  "gold fields ceo plays down prospect of raising its offer for northern star": 1792083682
+  "gold fields ceo plays down prospect of raising its offer for northern star": 1792083682,
+  "daily:☕ Cà phê:2026-10-16": 1792088442,
+  "gold futures extend gains as u s yields dollar decline": 1792088442,
+  "federal reserve": 1792088442,
+  "gold silver rebound as treasury yields tumble despite hot ppi kitco am report": 1792088442,
+  "dollar retreats from 18 month high despite strong inflation data": 1792088442
  },
  "usd": {
-  "2026-10-07T14:00:00-04:00": {
-   "pre": 1791391474,
-   "done": 1791396632
-  },
   "2026-10-14T08:30:00-04:00": {
    "pre": 1791977326,
    "done": 1791982569
@@ -306,7 +304,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792076411.9586604,
+  "fetched": 1792088444.8151248,
   "events": [
    {
     "title": "Core CPI m/m",
