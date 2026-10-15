@@ -14,11 +14,8 @@
   },
   "coffee": 93000
  },
- "alert_ref_gold": 4115.4,
+ "alert_ref_gold": 4163.3,
  "seen": {
-  "gold rises as markets weigh oil pullback": 1791766427,
-  "robusta tuần qua đâu là ngưỡng giá của vụ mới": 1791766427,
-  "oil rises on mideast attacks dollar edges higher markets wrap": 1791766427,
   "bản tin nông sản hôm nay 12 10 giá cà phê dao động trong khoảng 92 200 93 000 đồng kg": 1791769475,
   "why china is importing a record amount of gold and what it means for prices": 1791769475,
   "gold edges up as traders weigh russia ukraine energy ceasefire": 1791769475,
@@ -271,7 +268,9 @@
   "dollar hits 18 month high then cools as investors await patient fed": 1792019841,
   "tag jefferies gold forecast": 1792021694,
   "daily:🥇 Vàng:2026-10-15": 1792023422,
-  "gold s weakness is a buying opportunity as jefferies sees 5 000 price in 2027 healthy mini": 1792023422
+  "gold s weakness is a buying opportunity as jefferies sees 5 000 price in 2027 healthy mini": 1792023422,
+  "sk hynix plunges 8 amid asia tech rout as fed rate hike fears ai funding worries mount": 1792026334,
+  "bản tin nông sản hôm nay 15 10 giá cà phê giảm nhẹ hồ tiêu đi ngang": 1792026334
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -286,7 +285,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792015028.563105,
+  "fetched": 1792026336.807289,
   "events": [
    {
     "title": "Core CPI m/m",
