@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "concerns over u s fiscal outlook could keep long end treasury yields elevated": 1791805546,
   "the odyssey composer ludwig göransson still takes swedish coffee breaks": 1791807330,
   "dollar strength could continue on fed rate rise prospects": 1791807330,
   "giá vàng trong nước giảm mạnh sau nhịp đi ngang": 1791813402,
@@ -287,7 +286,10 @@
   "giá vàng phục hồi từ mức thấp nhất trong một tuần": 1792060044,
   "gold climbs over 1 on softer dollar yields ahead of us inflation data": 1792060044,
   "analysis why a 2 trillion deficit and 5 treasury yields are becoming america s biggest eco": 1792061996,
-  "warsh s quest for quiet fed gets vocal pushback": 1792063704
+  "warsh s quest for quiet fed gets vocal pushback": 1792063704,
+  "watch ai rout deepens anthropic revenue hits 16 8b warsh to speak in bangkok": 1792065567,
+  "major brokerages expect next fed rate hike in december": 1792065567,
+  "the dollar surges as gold slides could a turning point be near": 1792065567
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -299,7 +301,8 @@
    "done": 1791982569
   },
   "2026-10-15T08:30:00-04:00": {
-   "pre": 1792063706
+   "pre": 1792063706,
+   "done": 1792068934
   },
   "2026-10-15T23:30:00-04:00": {}
  },
