@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "dollar trades steady amid geopolitical uncertainty": 1791791256,
   "gold retreats as markets await key us inflation data": 1791792682,
   "gold inches lower ahead of u s inflation data this week": 1791794869,
   "bất ngờ phát hiện thỏi vàng trong bụng bé gái 5 tuổi": 1791796263,
@@ -278,7 +277,15 @@
   "americans haven t stopped drinking coffee they ve stopped leaving home for it": 1792048422,
   "arabica extends losses as brazil s export recovery weighs on sentiment": 1792048422,
   "agricultural products today october 15th coffee and pepper prices anchor at high levels": 1792048422,
-  "nông sản hôm nay 15 10 giá cà phê hồ tiêu neo ở ngưỡng cao": 1792048422
+  "nông sản hôm nay 15 10 giá cà phê hồ tiêu neo ở ngưỡng cao": 1792048422,
+  "giá vàng rớt thê thảm chỉ những người mua vào thời điểm đặc biệt này trong 1 năm qua mới c": 1792051249,
+  "u s treasury yields plunge after hot cpi print as investors await more economic data": 1792051249,
+  "bán nhà chung cư mới biết phải nộp thuế đất phi nông nghiệp quy định thế nào": 1792051249,
+  "eurozone bond yields slide track treasury yields": 1792051249,
+  "the compute gold rush": 1792051249,
+  "gold futures fall on stronger dollar high yields": 1792051249,
+  "giá cà phê tăng phiên thứ ba liên tiếp bạc chạm đáy 10 tuần": 1792051249,
+  "cpi comes in hot ai goes cold": 1792051249
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -293,7 +300,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792038329.1789956,
+  "fetched": 1792051250.949736,
   "events": [
    {
     "title": "Core CPI m/m",
