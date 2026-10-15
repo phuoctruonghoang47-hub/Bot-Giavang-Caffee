@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "the odyssey composer ludwig göransson still takes swedish coffee breaks": 1791807330,
-  "dollar strength could continue on fed rate rise prospects": 1791807330,
   "giá vàng trong nước giảm mạnh sau nhịp đi ngang": 1791813402,
   "gold prices struggle to hold early gains as u s dollar nears 18 month high bond yields rem": 1791813402,
   "watch apollo s slok on housing us economic growth fed policy": 1791814647,
@@ -287,9 +285,13 @@
   "gold climbs over 1 on softer dollar yields ahead of us inflation data": 1792060044,
   "analysis why a 2 trillion deficit and 5 treasury yields are becoming america s biggest eco": 1792061996,
   "warsh s quest for quiet fed gets vocal pushback": 1792063704,
-  "watch ai rout deepens anthropic revenue hits 16 8b warsh to speak in bangkok": 1792065567,
-  "major brokerages expect next fed rate hike in december": 1792065567,
-  "the dollar surges as gold slides could a turning point be near": 1792065567
+  "us weekly jobless claims rise marginally amid low layoffs": 1792068969,
+  "us retail sales beat expectations in september on higher gasoline prices": 1792068969,
+  "watch ai rout deepens anthropic revenue hits 16 8b warsh to speak in bangkok": 1792068969,
+  "major brokerages expect next fed rate hike in december": 1792068969,
+  "gold fields ceo plays down prospect of higher northern star offer": 1792068969,
+  "dollar eases from 18 month high as treasury yields fall fed hike bets ease": 1792068969,
+  "the dollar surges as gold slides could a turning point be near": 1792068969
  },
  "usd": {
   "2026-10-07T14:00:00-04:00": {
@@ -302,7 +304,7 @@
   },
   "2026-10-15T08:30:00-04:00": {
    "pre": 1792063706,
-   "done": 1792068934
+   "done": 1792068971
   },
   "2026-10-15T23:30:00-04:00": {}
  },
