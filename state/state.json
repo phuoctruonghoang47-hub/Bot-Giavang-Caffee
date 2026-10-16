@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "dollar holds near 18 month high as geopolitical risks rise": 1791864623,
-  "investors are not panic hedging their dollar exposure vanda s jens nordvig on strengthenin": 1791864623,
-  "pound treads water as dollar holds firm": 1791864623,
   "một tín hiệu lạ đang diễn ra trên thị trường vàng": 1791868217,
   "tencent sells dollar dim sum bonds amid ai spending spree": 1791868217,
   "tích sản từ tiền nhàn rỗi giải mã sức hút của vàng nhẫn bảo tín minh châu": 1791870294,
@@ -286,7 +283,9 @@
   "euro gets much needed reprieve as ai wobbles rock the dollar": 1792119454,
   "indian shares on track for higher open on lower treasury yields sebi relief": 1792123230,
   "gold falls as investors await fed chairman s remarks": 1792123230,
-  "argentina pauses local dollar bond sales as debt wall nears": 1792123230
+  "argentina pauses local dollar bond sales as debt wall nears": 1792123230,
+  "fed s warsh gives no hint on october policy decision": 1792124764,
+  "fed s hammack warns inflation expectations deterioration could require fed response": 1792124764
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -303,7 +302,7 @@
   }
  },
  "cal": {
-  "fetched": 1792112694.3183467,
+  "fetched": 1792124766.1891463,
   "events": [
    {
     "title": "Core CPI m/m",
