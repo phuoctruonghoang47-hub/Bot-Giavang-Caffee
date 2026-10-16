@@ -16,9 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "giá vàng thế giới giảm do áp lực từ đồng usd và giá dầu": 1791852932,
-  "bản tin nông sản hôm nay 13 10 giá cà phê và hồ tiêu ổn định": 1791852932,
-  "gold holds drop as middle east fighting stokes inflation fears": 1791852932,
   "daily:🥇 Vàng:2026-10-13": 1791854096,
   "gold eases on firm dollar spotlight on us inflation data": 1791859490,
   "gold eases on firm dollar spotlight on u s inflation data": 1791859490,
@@ -286,7 +283,8 @@
   "treasury yields ease although inflation signals remain": 1792108104,
   "dollar recedes from 18 month high as bond rally tempers impact of hot inflation data": 1792108104,
   "bản tin nông sản hôm nay 16 10 giá cà phê hồ tiêu điều chỉnh tăng nhẹ": 1792109728,
-  "gold owners got tricked in 1933 mario innecco says and bullion banks are still trying to k": 1792109728
+  "gold owners got tricked in 1933 mario innecco says and bullion banks are still trying to k": 1792109728,
+  "giá vàng hồi mạnh khi lợi suất trái phiếu và tỷ giá usd đồng loạt giảm": 1792112692
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -300,7 +298,7 @@
   "2026-10-15T23:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792099435.6385794,
+  "fetched": 1792112694.3183467,
   "events": [
    {
     "title": "Core CPI m/m",
