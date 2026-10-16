@@ -14,10 +14,8 @@
   },
   "coffee": 91900
  },
- "alert_ref_gold": 4163.3,
+ "alert_ref_gold": 4206.4,
  "seen": {
-  "eurozone bond yields open lower track u s treasury yields": 1791875775,
-  "nhận 471 triệu đồng tiền bán vàng một sinh viên bị phong tỏa toàn bộ tài khoản ngân hàng": 1791877625,
   "u s treasury yields fall as energy prices pull back": 1791879067,
   "dollar slips geopolitical escalation risks seen limited before midterms": 1791882645,
   "treasury eurozone yields fall as markets look to u s inflation data": 1791884691,
@@ -292,7 +290,12 @@
   "dollar falls on ai concerns cautious fed comments": 1792134711,
   "bets on fed rate hold in october strengthen after warsh comments": 1792134711,
   "warsh boosts market expectations of fed rate hold in october": 1792134711,
-  "fed s goolsbee on inflation discouraging but still some optimism": 1792134711
+  "fed s goolsbee on inflation discouraging but still some optimism": 1792134711,
+  "agricultural products today october 16th coffee prices simultaneously fall sharply": 1792137694,
+  "nông sản hôm nay 16 10 giá cà phê đồng loạt giảm mạnh": 1792137694,
+  "coffee s coming glut may not be enough to calm volatile prices": 1792137694,
+  "metals rebound as sentiment improves after us inflation shock": 1792137694,
+  "fed s warsh withholds rate signal praises recent global tightening with no free riders": 1792137694
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -309,7 +312,7 @@
   }
  },
  "cal": {
-  "fetched": 1792124766.1891463,
+  "fetched": 1792137695.9894512,
   "events": [
    {
     "title": "Core CPI m/m",
