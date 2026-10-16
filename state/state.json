@@ -16,10 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "gold mining 2 0 are investors looking through an outdated lens": 1791915158,
-  "arabica coffee gains on tighter supplies": 1791915158,
-  "gold holds steady ahead of us inflation data warsh remarks": 1791915158,
-  "dollar slips from 18 month high as oil prices fall inflation data in focus": 1791915158,
   "treasury eurozone yields decline as markets look to u s inflation data": 1791921383,
   "daily:☕ Cà phê:2026-10-14": 1791921383,
   "fed s williams interview with bloomberg news full transcript": 1791921383,
@@ -307,7 +303,8 @@
   "treasury yields end eventful week lower": 1792171412,
   "fed chair kevin warsh warns of ai impact on the job market": 1792173306,
   "u s treasury yields waver as traders wrap up volatile week": 1792173306,
-  "dollar set for weekly loss as fed hike bets fade ai clouds outlook": 1792173306
+  "dollar set for weekly loss as fed hike bets fade ai clouds outlook": 1792173306,
+  "daily:☕ Cà phê:2026-10-17": 1792174722
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -324,7 +321,7 @@
   }
  },
  "cal": {
-  "fetched": 1792162737.1230452,
+  "fetched": 1792174724.4092505,
   "events": [
    {
     "title": "Core CPI m/m",
