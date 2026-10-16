@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4163.3,
  "seen": {
-  "gold falls as markets focus on u s data": 1791860964,
   "singapore bank selloff tests the city state s safe haven status": 1791863199,
   "dollar holds near 18 month high as geopolitical risks rise": 1791864623,
   "investors are not panic hedging their dollar exposure vanda s jens nordvig on strengthenin": 1791864623,
@@ -285,7 +284,9 @@
   "giá vàng thế giới tăng hơn 1 khi đồng usd suy yếu": 1792115801,
   "gold holds gains with haven demand and lower yields in focus": 1792117376,
   "coffee prices slide on optimism over global coffee crops": 1792117376,
-  "euro gets much needed reprieve as ai wobbles rock the dollar": 1792119454
+  "euro gets much needed reprieve as ai wobbles rock the dollar": 1792119454,
+  "gold falls as investors await fed chairman s remarks": 1792120961,
+  "gold futures settle higher as u s yields dollar fall": 1792120961
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -297,7 +298,8 @@
    "done": 1792068971
   },
   "2026-10-15T23:30:00-04:00": {
-   "pre": 1792117378
+   "pre": 1792117378,
+   "done": 1792123200
   }
  },
  "cal": {
