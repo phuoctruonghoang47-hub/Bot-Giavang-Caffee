@@ -16,11 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "williams says fed may not have to hike rates in 2027 at odds with traders": 1791925120,
-  "gold futures slip ahead of u s cpi data": 1791925120,
-  "gold a rally to 5400 from here": 1791925120,
-  "gold subdued ahead of us inflation data warsh remarks": 1791925120,
-  "watch fed s waller on monetary policy in the age of ai": 1791925120,
   "dollar pulls back as global bond pressure eases": 1791928471,
   "gold and silver alert the next big upward move could begin with another selloff": 1791928471,
   "fed s collins sees another rate hike on the table before end of 2026": 1791928471,
@@ -323,7 +318,7 @@
   }
  },
  "cal": {
-  "fetched": 1792174724.4092505,
+  "fetched": 1792185534.8956892,
   "events": [
    {
     "title": "Core CPI m/m",
