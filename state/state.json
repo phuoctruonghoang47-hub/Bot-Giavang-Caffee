@@ -16,10 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "đồng usd xuống thang từ đỉnh 18 tháng": 1791962167,
-  "market remains rates driven as high u s treasury yields dominate": 1791962167,
-  "week ahead for fx bonds u s inflation data in focus": 1791962167,
-  "giá vàng vừa tăng trở lại chiều qua sáng nay lại quay đầu giảm": 1791962167,
   "gold prices hold firm ahead of u s inflation data": 1791964834,
   "gold holds steady ahead of us inflation data": 1791964834,
   "u s dollar edges lower as treasury yields ease": 1791968452,
@@ -312,7 +308,7 @@
   }
  },
  "cal": {
-  "fetched": 1792210744.6484048,
+  "fetched": 1792223624.253793,
   "events": [
    {
     "title": "Core CPI m/m",
