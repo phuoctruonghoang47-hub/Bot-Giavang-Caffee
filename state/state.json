@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "wall st opens lower after hot cpi data fuels rate hike bets": 1791986554,
-  "fed rate hike call seen tight as inflation heats up": 1791986554,
-  "việt nam có thứ rau dân dã rẻ bèo là thực phẩm vàng cho mắt chẳng kém cà rốt": 1791986554,
-  "us treasuries slump as hot inflation lifts fed rate hike bets": 1791986554,
-  "commentary morning bid trillion dollar trade": 1791986554,
-  "gold drops over 1 as hot us inflation data boosts fed hike bets": 1791986554,
   "us inflation heats up in september fed rate hike this month back on table": 1791989933,
   "dollar advances to highest since may 2025 on fed hike views": 1791989933,
   "gold adds to losses as u s core cpi exceeds expectations": 1791989933,
@@ -280,7 +274,8 @@
   "ai rapidly improving could vastly boost us gdp anthropic s clark tells policymakers": 1792241989,
   "western copper gold corp wrn stock price today the wall street journal": 1792241989,
   "desert gold ventures inc daugf stock price today the wall street journal": 1792241989,
-  "wesdome gold mines ltd wdoff stock price today the wall street journal": 1792243632
+  "wesdome gold mines ltd wdoff stock price today the wall street journal": 1792243632,
+  "watch can the fed fight inflation without hurting farmers": 1792246485
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -297,7 +292,7 @@
   }
  },
  "cal": {
-  "fetched": 1792235644.459568,
+  "fetched": 1792246487.3148677,
   "events": [
    {
     "title": "Core CPI m/m",
