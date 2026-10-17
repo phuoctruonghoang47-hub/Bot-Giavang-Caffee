@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "bản tin nông sản hôm nay 14 10 giá cà phê và hồ tiêu tăng nhẹ": 1791937067,
-  "dollar retreats from 18 month high as oil prices fall inflation data in focus": 1791937067,
   "gold steady ahead of u s inflation data": 1791940089,
   "asian currencies consolidate ahead of u s cpi data": 1791940089,
   "nikkei rises 0 3 on possible position adjustments before u s cpi data": 1791940089,
@@ -298,7 +296,8 @@
   "treasury yields fall in week as turmoil subsides": 1792192498,
   "agricultural product prices today october 16th coffee prices fall sharply": 1792192498,
   "dollar finishes fourth straight week of gains": 1792196189,
-  "gold gains on softer dollar but heads for weekly fall": 1792196189
+  "gold gains on softer dollar but heads for weekly fall": 1792196189,
+  "the hunt for fed october": 1792199199
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -315,7 +314,7 @@
   }
  },
  "cal": {
-  "fetched": 1792185534.8956892,
+  "fetched": 1792199201.089004,
   "events": [
    {
     "title": "Core CPI m/m",
