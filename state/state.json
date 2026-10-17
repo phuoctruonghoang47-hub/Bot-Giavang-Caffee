@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "precious metals sink as u s cpi numbers give dollar a lift": 1792009415,
-  "lạm phát mỹ tăng vượt dự báo giá vàng giảm sâu": 1792009415,
   "concerns over tight supplies boost coffee prices": 1792011420,
   "fed survey shows price pressures intensifying as fuel costs rise": 1792012900,
   "fed s beige book shows price pressures may be intensifying": 1792012900,
@@ -272,7 +270,7 @@
   }
  },
  "cal": {
-  "fetched": 1792259284.4584336,
+  "fetched": 1792270257.5444872,
   "events": [
    {
     "title": "Core CPI m/m",
