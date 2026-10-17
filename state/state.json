@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "daily:🏦 Vĩ mô:2026-10-14": 1791975582,
   "treasury yields jump after firm inflation reading": 1791982567,
   "hai quan chức fed dịu giọng về sự cần thiết phải tăng lãi suất": 1791982567,
   "cuộc trỗi dậy của cà phê fine robusta việt nam": 1791982567,
@@ -283,7 +282,9 @@
   "gold futures edge up as u s dollar slips": 1792220757,
   "dấu ấn kinh tế thế giới tuần 11 17 10 2026 imf nâng dự báo tăng trưởng toàn cầu lạm phát m": 1792227187,
   "giá vàng bạc giảm sâu sắp tới có phục hồi": 1792228561,
-  "anthropic s clark says ai s impact accelerating quickly and could vastly boost us gdp": 1792230710
+  "anthropic s clark says ai s impact accelerating quickly and could vastly boost us gdp": 1792230710,
+  "watch wall street week america s relationship woes battery pivot farmers fed warning": 1792235642,
+  "michigan voters are fed up with the economy who gets their vote": 1792235642
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -300,7 +301,7 @@
   }
  },
  "cal": {
-  "fetched": 1792223624.253793,
+  "fetched": 1792235644.459568,
   "events": [
    {
     "title": "Core CPI m/m",
