@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "earnings support risk assets but limits to fed rate cut weigh": 1792045428,
-  "wsj dollar index rises 0 23 to 97 57": 1792045428,
   "americans haven t stopped drinking coffee they ve stopped leaving home for it": 1792048422,
   "arabica extends losses as brazil s export recovery weighs on sentiment": 1792048422,
   "agricultural products today october 15th coffee and pepper prices anchor at high levels": 1792048422,
@@ -229,7 +227,8 @@
   "mua vàng miếng thiệt gần 6 triệu đồng lượng trong nửa đầu tháng 10": 1792300651,
   "gold futures slip ahead of u s cpi data": 1792302718,
   "agricultural products today october 18th coffee prices end the week in red": 1792304216,
-  "nông sản hôm nay 18 10 giá cà phê kết thúc tuần trong sắc đỏ": 1792304216
+  "nông sản hôm nay 18 10 giá cà phê kết thúc tuần trong sắc đỏ": 1792304216,
+  "giá vàng thế giới khó dự báo diễn biến": 1792307100
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -246,80 +245,7 @@
   }
  },
  "cal": {
-  "fetched": 1792293501.4133987,
-  "events": [
-   {
-    "title": "Core CPI m/m",
-    "country": "USD",
-    "date": "2026-10-14T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.3%"
-   },
-   {
-    "title": "Core CPI y/y",
-    "country": "USD",
-    "date": "2026-10-14T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "2.5%",
-    "previous": "2.4%"
-   },
-   {
-    "title": "CPI m/m",
-    "country": "USD",
-    "date": "2026-10-14T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.6%",
-    "previous": "0.4%"
-   },
-   {
-    "title": "CPI y/y",
-    "country": "USD",
-    "date": "2026-10-14T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "3.6%",
-    "previous": "3.4%"
-   },
-   {
-    "title": "Core PPI m/m",
-    "country": "USD",
-    "date": "2026-10-15T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.2%"
-   },
-   {
-    "title": "Core Retail Sales m/m",
-    "country": "USD",
-    "date": "2026-10-15T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.6%",
-    "previous": "1.4%"
-   },
-   {
-    "title": "PPI m/m",
-    "country": "USD",
-    "date": "2026-10-15T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.6%",
-    "previous": "0.4%"
-   },
-   {
-    "title": "Retail Sales m/m",
-    "country": "USD",
-    "date": "2026-10-15T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.3%",
-    "previous": "1.2%"
-   },
-   {
-    "title": "Fed Chairman Warsh Speaks",
-    "country": "USD",
-    "date": "2026-10-15T23:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-   }
-  ]
+  "fetched": 1792307101.8711982,
+  "events": []
  }
 }
