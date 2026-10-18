@@ -16,22 +16,6 @@
  },
  "alert_ref_gold": 4206.4,
  "seen": {
-  "u s jobless claims edge up snap 5 week skid": 1792071199,
-  "us retail sales rise more than expected on gasoline receipts": 1792071199,
-  "dollar s fundamentals remain supportive despite pullback on ai concerns": 1792071199,
-  "gold holding overnight gains above 4 100 even as us ppi rises 6 3 in september": 1792071199,
-  "treasury eurozone bond yields fall to multiweek lows as u s inflation shock fades": 1792071199,
-  "governments globally to turn to non dollar bonds amid ai driven liquidity crunch citi bank": 1792071199,
-  "treasury yields fall even amid resilient economy sticky inflation": 1792074287,
-  "u s retail sales expanded in september": 1792074287,
-  "dollar stays lower after slew of u s data": 1792074287,
-  "gold price hits 4 154 oz after retail sales rise 0 8 in september": 1792074287,
-  "treasury yields slide as investors flee to safety of bonds amid tech rout": 1792074287,
-  "gold rebounds on weaker dollar yields october fed hike bets subdued": 1792074287,
-  "smbc s joe lavorgna i do think there are more fed hikes on the way just not in october": 1792078450,
-  "gold price near session high after philly fed survey falls to 20 9 in october": 1792078450,
-  "spot gold near highs after new york manufacturing index rises to 25 5": 1792078450,
-  "indian bank deposits hit record 3 trillion in september boosted by dollar deposits scheme": 1792078450,
   "giá vàng tăng mạnh trở lại giá trong nước cao hơn thế giới 12 7 triệu đồng lượng": 1792083682,
   "xuất khẩu cà phê đạt 6 57 tỷ usd giá chịu sức ép ra sao cuối năm": 1792083682,
   "economists hot ppi shows fed s work is not done": 1792083682,
@@ -198,7 +182,8 @@
   "gold futures slip ahead of u s cpi data": 1792302718,
   "agricultural products today october 18th coffee prices end the week in red": 1792304216,
   "nông sản hôm nay 18 10 giá cà phê kết thúc tuần trong sắc đỏ": 1792304216,
-  "giá vàng thế giới khó dự báo diễn biến": 1792307100
+  "giá vàng thế giới khó dự báo diễn biến": 1792307100,
+  "the playboy who inherited an empire of gunfighters and gold smugglers": 1792341784
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -215,7 +200,7 @@
   }
  },
  "cal": {
-  "fetched": 1792330065.5350485,
+  "fetched": 1792341786.104098,
   "events": []
  }
 }
