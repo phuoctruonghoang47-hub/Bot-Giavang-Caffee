@@ -16,8 +16,6 @@
  },
  "alert_ref_gold": 4164.3,
  "seen": {
-  "cabral gold inc cbgzf stock price today the wall street journal": 1792266362,
-  "3lm theta gold mines ltd profile": 1792271656,
   "agricultural product prices today october 17 coffee prices reverse and rebound at the end ": 1792277227,
   "ai rapidly improving could vastly boost u s gdp anthropic s clark tells policymakers": 1792278590,
   "bản tin nông sản hôm nay 18 10 giá cà phê tăng": 1792280637,
@@ -141,7 +139,16 @@
   "gold edges lower as investors weigh fed rate signals": 1792524434,
   "gold steady as investors await fed rate signals": 1792524434,
   "dollar dips on ai worries euro edges up despite french unrest": 1792524434,
-  "giá cà phê đồng loạt tăng": 1792524434
+  "giá cà phê đồng loạt tăng": 1792524434,
+  "giá vàng thế giới bị nén về sát 4 100 usd ounce": 1792535427,
+  "gold and silver alert why risks may grow after the election": 1792535427,
+  "tag lbma digital gold panel": 1792535427,
+  "tag digital gold market fragmentation": 1792535427,
+  "housing is flashing warning signs just as the fed weighs more interest rate hikes": 1792535427,
+  "the price of gold today oct 20 2026 and the best places to buy": 1792535427,
+  "gold pressured despite falling yields as hormuz diplomacy sparks oil price reversal kitco ": 1792535427,
+  "could fed up kansas voters send first democrat to senate in 94 years": 1792535427,
+  "dollar dips as traders weigh iran ai risks": 1792535427
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -158,7 +165,7 @@
   }
  },
  "cal": {
-  "fetched": 1792524436.262149,
+  "fetched": 1792535429.4665325,
   "events": []
  }
 }
