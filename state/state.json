@@ -16,14 +16,6 @@
  },
  "alert_ref_gold": 4164.3,
  "seen": {
-  "daily:🥇 Vàng:2026-10-19": 1792378163,
-  "dollar firmer euro weakens as french protests turn violent": 1792378163,
-  "bản tin nông sản hôm nay 19 10 giá cà phê ít biến động giá hồ tiêu ổn định": 1792378163,
-  "giá vàng châu á đi lên khi thị trường giảm kỳ vọng fed tăng lãi suất": 1792378163,
-  "robusta trong tuần giá nội địa quanh 92 500 đồng kg nông dân giữ cà phê như tài sản": 1792378163,
-  "sức khỏe kinh tế mỹ có thể chi phối diễn biến giá vàng tuần này": 1792378163,
-  "gold edges higher as traders ease rate hike bets on warsh speech": 1792378163,
-  "taiwan dollar bulls look past ai led selloff to year end rally": 1792378163,
   "dollar drawing support from geopolitical strains": 1792398177,
   "u s treasury yields fall in asian trade": 1792398177,
   "agricultural products today october 19 coffee prices extend their upward momentum": 1792398177,
@@ -199,7 +191,13 @@
   "tag platinum bullion": 1792626724,
   "french bond yields hit multiyear highs u s treasury yields edge higher": 1792626724,
   "canadian dollar holds near four week high as investors stick to rate hike bets": 1792626724,
-  "treasury yields steady as investors await jobless claims": 1792626724
+  "treasury yields steady as investors await jobless claims": 1792626724,
+  "gold falls weighed by rising energy costs fed uncertainty": 1792637583,
+  "giá vàng trồi sụt trên ngưỡng 4 100 usd oz spdr gold trust bán ròng": 1792637583,
+  "bản tin nông sản hôm nay 22 10 giá cà phê giảm mạnh": 1792637583,
+  "gold edges lower as traders weigh middle east signals fed rate path": 1792637583,
+  "the world s rich are finding a new home for their gold in singapore": 1792637583,
+  "the price of gold will reflect the pain elsewhere and gold equities are working as a lever": 1792637583
  },
  "usd": {
   "2026-10-14T08:30:00-04:00": {
@@ -216,7 +214,7 @@
   }
  },
  "cal": {
-  "fetched": 1792626726.5973592,
+  "fetched": 1792637585.0360842,
   "events": []
  }
 }
