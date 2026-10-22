@@ -16,15 +16,6 @@
  },
  "alert_ref_gold": 4103.7,
  "seen": {
-  "dollar drawing support from geopolitical strains": 1792398177,
-  "u s treasury yields fall in asian trade": 1792398177,
-  "agricultural products today october 19 coffee prices extend their upward momentum": 1792398177,
-  "nông sản hôm nay 19 10 giá cà phê nối dài đà tăng": 1792398177,
-  "giá cà phê arabica tăng vọt hơn 6 5": 1792398177,
-  "gold edges higher on softer oil fed rate outlook in focus": 1792398177,
-  "lời khuyên cho người đang băn khoăn mua vàng hay gửi tiết kiệm": 1792398177,
-  "dollar steady euro weakens after french protests turn violent": 1792398177,
-  "watch don wilson on the gpu market s trillion dollar question": 1792398177,
   "lode gold completes first six holes of expanded 20 hole drill program at fremont gold mine": 1792424846,
   "hassett says cpi data shows inflation needs some work": 1792424846,
   "pace of chinese yuan s gains vs dollar likely to remain gradual": 1792424846,
@@ -206,13 +197,20 @@
   "gold trending news latest updates analysis": 1792656796,
   "giá vàng trong nước đi ngang tỷ giá tại các ngân hàng giảm mạnh": 1792656796,
   "wsj dollar index falls 0 04 to 96 92": 1792656796,
-  "with a fed decision a week away lenders show how borrowers are handling higher rates": 1792656796
+  "with a fed decision a week away lenders show how borrowers are handling higher rates": 1792656796,
+  "jobless claims near the lowest since the 1960s as low fire trend continues": 1792677536,
+  "gold is no silver bullet and isn t hedging against equity drawdowns but debasement trade s": 1792677536,
+  "u s jobless claims return to downward trend": 1792677536,
+  "gold silver pressured despite lower yields as hormuz attacks send crude higher kitco am re": 1792677536,
+  "former dallas fed pres robert kaplan i don t think the economy is overheating": 1792677536,
+  "us weekly jobless claims near 57 year lows": 1792677536,
+  "gold prices under pressure as us weekly jobless claims fall to three month low": 1792677536,
+  "indonesia s coffee weather risk is shifting just as the market turns bearish": 1792677536,
+  "gold hits over two week low as oil rally fuels inflation worries": 1792677536,
+  "gold falls to more than two month low as oil fuelled inflation fears weigh": 1792677536,
+  "watch us economy jobless claims hit three month low at 194 000": 1792677536
  },
  "usd": {
-  "2026-10-14T08:30:00-04:00": {
-   "pre": 1791977326,
-   "done": 1791982569
-  },
   "2026-10-15T08:30:00-04:00": {
    "pre": 1792063706,
    "done": 1792068971
@@ -223,7 +221,7 @@
   }
  },
  "cal": {
-  "fetched": 1792650289.6695087,
+  "fetched": 1792677537.7219272,
   "events": []
  }
 }
