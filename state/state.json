@@ -16,18 +16,6 @@
  },
  "alert_ref_gold": 4053.3,
  "seen": {
-  "hạn nộp thuế đất phi nông nghiệp muộn nhất ngày 2 11": 1792491326,
-  "gold slips as investors await fed meeting next week": 1792491326,
-  "nông sản hôm nay 20 10 giá cà phê tăng lên mốc giá mới": 1792491326,
-  "giá vàng thế giới giảm trước áp lực từ giá dầu tăng cao": 1792491326,
-  "u s treasury yields move lower as investors await housing employment data": 1792491326,
-  "giá cà phê tăng mạnh phiên thứ hai liên tiếp đạt mốc 6 960 usd tấn": 1792491326,
-  "giá vàng trong nước sáng nay giảm 1 1 triệu đồng mỗi lượng": 1792491326,
-  "gold eases as elevated oil prices keep inflation risks in focus": 1792491326,
-  "euro rebounds as french protests ease dollar slips": 1792491326,
-  "vàng giảm giá vì usd và lợi suất trái phiếu cùng tăng": 1792491326,
-  "giá vàng đi xuống khi đồng usd và lợi suất trái phiếu mỹ tăng": 1792491326,
-  "liberica chìa khóa sinh tồn của ngành cà phê trong tương lai": 1792491326,
   "gold struggling to catch a bid even as u s pending home sales drop 7 3": 1792509307,
   "commentary fed sneezes but emerging markets aren t catching a cold yet": 1792509307,
   "fed to skip october but raise rates again in december nearly all economists say": 1792509307,
@@ -190,7 +178,20 @@
   "newmont beats quarterly profit estimates on higher gold prices cadia recovery": 1792732144,
   "u s treasury yields turn higher with oil french bond yields rise on protests": 1792732144,
   "newmont beats third quarter earnings expectations as higher gold sales boost profits miner": 1792732144,
-  "hiệu quả của nông sản chế biến nhìn từ ngành cà phê": 1792732144
+  "hiệu quả của nông sản chế biến nhìn từ ngành cà phê": 1792732144,
+  "the coffee house bước vào chương mới tái định vị hướng đến vị thế chuỗi cà phê việt hàng đ": 1792750868,
+  "treasury yields rise eurozone bond yields fall focus stays on france": 1792750868,
+  "take five ai trade meets the fed": 1792750868,
+  "gold falls as energy prices rise higher": 1792750868,
+  "the fed faces its most confusing economy yet": 1792750868,
+  "bridgewater china cut gold and is optimistic on local stocks": 1792750868,
+  "agricultural products today october 23 coffee prices continue to slide": 1792750868,
+  "nông sản hôm nay 23 10 giá cà phê tiếp đà trượt giá": 1792750868,
+  "quỹ vàng lớn nhất thế giới xả hơn chục tấn vàng khi giá tuột dốc": 1792750868,
+  "giá vàng tiếp tục giảm": 1792750868,
+  "giá vàng trong nước đi xuống chênh lệch với thế giới lên tới 16 triệu đồng": 1792750868,
+  "giá vàng bốc hơi hơn 100 usd oz vì mối lo lạm phát cao dai dẳng": 1792750868,
+  "tsx falls 1 as tech and gold mining shares slide": 1792750868
  },
  "usd": {
   "2026-10-15T08:30:00-04:00": {
@@ -203,7 +204,7 @@
   }
  },
  "cal": {
-  "fetched": 1792732146.7018554,
+  "fetched": 1792750869.7567966,
   "events": []
  }
 }
