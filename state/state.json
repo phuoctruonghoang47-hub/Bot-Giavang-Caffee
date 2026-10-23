@@ -16,15 +16,6 @@
  },
  "alert_ref_gold": 4053.3,
  "seen": {
-  "daily:🥇 Vàng:2026-10-20": 1792472695,
-  "gold inches up on softer dollar as investors assess fed rate outlook": 1792472695,
-  "gold slips as investors weigh fed rate outlook": 1792472695,
-  "doanh nghiệp có thể chịu thiệt hại khi thanh toán đúng thời điểm tỷ giá biến động mạnh": 1792472695,
-  "tin tức sáng 20 10 giá vàng giảm 27 usd ounce sẽ hồi phục trước thềm bầu cử giữa nhiệm kỳ ": 1792472695,
-  "bản tin nông sản hôm nay 20 10 giá cà phê tăng": 1792472695,
-  "daily coffee report 10 19 26": 1792472695,
-  "tag gold portfolio diversification": 1792472695,
-  "supply risks support coffee prices": 1792472695,
   "hạn nộp thuế đất phi nông nghiệp muộn nhất ngày 2 11": 1792491326,
   "gold slips as investors await fed meeting next week": 1792491326,
   "nông sản hôm nay 20 10 giá cà phê tăng lên mốc giá mới": 1792491326,
@@ -189,7 +180,17 @@
   "all or nothing biotech bets dented by rising treasury yields": 1792705775,
   "bản tin nông sản hôm nay 23 10 giá cà phê trong nước và thế giới cùng giảm": 1792714844,
   "major cryptocurrencies mostly higher as dollar eases": 1792714844,
-  "gold futures slip as u s dollar gains yields edge up": 1792714844
+  "gold futures slip as u s dollar gains yields edge up": 1792714844,
+  "gold heads for steep weekly loss as oil prices fuel fed rate concerns": 1792732144,
+  "giá vàng thế giới lao dốc mạnh nhất từ đầu tháng 8": 1792732144,
+  "gold holds near three month low as ai jitters fuel volatility": 1792732144,
+  "daily:🥇 Vàng:2026-10-23": 1792732144,
+  "giá vàng giảm xuống mức thấp nhất trong hơn 2 tháng": 1792732144,
+  "keurig must face coffee pod monopoly allegations judge says": 1792732144,
+  "newmont beats quarterly profit estimates on higher gold prices cadia recovery": 1792732144,
+  "u s treasury yields turn higher with oil french bond yields rise on protests": 1792732144,
+  "newmont beats third quarter earnings expectations as higher gold sales boost profits miner": 1792732144,
+  "hiệu quả của nông sản chế biến nhìn từ ngành cà phê": 1792732144
  },
  "usd": {
   "2026-10-15T08:30:00-04:00": {
@@ -202,7 +203,7 @@
   }
  },
  "cal": {
-  "fetched": 1792705777.6685972,
+  "fetched": 1792732146.7018554,
   "events": []
  }
 }
