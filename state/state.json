@@ -16,20 +16,6 @@
  },
  "alert_ref_gold": 4010.1,
  "seen": {
-  "treasury yields fall on string of weak housing data": 1792524434,
-  "signs of larger ice inventories weigh on coffee prices": 1792524434,
-  "daily:☕ Cà phê:2026-10-21": 1792524434,
-  "treasury yields mostly lower ahead of expected cpi increase": 1792524434,
-  "cabral gold plans to double phase 1 output as cuiú cuiú nears commercial production alan c": 1792524434,
-  "arabica coffee futures at near 2 month high": 1792524434,
-  "treasury yields edge lower amid string of weak housing data": 1792524434,
-  "tokenized gold could unlock 700 billion new demand world gold council": 1792524434,
-  "coreweave s bond rout should make the fed cautious": 1792524434,
-  "yes the fed can kill the ai boom": 1792524434,
-  "gold edges lower as investors weigh fed rate signals": 1792524434,
-  "gold steady as investors await fed rate signals": 1792524434,
-  "dollar dips on ai worries euro edges up despite french unrest": 1792524434,
-  "giá cà phê đồng loạt tăng": 1792524434,
   "giá vàng thế giới bị nén về sát 4 100 usd ounce": 1792535427,
   "gold and silver alert why risks may grow after the election": 1792535427,
   "tag lbma digital gold panel": 1792535427,
@@ -200,7 +186,11 @@
   "treasury yields rise as markets price in fed hold": 1792783537,
   "the price of gold today oct 23 2026 and the best places to buy": 1792783537,
   "on republican turf independents court voters fed up with both parties": 1792783537,
-  "gold set for steep weekly loss as rising oil prices bolster fed rate hike bets": 1792783537
+  "gold set for steep weekly loss as rising oil prices bolster fed rate hike bets": 1792783537,
+  "wall st week ahead earnings flood fed meeting will test rickety ai market rally": 1792794545,
+  "wsj dollar index falls 0 32 to 97 26": 1792794545,
+  "gold struggles as s p pmi shows health activity in manufacturing services sectors": 1792794545,
+  "gold price trades near 4 000 oz after final consumer sentiment holds steady at 48 inflatio": 1792794545
  },
  "usd": {
   "2026-10-15T23:30:00-04:00": {
@@ -209,7 +199,7 @@
   }
  },
  "cal": {
-  "fetched": 1792783539.6899486,
+  "fetched": 1792794547.0947268,
   "events": []
  }
 }
