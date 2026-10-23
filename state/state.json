@@ -1,7 +1,7 @@
 {
  "last_prices": {
-  "world_gold": 4032.2,
-  "world_gold_vnd": 125658346.33638127,
+  "world_gold": 4024.8,
+  "world_gold_vnd": 125388914.72094207,
   "domestic": {
    "Vàng miếng SJC": [
     139000000,
@@ -204,7 +204,7 @@
   }
  },
  "cal": {
-  "fetched": 1792750869.7567966,
+  "fetched": 1792765246.3964784,
   "events": []
  }
 }
