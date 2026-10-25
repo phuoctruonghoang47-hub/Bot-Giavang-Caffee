@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4010.1,
  "seen": {
-  "gold falls weighed by rising energy costs fed uncertainty": 1792637583,
-  "giá vàng trồi sụt trên ngưỡng 4 100 usd oz spdr gold trust bán ròng": 1792637583,
-  "bản tin nông sản hôm nay 22 10 giá cà phê giảm mạnh": 1792637583,
-  "gold edges lower as traders weigh middle east signals fed rate path": 1792637583,
-  "the world s rich are finding a new home for their gold in singapore": 1792637583,
-  "the price of gold will reflect the pain elsewhere and gold equities are working as a lever": 1792637583,
   "dollar falls to 3 week low on fresh ai jitters": 1792656796,
   "u s treasury yields may be poised for a breakout with fed meeting as catalyst says bmo": 1792656796,
   "agricultural products today 22 10 coffee prices plummet pepper and cocoa surge": 1792656796,
@@ -162,11 +156,60 @@
   "từ vườn già đến hạt cà phê robusta giá trị cao ở nam ban": 1792887971,
   "bản tin nông sản hôm nay 25 10 giá cà phê giảm": 1792887971,
   "daily:🥇 Vàng:2026-10-25": 1792887971,
-  "osceola gold inc osci pk stock price latest news": 1792887971
+  "osceola gold inc osci pk stock price latest news": 1792887971,
+  "người mua vàng đầu tuần có thể lỗ tới 8 1 triệu đồng lượng mua ở đỉnh lỗ hơn 52 triệu": 1792904632,
+  "gold price canada today live gold price in cad": 1792904632,
+  "giá vàng liên tục lao dốc nhà đầu tư nên làm gì": 1792904632,
+  "gold reserve ltd 97z sg stock price latest news": 1792904632
  },
- "usd": {},
+ "usd": {
+  "2026-10-28T14:00:00-04:00": {},
+  "2026-10-28T14:30:00-04:00": {},
+  "2026-10-29T08:30:00-04:00": {}
+ },
  "cal": {
-  "fetched": 1792879878.9602962,
-  "events": []
+  "fetched": 1792904634.4183187,
+  "events": [
+   {
+    "title": "Federal Funds Rate",
+    "country": "USD",
+    "date": "2026-10-28T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "4.00%",
+    "previous": "4.00%"
+   },
+   {
+    "title": "FOMC Statement",
+    "country": "USD",
+    "date": "2026-10-28T14:00:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "FOMC Press Conference",
+    "country": "USD",
+    "date": "2026-10-28T14:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "title": "Advance GDP q/q",
+    "country": "USD",
+    "date": "2026-10-29T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "3.2%",
+    "previous": "1.5%"
+   },
+   {
+    "title": "Core PCE Price Index m/m",
+    "country": "USD",
+    "date": "2026-10-29T08:30:00-04:00",
+    "impact": "High",
+    "forecast": "0.3%",
+    "previous": "0.2%"
+   }
+  ]
  }
 }
