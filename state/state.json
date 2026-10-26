@@ -16,16 +16,6 @@
  },
  "alert_ref_gold": 4010.1,
  "seen": {
-  "gold heads for steep weekly loss as oil prices fuel fed rate concerns": 1792732144,
-  "giá vàng thế giới lao dốc mạnh nhất từ đầu tháng 8": 1792732144,
-  "gold holds near three month low as ai jitters fuel volatility": 1792732144,
-  "daily:🥇 Vàng:2026-10-23": 1792732144,
-  "giá vàng giảm xuống mức thấp nhất trong hơn 2 tháng": 1792732144,
-  "keurig must face coffee pod monopoly allegations judge says": 1792732144,
-  "newmont beats quarterly profit estimates on higher gold prices cadia recovery": 1792732144,
-  "u s treasury yields turn higher with oil french bond yields rise on protests": 1792732144,
-  "newmont beats third quarter earnings expectations as higher gold sales boost profits miner": 1792732144,
-  "hiệu quả của nông sản chế biến nhìn từ ngành cà phê": 1792732144,
   "the coffee house bước vào chương mới tái định vị hướng đến vị thế chuỗi cà phê việt hàng đ": 1792750868,
   "treasury yields rise eurozone bond yields fall focus stays on france": 1792750868,
   "take five ai trade meets the fed": 1792750868,
@@ -129,7 +119,16 @@
   "tín hiệu từ fed có thể gây biến động giá vàng trong tuần này": 1792976174,
   "robusta trong tuần giá nội địa mất mốc 90 000 đồng kg nông dân ít bán sớm": 1792976174,
   "daily:🥇 Vàng:2026-10-26": 1792976174,
-  "gold steadies after weekly drop as focus shifts to fed meeting": 1792976174
+  "gold steadies after weekly drop as focus shifts to fed meeting": 1792976174,
+  "fed to stick with quarterly rate rises as it removes 2025 insurance cuts": 1792993471,
+  "new taiwan dollar likely to rebound after recent slump": 1792993471,
+  "giá vàng giảm tiếp trong tuần này": 1792993471,
+  "gold flat hovering below 4 000 oz": 1792993471,
+  "giá vàng trong nước đi ngang sjc duy trì ngưỡng 141 7 triệu đồng": 1792993471,
+  "indian shares on track for muted open as oil concerns persist fed in focus": 1792993471,
+  "asset manager australian dollar shorts hit record on risk off": 1792993471,
+  "giá vàng vẫn dưới ngưỡng 4 000 usd mỗi ounce trước thềm cuộc họp của fed": 1792993471,
+  "nghe podcasts điểm tin 6h thủ tướng ba lan thăm chính thức việt nam giá vàng giảm 2 tuần l": 1792993471
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {},
@@ -137,7 +136,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792968184.917792,
+  "fetched": 1792993473.1122,
   "events": [
    {
     "title": "Federal Funds Rate",
