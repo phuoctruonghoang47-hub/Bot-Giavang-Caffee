@@ -16,19 +16,6 @@
  },
  "alert_ref_gold": 4010.1,
  "seen": {
-  "the coffee house bước vào chương mới tái định vị hướng đến vị thế chuỗi cà phê việt hàng đ": 1792750868,
-  "treasury yields rise eurozone bond yields fall focus stays on france": 1792750868,
-  "take five ai trade meets the fed": 1792750868,
-  "gold falls as energy prices rise higher": 1792750868,
-  "the fed faces its most confusing economy yet": 1792750868,
-  "bridgewater china cut gold and is optimistic on local stocks": 1792750868,
-  "agricultural products today october 23 coffee prices continue to slide": 1792750868,
-  "nông sản hôm nay 23 10 giá cà phê tiếp đà trượt giá": 1792750868,
-  "quỹ vàng lớn nhất thế giới xả hơn chục tấn vàng khi giá tuột dốc": 1792750868,
-  "giá vàng tiếp tục giảm": 1792750868,
-  "giá vàng trong nước đi xuống chênh lệch với thế giới lên tới 16 triệu đồng": 1792750868,
-  "giá vàng bốc hơi hơn 100 usd oz vì mối lo lạm phát cao dai dẳng": 1792750868,
-  "tsx falls 1 as tech and gold mining shares slide": 1792750868,
   "coca cola s costa coffee purchase joins list of troubled consumer deals": 1792768763,
   "kalshi courts wall street in bid to be the inflation exchange with cpi futures": 1792768763,
   "gold heads for steep weekly loss as hormuz tensions lift crude toward five month highs kit": 1792768763,
@@ -128,7 +115,19 @@
   "indian shares on track for muted open as oil concerns persist fed in focus": 1792993471,
   "asset manager australian dollar shorts hit record on risk off": 1792993471,
   "giá vàng vẫn dưới ngưỡng 4 000 usd mỗi ounce trước thềm cuộc họp của fed": 1792993471,
-  "nghe podcasts điểm tin 6h thủ tướng ba lan thăm chính thức việt nam giá vàng giảm 2 tuần l": 1792993471
+  "nghe podcasts điểm tin 6h thủ tướng ba lan thăm chính thức việt nam giá vàng giảm 2 tuần l": 1792993471,
+  "us futures steady as oil retreats ahead of earnings deluge fed decision": 1793016375,
+  "how were monday morning headlines tied to the global coffee market": 1793016375,
+  "người mua vàng ở đỉnh giá 190 2 triệu đồng đang lỗ bao nhiêu": 1793016375,
+  "giá cà phê xuống dưới mốc 90 000 đồng kg": 1793016375,
+  "u s treasury yields are little changed as investors look ahead to the fed s rate decision": 1793016375,
+  "nộp thuế sử dụng đất phi nông nghiệp trên etax mobile": 1793016375,
+  "gold gains on softer oil prices fed decision in focus": 1793016375,
+  "gold gains as oil slide cools some inflation concerns": 1793016375,
+  "rupee weakens for third session as importers step up dollar bids foreign outflows bite": 1793016375,
+  "oil prices fed policy decision to steer rupee bonds this week": 1793016375,
+  "bản tin nông sản hôm nay 26 10 giá cà phê tại tây nguyên dưới mức 90 000 đồng kg": 1793016375,
+  "the 19 people in the room when the fed sets interest rates": 1793016375
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {},
@@ -136,7 +135,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1792993473.1122,
+  "fetched": 1793016377.1191764,
   "events": [
    {
     "title": "Federal Funds Rate",
