@@ -16,21 +16,6 @@
  },
  "alert_ref_gold": 4010.1,
  "seen": {
-  "treasury yields rise eurozone bond yields fall amid french concerns": 1792783537,
-  "daily:☕ Cà phê:2026-10-24": 1792783537,
-  "silver gold futures extend losses": 1792783537,
-  "week ahead for fx bonds decisions from fed other central banks in focus": 1792783537,
-  "coffee prices fall despite decline in ice coffee inventories to 5 week low": 1792783537,
-  "giá vàng thế giới bất ngờ rơi xuống dưới 4 000 usd ounce thấp nhất 6 tháng": 1792783537,
-  "gold drops below 4 000 as haven asset joins market sell off": 1792783537,
-  "treasury yields rise as markets price in fed hold": 1792783537,
-  "the price of gold today oct 23 2026 and the best places to buy": 1792783537,
-  "on republican turf independents court voters fed up with both parties": 1792783537,
-  "gold set for steep weekly loss as rising oil prices bolster fed rate hike bets": 1792783537,
-  "wall st week ahead earnings flood fed meeting will test rickety ai market rally": 1792794545,
-  "wsj dollar index falls 0 32 to 97 26": 1792794545,
-  "gold struggles as s p pmi shows health activity in manufacturing services sectors": 1792794545,
-  "gold price trades near 4 000 oz after final consumer sentiment holds steady at 48 inflatio": 1792794545,
   "bản tin nông sản hôm nay 24 10 giá cà phê tiếp tục giảm": 1792803473,
   "wall street doubts gold s near term strength main street maintains bullish minority as cen": 1792803473,
   "gold silver extend weekly losses as hormuz tensions push crude above 116 kitco pm report": 1792803473,
@@ -138,7 +123,24 @@
   "gold rises as lower oil prices ease inflation fears ahead of fed meeting": 1793040383,
   "euro falls against dollar brazilian real tumbles after lula election win": 1793040383,
   "henan yuguang gold lead co ltd 600531 ss stock price latest news": 1793040383,
-  "granada gold mine inc ggm v stock price latest news": 1793040383
+  "granada gold mine inc ggm v stock price latest news": 1793040383,
+  "wsj dollar index rises 0 29 to 97 12": 1793055564,
+  "u s treasury yields turn higher with oil french bond yields rise on protests": 1793055564,
+  "opinion the fed needs better models": 1793055564,
+  "gold holds above 4 000 as hormuz diplomacy cools crude ahead of fed decision kitco pm repo": 1793055564,
+  "gold spot prices silver prices platinum palladium": 1793055564,
+  "the iran war needs to end for gold to have a chance to rally ubwm s haworth": 1793055564,
+  "former fed vice chair richard clarida we expect one more rate hike at the december meeting": 1793055564,
+  "arabica futures slip": 1793055564,
+  "gold prices squeezed between rising oil and falling yields fresnillo silver output decline": 1793055564,
+  "the price of gold today oct 26 2026 and the best places to buy": 1793055564,
+  "ngân hàng trung ương và vàng nga bán mạnh trung quốc miệt mài mua": 1793055564,
+  "fed sắp họp chính sách thị trường dự đoán 90 nhtw thực hiện điều này với lãi suất": 1793055564,
+  "gold rebounds above 4 000 as lower oil prices ease fed tightening concerns kitco am report": 1793055564,
+  "wsj dollar index falls 0 12 to 96 80": 1793055564,
+  "egypt s pound hits record low against dollar": 1793055564,
+  "u s treasury yields inch lower as investors look ahead to the fed s rate decision": 1793055564,
+  "watch claudia sahm makes case for an october fed rate hike": 1793055564
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {},
@@ -146,7 +148,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1793031328.7228873,
+  "fetched": 1793055565.9541707,
   "events": [
    {
     "title": "Federal Funds Rate",
