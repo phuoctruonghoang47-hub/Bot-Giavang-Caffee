@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4010.1,
  "seen": {
-  "agricultural products today october 24th coffee prices drop sharply": 1792835014,
-  "nông sản hôm nay 24 10 giá cà phê giảm sốc": 1792835014,
-  "the playboy who inherited an empire of gunfighters and gold smugglers": 1792835014,
-  "gold futures post back to back losses": 1792835014,
-  "gold s next evolution": 1792835014,
-  "watch dudley sees fed likely to hold with a hike coming in december": 1792835014,
   "kitco global index kgx track gold silver oil crypto more vs usd": 1792849627,
   "treasury yields fall in week as turmoil subsides": 1792849627,
   "treasury yields fall on string of weak housing data": 1792849627,
@@ -149,7 +143,22 @@
   "nhận định của giới phân tích về cuộc họp sắp diễn ra của fed": 1793085056,
   "gold edges lower as investors mull potential fed rate hike this year": 1793085056,
   "fed có thể gây bất ngờ với quyết định lãi suất tuần này": 1793085056,
-  "colombia to sell new dollar bonds amid fiscal pressures": 1793085056
+  "colombia to sell new dollar bonds amid fiscal pressures": 1793085056,
+  "wall st on pace for higher open as oil pulls back ahead of fed decision": 1793107667,
+  "dollar likely to stay supported ahead of midterms": 1793107667,
+  "what could send gold higher if not middle east peace": 1793107667,
+  "treasury yields fall dollar firms as market awaits wednesday s fed decision": 1793107667,
+  "tsx futures muted as gold weakness offsets oil gains": 1793107667,
+  "congo gold finances is backed rebels through uganda sentry says": 1793107667,
+  "gold retreats on stronger dollar traders brace for fed": 1793107667,
+  "samsung life prices record dollar bond as investors defy turmoil": 1793107667,
+  "nông sản hôm nay 27 10 giá cà phê trượt dài": 1793107667,
+  "cà phê arabica sơn la dự kiến lên sàn đấu giá tại hawaii vào tháng 11": 1793107667,
+  "currency crossroads why exchange rates may be the next big driver of coffee prices": 1793107667,
+  "indian equity benchmarks muted as elevated oil fed in focus": 1793107667,
+  "daily coffee report 10 26 26": 1793107667,
+  "10 year treasury yield is attractive says societe generale s subadra rajappa ahead of fed ": 1793107667,
+  "canadian dollar steadies after posting longest daily winning streak in four years": 1793107667
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {},
@@ -157,7 +166,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1793083068.000414,
+  "fetched": 1793107669.6080942,
   "events": [
    {
     "title": "Federal Funds Rate",
