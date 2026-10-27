@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4069.6,
  "seen": {
-  "daily:☕ Cà phê:2026-10-25": 1792870674,
-  "gold silver platinum news opinion analysis": 1792870674,
-  "fed set to lead g7 trio in hawkish rate pause eco week ahead": 1792879877,
-  "soumya kukreti midwest gold ltd profile and biography": 1792879877,
-  "precious metals prices canada gold silver platinum palladium rhodium in cad": 1792879877,
-  "serabi gold plc b9o2 f stock price latest news": 1792879877,
   "từ vườn già đến hạt cà phê robusta giá trị cao ở nam ban": 1792887971,
   "bản tin nông sản hôm nay 25 10 giá cà phê giảm": 1792887971,
   "daily:🥇 Vàng:2026-10-25": 1792887971,
@@ -158,7 +152,18 @@
   "amundi says worst is behind us as gold flirts with 4 000": 1793127085,
   "chinese households are buying gold s dip as prices test 4 000": 1793127085,
   "gold gains on softer oil prices ahead of fed meeting": 1793127085,
-  "coffee retreats on an improved supply outlook though stocks and irregular weather continue": 1793127085
+  "coffee retreats on an improved supply outlook though stocks and irregular weather continue": 1793127085,
+  "gold futures gain as oil prices fall": 1793141348,
+  "gold climbs above 4 050 as wall street rallies ahead of fed decision kitco pm report": 1793141348,
+  "global gold etp holdings description page_description": 1793141348,
+  "fed s rate decision lands days before midterm elections": 1793141348,
+  "gold price needs to build a floor here or face a deeper correction standard chartered s co": 1793141348,
+  "wsj dollar index falls 0 25 this week to 96 84": 1793141348,
+  "freeport beats q3 earnings expectations despite rising costs and sharp drop in gold sales": 1793141348,
+  "poll strong dollar high yields drag on gold outlook but central bank demand lends support": 1793141348,
+  "the price of gold today oct 27 2026 and the best places to buy": 1793141348,
+  "dollar edges higher as focus turns to central bank meetings": 1793141348,
+  "dollar rises as markets eye central bank meetings": 1793141348
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {},
@@ -166,7 +171,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1793127087.2263362,
+  "fetched": 1793141350.243673,
   "events": [
    {
     "title": "Federal Funds Rate",
