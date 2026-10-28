@@ -1,18 +1,18 @@
 {
  "last_prices": {
-  "world_gold": 4071.5,
-  "world_gold_vnd": 126804539.42049333,
+  "world_gold": 4043.4,
+  "world_gold_vnd": 125929380.9880444,
   "domestic": {
    "Vàng miếng SJC": [
-    139000000,
-    142000000
+    139700000,
+    142700000
    ],
    "Nhẫn trơn PNJ 999.9": [
-    137600000,
-    140600000
+    137000000,
+    141000000
    ]
   },
-  "coffee": 88900
+  "coffee": 89100
  },
  "alert_ref_gold": 4069.6,
  "seen": {
@@ -179,7 +179,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1793152697.143985,
+  "fetched": 1793171351.0854347,
   "events": [
    {
     "title": "Federal Funds Rate",
