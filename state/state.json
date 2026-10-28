@@ -16,7 +16,6 @@
  },
  "alert_ref_gold": 4069.6,
  "seen": {
-  "warsh tells traders to watch the data they still follow the fed": 1792950279,
   "opinion kevin warsh forward guidance and the nobel prize": 1792959391,
   "phố wall dự báo giá vàng khó bật lên sau nhịp giảm sâu": 1792959391,
   "daily:☕ Cà phê:2026-10-26": 1792959391,
@@ -208,15 +207,43 @@
   "vì sao fed có thể giữ nguyên lãi suất dù số liệu lạm phát mỹ đang nóng": 1793199618,
   "fed sẽ tăng lãi suất thêm nhiều lần nữa": 1793199618,
   "state street gold strategy description page_description": 1793199618,
-  "được và mất gì khi dồn hết tiền mua vàng": 1793199618
+  "được và mất gì khi dồn hết tiền mua vàng": 1793199618,
+  "view fomc holds rates steady markets rise modestly": 1793218285,
+  "fed holds rates steady but two officials sought another increase": 1793218285,
+  "wall street mostly rises as fed holds key rate steady deferring next likely hike to decemb": 1793218285,
+  "gold price canada today live gold price in cad": 1793218285,
+  "coffee prices fall to 2 week low on brazilian real weakness and arriving brazilian beans": 1793218285,
+  "fed day playbook a trader s guide to gold price action": 1793218285,
+  "daily:☕ Cà phê:2026-10-29": 1793218285,
+  "gold price at cad 5 684 oz after bank of canada raises 25 bps sees growth slowing in q4 be": 1793218285,
+  "treasury yields little changed ahead of fed": 1793218285,
+  "rủi ro lớn đối với đồng usd từ cơn sốt ai": 1793218285,
+  "gold recovery stalls as saudi refinery attack claims lift crude silver retreats kitco am r": 1793218285,
+  "fed officials not aligned on weight of financial conditions": 1793218285,
+  "market talk why is the fed waiting to hike": 1793218285,
+  "copper wavers near two week high as traders look to fed meeting": 1793218285,
+  "the ai fed votes to hold interest rates steady": 1793218285,
+  "giá vàng châu á giảm trước lo ngại lạm phát gia tăng": 1793218285,
+  "10 year treasury yield creeps higher even as fed keeps rates the same": 1793218285,
+  "rising yields may help tighten financial conditions but won t do the fed s job fedwatch ad": 1793218285,
+  "gold edges lower ahead of fed rate decision warsh comments": 1793218285,
+  "barclays giannoni sees fed hiking in december and january as inflation pressures persist": 1793218285,
+  "dollar flat against peers after fed holds rates steady": 1793218285,
+  "watch fed will raise rates in december clarida predicts": 1793218285,
+  "watch robert kaplan fed can wait before hiking rates": 1793218285,
+  "watch ai boom complicates fed s demand versus supply call clarida says": 1793218285
  },
  "usd": {
-  "2026-10-28T14:00:00-04:00": {},
-  "2026-10-28T14:30:00-04:00": {},
+  "2026-10-28T14:00:00-04:00": {
+   "done": 1793218287
+  },
+  "2026-10-28T14:30:00-04:00": {
+   "done": 1793218289
+  },
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1793199619.9522748,
+  "fetched": 1793218287.5457628,
   "events": [
    {
     "title": "Federal Funds Rate",
