@@ -16,10 +16,6 @@
  },
  "alert_ref_gold": 4069.6,
  "seen": {
-  "từ vườn già đến hạt cà phê robusta giá trị cao ở nam ban": 1792887971,
-  "bản tin nông sản hôm nay 25 10 giá cà phê giảm": 1792887971,
-  "daily:🥇 Vàng:2026-10-25": 1792887971,
-  "osceola gold inc osci pk stock price latest news": 1792887971,
   "người mua vàng đầu tuần có thể lỗ tới 8 1 triệu đồng lượng mua ở đỉnh lỗ hơn 52 triệu": 1792904632,
   "gold price canada today live gold price in cad": 1792904632,
   "giá vàng liên tục lao dốc nhà đầu tư nên làm gì": 1792904632,
@@ -163,7 +159,19 @@
   "poll strong dollar high yields drag on gold outlook but central bank demand lends support": 1793141348,
   "the price of gold today oct 27 2026 and the best places to buy": 1793141348,
   "dollar edges higher as focus turns to central bank meetings": 1793141348,
-  "dollar rises as markets eye central bank meetings": 1793141348
+  "dollar rises as markets eye central bank meetings": 1793141348,
+  "gold clings to gains above 4 000 as markets await fed": 1793152695,
+  "french bond yields hit multiyear highs u s treasury yields edge higher": 1793152695,
+  "wsj dollar index falls 0 25 to 96 96": 1793152695,
+  "cà phê arabica của sơn la sẽ lên sàn đấu giá tại hawaii mỹ": 1793152695,
+  "bullish treasury bets face reversal risk from hawkish fed": 1793152695,
+  "giá vàng bạc giảm liên tục nhà đầu tư lỗ nặng": 1793152695,
+  "giá vàng giữ nhịp phục hồi dù usd tăng giá mạnh spdr gold trust quay lại mua ròng": 1793152695,
+  "bản tin nông sản hôm nay 28 10 giá cà phê giảm": 1793152695,
+  "treasury yields rise slightly ahead of expected fed hold": 1793152695,
+  "we don t understand the gold price": 1793152695,
+  "key tactics for handling gold today": 1793152695,
+  "gold smuggling funds islamic state linked insurgency in eastern congo report says": 1793152695
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {},
@@ -171,7 +179,7 @@
   "2026-10-29T08:30:00-04:00": {}
  },
  "cal": {
-  "fetched": 1793141350.243673,
+  "fetched": 1793152697.143985,
   "events": [
    {
     "title": "Federal Funds Rate",
