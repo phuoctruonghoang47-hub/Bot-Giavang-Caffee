@@ -16,18 +16,6 @@
  },
  "alert_ref_gold": 4069.6,
  "seen": {
-  "us futures steady as oil retreats ahead of earnings deluge fed decision": 1793016375,
-  "how were monday morning headlines tied to the global coffee market": 1793016375,
-  "người mua vàng ở đỉnh giá 190 2 triệu đồng đang lỗ bao nhiêu": 1793016375,
-  "giá cà phê xuống dưới mốc 90 000 đồng kg": 1793016375,
-  "u s treasury yields are little changed as investors look ahead to the fed s rate decision": 1793016375,
-  "nộp thuế sử dụng đất phi nông nghiệp trên etax mobile": 1793016375,
-  "gold gains on softer oil prices fed decision in focus": 1793016375,
-  "gold gains as oil slide cools some inflation concerns": 1793016375,
-  "rupee weakens for third session as importers step up dollar bids foreign outflows bite": 1793016375,
-  "oil prices fed policy decision to steer rupee bonds this week": 1793016375,
-  "bản tin nông sản hôm nay 26 10 giá cà phê tại tây nguyên dưới mức 90 000 đồng kg": 1793016375,
-  "the 19 people in the room when the fed sets interest rates": 1793016375,
   "coffee prices fall as brazilian real plunges": 1793040383,
   "daily:☕ Cà phê:2026-10-27": 1793040383,
   "gold prices are oversold below 4 000 but a potential rally could still be out of reach in ": 1793040383,
@@ -271,7 +259,31 @@
   "fed chairman warsh politics played no role in the decision on rates": 1793254129,
   "new zealand dollar tanks after central bank defies markets near certainty it would hike ra": 1793254129,
   "fed leaves rates unchanged as it awaits accumulation of more information": 1793254129,
-  "giá vàng miếng sjc và vàng nhẫn 4 số 9 tăng mạnh trong phiên sáng": 1793254129
+  "giá vàng miếng sjc và vàng nhẫn 4 số 9 tăng mạnh trong phiên sáng": 1793254129,
+  "fed giữ nguyên lãi suất áp lực nào đối với việt nam": 1793280511,
+  "falling coffee inflation spurs demand recovery challenging surplus narrative": 1793280511,
+  "japan s coffee market rebalances consumption slips imports concentrate and vietnam tighten": 1793280511,
+  "coffee exports through colombian ports fall in first half": 1793280511,
+  "gold falls as investors assess fed signals await inflation data": 1793280511,
+  "the fed plays for time but doesn t have much": 1793280511,
+  "fed highlights economic strength but muddies outlook for treasuries": 1793280511,
+  "giá cà phê giảm phiên thứ 5 liên tiếp robusta về mức thấp nhất một năm": 1793280511,
+  "gold slips as fed hike bets linger ahead of us inflation data": 1793280511,
+  "hong kong monetary authority leaves interest rates unchanged tracking fed move": 1793280511,
+  "dollar steady after fed hold leaves rate path murky": 1793280511,
+  "vàng sjc giữ mức 142 7 triệu đồng lượng tỷ giá trung tâm tăng 13 đồng": 1793280511,
+  "indian shares rise after fed holds rates steady earnings led gains boost optimism": 1793280511,
+  "daily:🥇 Vàng:2026-10-29": 1793280511,
+  "giá vàng thế giới giảm do sức ép từ giá dầu và lợi suất trái phiếu mỹ": 1793280511,
+  "daily:🏦 Vĩ mô:2026-10-29": 1793280511,
+  "giá vàng giằng co sau cuộc họp fed spdr gold trust tiếp tục mua ròng": 1793280511,
+  "đọc nhanh 29 10 phố wall đi lên khi fed giữ nguyên lãi suất thế giới di động lập kỷ lục mớ": 1793280511,
+  "agnico eagle beats earnings expectations as higher gold prices offset rising mining costs": 1793280511,
+  "wsj dollar index falls 0 12 to 97 18": 1793280511,
+  "fundstrat s tom lee we can say big beats are great because the fed won t try and slow grow": 1793280511,
+  "fed chairman warsh on a december hike i don t believe in forward guidance absent a crisis": 1793280511,
+  "fed giữ nguyên lãi suất": 1793280511,
+  "fomc votes to leave interest rates unchanged": 1793280511
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -280,10 +292,12 @@
   "2026-10-28T14:30:00-04:00": {
    "done": 1793218289
   },
-  "2026-10-29T08:30:00-04:00": {}
+  "2026-10-29T08:30:00-04:00": {
+   "done": 1793280513
+  }
  },
  "cal": {
-  "fetched": 1793254131.4387808,
+  "fetched": 1793280513.2483935,
   "events": [
    {
     "title": "Federal Funds Rate",
