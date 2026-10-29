@@ -16,23 +16,6 @@
  },
  "alert_ref_gold": 4023.0,
  "seen": {
-  "wsj dollar index rises 0 29 to 97 12": 1793055564,
-  "u s treasury yields turn higher with oil french bond yields rise on protests": 1793055564,
-  "opinion the fed needs better models": 1793055564,
-  "gold holds above 4 000 as hormuz diplomacy cools crude ahead of fed decision kitco pm repo": 1793055564,
-  "gold spot prices silver prices platinum palladium": 1793055564,
-  "the iran war needs to end for gold to have a chance to rally ubwm s haworth": 1793055564,
-  "former fed vice chair richard clarida we expect one more rate hike at the december meeting": 1793055564,
-  "arabica futures slip": 1793055564,
-  "gold prices squeezed between rising oil and falling yields fresnillo silver output decline": 1793055564,
-  "the price of gold today oct 26 2026 and the best places to buy": 1793055564,
-  "ngân hàng trung ương và vàng nga bán mạnh trung quốc miệt mài mua": 1793055564,
-  "fed sắp họp chính sách thị trường dự đoán 90 nhtw thực hiện điều này với lãi suất": 1793055564,
-  "gold rebounds above 4 000 as lower oil prices ease fed tightening concerns kitco am report": 1793055564,
-  "wsj dollar index falls 0 12 to 96 80": 1793055564,
-  "egypt s pound hits record low against dollar": 1793055564,
-  "u s treasury yields inch lower as investors look ahead to the fed s rate decision": 1793055564,
-  "watch claudia sahm makes case for an october fed rate hike": 1793055564,
   "daily:🥇 Vàng:2026-10-27": 1793066103,
   "daily:🏦 Vĩ mô:2026-10-27": 1793066103,
   "gold steadies above 4 000 with fed rate decision in focus": 1793066103,
@@ -284,7 +267,21 @@
   "opinion the federal reserve s hawkish hold": 1793300847,
   "canadian dollar strengthens bond yields rise after boc s rate hike": 1793300847,
   "fed holds rates in wait and see mode days before the midterms": 1793300847,
-  "fed chairman warsh interest rates matter for the ai trade not divorced from rest of the ec": 1793300847
+  "fed chairman warsh interest rates matter for the ai trade not divorced from rest of the ec": 1793300847,
+  "daily coffee report 10 29 26": 1793316532,
+  "us gdp looks good inflation doesn t and savings won t last forever": 1793316532,
+  "treasury yields fall following major central banks hold": 1793316532,
+  "warsh s forward silence risks bigger treasury market swings": 1793316532,
+  "gold silver futures settle lower": 1793316532,
+  "world s no 2 gold miner says diesel risks driving up 2027 costs": 1793316532,
+  "lbma members back tokenised gold but seek legal certainty and safeguards": 1793316532,
+  "tối nay giá vàng lại giảm thử thách mốc 4 000 usd ounce": 1793316532,
+  "coffee prices fall to 1 month as concerns continue about brazilian sales": 1793316532,
+  "treasury yields fall amid hot u s indicators": 1793316532,
+  "us inflation heats up in september consumer spending rises": 1793316532,
+  "warsh s ai optimism may box him in at the fed": 1793316532,
+  "gold slides as higher u s inflation reinforces fed tightening bets": 1793316532,
+  "the fed s ai puzzle will high rates slow the boom": 1793316532
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -298,7 +295,7 @@
   }
  },
  "cal": {
-  "fetched": 1793300848.9862735,
+  "fetched": 1793316533.9860735,
   "events": [
    {
     "title": "Federal Funds Rate",
