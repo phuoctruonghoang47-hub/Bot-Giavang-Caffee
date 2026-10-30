@@ -16,15 +16,6 @@
  },
  "alert_ref_gold": 4023.0,
  "seen": {
-  "daily:🥇 Vàng:2026-10-27": 1793066103,
-  "daily:🏦 Vĩ mô:2026-10-27": 1793066103,
-  "gold steadies above 4 000 with fed rate decision in focus": 1793066103,
-  "newcore gold says market undervalues enchi after pfs luke alexander": 1793066103,
-  "week ahead for fx bonds decisions from fed other central banks in focus": 1793066103,
-  "treasury yields mixed as markets price in a fed hold": 1793066103,
-  "treasury yields little changed french bonds outperform": 1793066103,
-  "dollar general overcharged shoppers ftc and states allege in lawsuit": 1793066103,
-  "gold futures pick up as oil prices pull back": 1793066103,
   "luckin coffee china s coffee giant is betting on the next wave of global demand": 1793085056,
   "japan s green coffee stocks see slight decline in march": 1793085056,
   "gold eases on firmer dollar ahead of fed decision": 1793085056,
@@ -281,7 +272,18 @@
   "us inflation heats up in september consumer spending rises": 1793316532,
   "warsh s ai optimism may box him in at the fed": 1793316532,
   "gold slides as higher u s inflation reinforces fed tightening bets": 1793316532,
-  "the fed s ai puzzle will high rates slow the boom": 1793316532
+  "the fed s ai puzzle will high rates slow the boom": 1793316532,
+  "bản tin nông sản hôm nay 30 10 giá cà phê giảm": 1793328556,
+  "dollar s rate fueled rally set to ride out us midterm gridlock": 1793328556,
+  "daily:🥇 Vàng:2026-10-30": 1793328556,
+  "daily:🏦 Vĩ mô:2026-10-30": 1793328556,
+  "gold declines weighed by tighter monetary policy expectations": 1793328556,
+  "giá vàng trượt nhanh về gần 4 000 usd oz sau báo cáo lạm phát pce mỹ": 1793328556,
+  "silver could see further losses against gold as physical market weakens metals focus": 1793328556,
+  "gold remains stuck as the fed takes a hawkish pause tds melek": 1793328556,
+  "giá vàng lại giảm thử thách mốc 4 000 usd ounce": 1793328556,
+  "hassett sees fed acting if october inflation data come in high": 1793328556,
+  "third quarter u s gdp grew at 3 4 rate as september inflation accelerates": 1793328556
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -295,7 +297,7 @@
   }
  },
  "cal": {
-  "fetched": 1793316533.9860735,
+  "fetched": 1793328557.7761643,
   "events": [
    {
     "title": "Federal Funds Rate",
