@@ -16,30 +16,6 @@
  },
  "alert_ref_gold": 3907.2,
  "seen": {
-  "view fomc holds rates steady markets rise modestly": 1793218285,
-  "fed holds rates steady but two officials sought another increase": 1793218285,
-  "wall street mostly rises as fed holds key rate steady deferring next likely hike to decemb": 1793218285,
-  "gold price canada today live gold price in cad": 1793218285,
-  "coffee prices fall to 2 week low on brazilian real weakness and arriving brazilian beans": 1793218285,
-  "fed day playbook a trader s guide to gold price action": 1793218285,
-  "daily:☕ Cà phê:2026-10-29": 1793218285,
-  "gold price at cad 5 684 oz after bank of canada raises 25 bps sees growth slowing in q4 be": 1793218285,
-  "treasury yields little changed ahead of fed": 1793218285,
-  "rủi ro lớn đối với đồng usd từ cơn sốt ai": 1793218285,
-  "gold recovery stalls as saudi refinery attack claims lift crude silver retreats kitco am r": 1793218285,
-  "fed officials not aligned on weight of financial conditions": 1793218285,
-  "market talk why is the fed waiting to hike": 1793218285,
-  "copper wavers near two week high as traders look to fed meeting": 1793218285,
-  "the ai fed votes to hold interest rates steady": 1793218285,
-  "giá vàng châu á giảm trước lo ngại lạm phát gia tăng": 1793218285,
-  "10 year treasury yield creeps higher even as fed keeps rates the same": 1793218285,
-  "rising yields may help tighten financial conditions but won t do the fed s job fedwatch ad": 1793218285,
-  "gold edges lower ahead of fed rate decision warsh comments": 1793218285,
-  "barclays giannoni sees fed hiking in december and january as inflation pressures persist": 1793218285,
-  "dollar flat against peers after fed holds rates steady": 1793218285,
-  "watch fed will raise rates in december clarida predicts": 1793218285,
-  "watch robert kaplan fed can wait before hiking rates": 1793218285,
-  "watch ai boom complicates fed s demand versus supply call clarida says": 1793218285,
   "fed giữ nguyên lãi suất dù thừa nhận lạm phát đang cao": 1793232550,
   "gold edges lower after fed holds rates with limited guidance": 1793232550,
   "fed s warsh announces changes in how future fomc meetings will go": 1793232550,
@@ -256,7 +232,13 @@
   "xaup graniteshares 4x long gold etp overview": 1793467730,
   "fed s logan need at least 2 quarter point hikes calls for pause after 50 bps or rate incre": 1793467730,
   "former richmond fed pres lacker on fed decision i m surprised at the lack of urgency": 1793467730,
-  "download d3r data austral gold ltd price data": 1793467730
+  "download d3r data austral gold ltd price data": 1793467730,
+  "us jobs pickup may keep fed on track to hike rates again": 1793479030,
+  "is dollar general charging too much": 1793479030,
+  "daily:☕ Cà phê:2026-11-01": 1793479030,
+  "giá vàng trong nước đã giảm 53 triệu đồng lượng từ mức đỉnh của năm nay": 1793479030,
+  "check out sbi gold etf s stock price sbigold in in real time": 1793479030,
+  "fairchild gold corp fair v stock price latest news": 1793479030
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -270,7 +252,7 @@
   }
  },
  "cal": {
-  "fetched": 1793467731.9416623,
+  "fetched": 1793479032.1694975,
   "events": [
    {
     "title": "Federal Funds Rate",
