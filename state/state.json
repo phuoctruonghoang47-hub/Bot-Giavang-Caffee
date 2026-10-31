@@ -16,26 +16,6 @@
  },
  "alert_ref_gold": 3907.2,
  "seen": {
-  "mr hunter lê khắc ngọ xin định giá lại 143 miếng vàng bị thu giữ": 1793174416,
-  "ứng dụng công nghệ vào xuất khẩu cà phê một doanh nghiệp có hợp đồng 200 000 tấn sang trun": 1793174416,
-  "u s treasury yields rise ahead of federal reserve interest rate decision": 1793174416,
-  "gold holds above 4 000 as traders look to fed rate decision": 1793174416,
-  "gold slips on oil fuelled inflation fears ahead of fed meeting": 1793174416,
-  "tt đường cà phê ngày 28 10 giá đường bật tăng trở lại arabica xuống mức thấp nhất 3 tuần": 1793174416,
-  "dollar steady ahead of fed decision kiwi slumps after rbnz holds": 1793174416,
-  "daily coffee report 10 27 26": 1793174416,
-  "giá vàng thế giới đi lên nhờ giá dầu giảm trước thềm cuộc họp của fed": 1793174416,
-  "treasury yields rise eurozone bond yields fall amid french concerns": 1793174416,
-  "dollar steady ahead of fed decision kiwi swoons after rbnz holds": 1793174416,
-  "india jewelers hold off gold buying betting prices will drop": 1793174416,
-  "comex gold settles 2 12 lower at 4042 80": 1793174416,
-  "treasury yields fall amid fed s blackout period lower oil prices": 1793174416,
-  "wsj dollar index rises 0 19 to 97 30": 1793174416,
-  "fed expected to hold rates with nod to december decision day guide": 1793174416,
-  "bank of america s bhave fed should hike rates wednesday": 1793174416,
-  "downside risks are building in gold but prices still have a path to 5 000 state street s d": 1793174416,
-  "gold and silver alert the next rally is close but price drops are still possible": 1793174416,
-  "giá vàng thế giới giảm khi đồng usd mạnh lên trước cuộc họp của fed": 1793174416,
   "agrichain ký mou xuất khẩu cà phê sang trung quốc": 1793199618,
   "wsj s nick timiraos on what to expect from upcoming fed decision": 1793199618,
   "global government bond yields rise ahead of fed decision u k budget": 1793199618,
@@ -292,7 +272,9 @@
   "gold prices plunge to one year low below 3 900 as higher oil prices fuel fears of more pai": 1793426656,
   "gold and silver alert the rebound could happen fast": 1793426656,
   "gold spot prices silver prices platinum palladium": 1793426656,
-  "snb reports nine month profit on foreign currencies and gold": 1793426656
+  "snb reports nine month profit on foreign currencies and gold": 1793426656,
+  "vay vàng lúc 18 19 triệu chỉ trả vàng lúc 13 14 triệu chỉ lại bị làm khó": 1793451279,
+  "tsx posts steepest daily decline since june as gold slides": 1793451279
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -306,7 +288,7 @@
   }
  },
  "cal": {
-  "fetched": 1793426658.6890395,
+  "fetched": 1793451281.213134,
   "events": [
    {
     "title": "Federal Funds Rate",
