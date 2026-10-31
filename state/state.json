@@ -16,31 +16,6 @@
  },
  "alert_ref_gold": 3907.2,
  "seen": {
-  "agrichain ký mou xuất khẩu cà phê sang trung quốc": 1793199618,
-  "wsj s nick timiraos on what to expect from upcoming fed decision": 1793199618,
-  "global government bond yields rise ahead of fed decision u k budget": 1793199618,
-  "giá cà phê lao dốc": 1793199618,
-  "sát hạn nộp thuế đất phi nông nghiệp người dân cần làm gì nộp ở đâu": 1793199618,
-  "gold edges lower ahead of fed decision": 1793199618,
-  "agricultural products today 28 10 robusta coffee prices remain high": 1793199618,
-  "nông sản hôm nay 28 10 giá cà phê robusta neo cao": 1793199618,
-  "mr pips tiết lộ lý do nhận lương hàng tháng bằng vàng usd": 1793199618,
-  "gold slips on higher oil prices ahead of fed decision": 1793199618,
-  "jpmorgan private bank s tang sees more downside risk for gold": 1793199618,
-  "treasury yields have another weekly decline": 1793199618,
-  "giá vàng giảm sau tăng mạnh chênh thế giới 16 triệu lượng": 1793199618,
-  "new zealand dollar slides most versus aussie since 2017 on rbnz": 1793199618,
-  "thị trường chứng khoán mỹ nhìn từ tỷ lệ giá vàng và bạch kim": 1793199618,
-  "gold eases on higher oil prices ahead of fed decision": 1793199618,
-  "nghệ an bán 19 món vàng trang sức sở hữu toàn dân": 1793199618,
-  "ai worries expose dollar s hot money problem": 1793199618,
-  "daily:🥇 Vàng:2026-10-28": 1793199618,
-  "elevated oil prices keep up heat on rupee traders await cues from fed": 1793199618,
-  "giá vàng biến động người tiêu dùng thay đổi cách chọn trang sức cuối năm": 1793199618,
-  "vì sao fed có thể giữ nguyên lãi suất dù số liệu lạm phát mỹ đang nóng": 1793199618,
-  "fed sẽ tăng lãi suất thêm nhiều lần nữa": 1793199618,
-  "state street gold strategy description page_description": 1793199618,
-  "được và mất gì khi dồn hết tiền mua vàng": 1793199618,
   "view fomc holds rates steady markets rise modestly": 1793218285,
   "fed holds rates steady but two officials sought another increase": 1793218285,
   "wall street mostly rises as fed holds key rate steady deferring next likely hike to decemb": 1793218285,
@@ -274,7 +249,14 @@
   "gold spot prices silver prices platinum palladium": 1793426656,
   "snb reports nine month profit on foreign currencies and gold": 1793426656,
   "vay vàng lúc 18 19 triệu chỉ trả vàng lúc 13 14 triệu chỉ lại bị làm khó": 1793451279,
-  "tsx posts steepest daily decline since june as gold slides": 1793451279
+  "tsx posts steepest daily decline since june as gold slides": 1793451279,
+  "giá vàng trong nước giảm không phanh người mua thiệt 12 triệu đồng lượng trong tháng 10": 1793467730,
+  "tin tức tối 31 10 giá vàng trong nước đã giảm 53 triệu đồng lượng từ mức đỉnh năm nay": 1793467730,
+  "download xaup data graniteshares 4x long gold etp price data": 1793467730,
+  "xaup graniteshares 4x long gold etp overview": 1793467730,
+  "fed s logan need at least 2 quarter point hikes calls for pause after 50 bps or rate incre": 1793467730,
+  "former richmond fed pres lacker on fed decision i m surprised at the lack of urgency": 1793467730,
+  "download d3r data austral gold ltd price data": 1793467730
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -288,7 +270,7 @@
   }
  },
  "cal": {
-  "fetched": 1793451281.213134,
+  "fetched": 1793467731.9416623,
   "events": [
    {
     "title": "Federal Funds Rate",
