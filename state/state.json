@@ -237,47 +237,39 @@
   }
  },
  "cal": {
-  "fetched": 1793504909.5068257,
+  "fetched": 1793519603.0585961,
   "events": [
    {
-    "title": "Federal Funds Rate",
+    "title": "Congressional Elections",
     "country": "USD",
-    "date": "2026-10-28T14:00:00-04:00",
-    "impact": "High",
-    "forecast": "4.00%",
-    "previous": "4.00%"
-   },
-   {
-    "title": "FOMC Statement",
-    "country": "USD",
-    "date": "2026-10-28T14:00:00-04:00",
+    "date": "2026-11-03T10:16:00-05:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
    },
    {
-    "title": "FOMC Press Conference",
+    "title": "Average Hourly Earnings m/m",
     "country": "USD",
-    "date": "2026-10-28T14:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-   },
-   {
-    "title": "Advance GDP q/q",
-    "country": "USD",
-    "date": "2026-10-29T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "3.2%",
-    "previous": "1.5%"
-   },
-   {
-    "title": "Core PCE Price Index m/m",
-    "country": "USD",
-    "date": "2026-10-29T08:30:00-04:00",
+    "date": "2026-11-06T08:30:00-05:00",
     "impact": "High",
     "forecast": "0.3%",
-    "previous": "0.2%"
+    "previous": "0.1%"
+   },
+   {
+    "title": "Non-Farm Employment Change",
+    "country": "USD",
+    "date": "2026-11-06T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "63K",
+    "previous": "29K"
+   },
+   {
+    "title": "Unemployment Rate",
+    "country": "USD",
+    "date": "2026-11-06T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "4.2%",
+    "previous": "4.2%"
    }
   ]
  }
