@@ -16,23 +16,6 @@
  },
  "alert_ref_gold": 3977.7,
  "seen": {
-  "opinion the unsolvable task of managing the dollar": 1793393837,
-  "gold wants to rally but the threat of higher interest rates is holding it back catalyst fu": 1793393837,
-  "gold and silver prices coming dangerously close to capitulation levels jesse colombo": 1793393837,
-  "canadian dollar extends monthly gain as higher oil prices raise inflation risk": 1793393837,
-  "midterms apple earnings jobs report wall street faces a big week ahead just as investors d": 1793393837,
-  "coffee closes sharply lower on the week despite a modest rebound on friday": 1793393837,
-  "gold and silver futures fall to 1 year lows": 1793393837,
-  "daily:☕ Cà phê:2026-10-31": 1793393837,
-  "treasury yields fall as investors seek safe haven": 1793393837,
-  "treasury yields fall amid flight to safety": 1793393837,
-  "gold drops below 4 000 silver tumbles as hormuz attack lifts oil prices kitco am report": 1793393837,
-  "gold hits 3 1 2 month low on fed hike fears set for monthly loss": 1793393837,
-  "pound stands tall as dollar euro wilt": 1793393837,
-  "new economic data challenges fed chief s not too hot perspective": 1793393837,
-  "central america s coffee recovery faces a new challenge finding workers": 1793393837,
-  "treasury yields fall as investors await more economic data": 1793393837,
-  "tech rout drives gold to one year low white metals sink deep into oversold zone": 1793393837,
   "6 sai lầm khi mua vàng": 1793406276,
   "why gold plunged to its lowest price in a year despite renewed iran jitters": 1793406276,
   "fed officials make case for rate hikes amid ongoing inflation concerns": 1793406276,
@@ -130,7 +113,26 @@
   "đa dạng thị trường cho cà phê arabica": 1793639893,
   "daily:☕ Cà phê:2026-11-02": 1793639893,
   "dollar declines ahead of us midterms as oil falls bitcoin steadies after crypto theft": 1793639893,
-  "watch us gdp dollar very exposed to ai pullback mufg says": 1793639893
+  "watch us gdp dollar very exposed to ai pullback mufg says": 1793639893,
+  "giá vàng 13 triệu chỉ có nên mua lúc này": 1793663882,
+  "gold silver recover from october rout as oil drops fed tightening bets persist kitco pm re": 1793663882,
+  "what millions of data points reveal about us inflation": 1793663882,
+  "business loan demand softened last quarter fed survey shows": 1793663882,
+  "gold prices push above 3 900 but still face significant headwinds pepperstone s wu": 1793663882,
+  "kevin warsh s judicious pre election pause": 1793663882,
+  "tighter ice inventories lift coffee prices": 1793663882,
+  "vietnam coffee exports surge in final month of 2025 26 crop year as volumes recover": 1793663882,
+  "giá vàng thế giới bật tăng gần 100 usd ounce lên sát 4 000 usd ounce": 1793663882,
+  "fed will vote on rates less often what that could mean for borrowers": 1793663882,
+  "gold s recover hits a wall as us manufacturing heats up": 1793663882,
+  "gold swot bmo believes lower gold prices are starting to attract physical buyers": 1793663882,
+  "treasury yields mixed ahead of busy week": 1793663882,
+  "the price of gold today nov 2 2026 and the best places to buy": 1793663882,
+  "gold silver rebound as iran diplomacy sends oil lower easing fed tightening concerns kitco": 1793663882,
+  "daily:🥇 Vàng:2026-11-02": 1793663882,
+  "gold rises from one year low on softer oil prices u s midterms in focus": 1793663882,
+  "dollar declines ahead of u s midterms as oil falls bitcoin steadies after crypto theft": 1793663882,
+  "dollar falls ahead of us midterms as oil plummets": 1793663882
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -146,7 +148,7 @@
   "2026-11-06T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1793639894.7274323,
+  "fetched": 1793663884.4625857,
   "events": [
    {
     "title": "Congressional Elections",
@@ -169,7 +171,7 @@
     "country": "USD",
     "date": "2026-11-06T08:30:00-05:00",
     "impact": "High",
-    "forecast": "63K",
+    "forecast": "65K",
     "previous": "29K"
    },
    {
