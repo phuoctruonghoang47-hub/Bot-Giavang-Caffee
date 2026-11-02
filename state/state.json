@@ -16,17 +16,6 @@
  },
  "alert_ref_gold": 3907.2,
  "seen": {
-  "bản tin nông sản hôm nay 30 10 giá cà phê giảm": 1793328556,
-  "dollar s rate fueled rally set to ride out us midterm gridlock": 1793328556,
-  "daily:🥇 Vàng:2026-10-30": 1793328556,
-  "daily:🏦 Vĩ mô:2026-10-30": 1793328556,
-  "gold declines weighed by tighter monetary policy expectations": 1793328556,
-  "giá vàng trượt nhanh về gần 4 000 usd oz sau báo cáo lạm phát pce mỹ": 1793328556,
-  "silver could see further losses against gold as physical market weakens metals focus": 1793328556,
-  "gold remains stuck as the fed takes a hawkish pause tds melek": 1793328556,
-  "giá vàng lại giảm thử thách mốc 4 000 usd ounce": 1793328556,
-  "hassett sees fed acting if october inflation data come in high": 1793328556,
-  "third quarter u s gdp grew at 3 4 rate as september inflation accelerates": 1793328556,
   "u s treasury yields fall as investors await more economic data": 1793352404,
   "gold steadies near 4 000 as inflation keeps rate hike bets firm": 1793352404,
   "tt đường cà phê ngày 30 10 arabica và robusta chạm đáy 4 tháng giá đường thế giới tiếp đà ": 1793352404,
@@ -140,7 +129,18 @@
   "bản tin nông sản hôm nay 2 11 giá cà phê thế giới tăng mạnh": 1793580994,
   "robusta trong tuần giá nội địa rời xa mốc 90 000 đồng kg hàng ra còn ít": 1793580994,
   "gold settles lower ahead of fed decision": 1793580994,
-  "thiếu thông tin về thuế đất phi nông nghiệp": 1793580994
+  "thiếu thông tin về thuế đất phi nông nghiệp": 1793580994,
+  "các quan chức fed khẳng định cần tăng lãi suất thêm": 1793603507,
+  "giá vàng miếng sjc và vàng nhẫn bật tăng 1 triệu đồng mỗi lượng": 1793603507,
+  "agricultural products today 2 11 coffee prices continue to fall sharply": 1793603507,
+  "nông sản hôm nay 2 11 giá cà phê tiếp đà giảm mạnh": 1793603507,
+  "gold rises on softer oil markets parse fed signals": 1793603507,
+  "giá vàng miếng đảo chiều lên 140 triệu đồng một lượng": 1793603507,
+  "wsj dollar index falls 0 12 to 97 18": 1793603507,
+  "dollar dithers ahead of us midterms bitcoin under pressure from crypto heist": 1793603507,
+  "6 sai lầm khi mang vàng đi bán": 1793603507,
+  "nghe podcasts điểm tin 6h bộ y tế đề xuất người dưới 18 tuổi chỉ hiến mô cho anh chị em ru": 1793603507,
+  "wsj dollar index falls 0 25 this week to 96 84": 1793603507
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -156,7 +156,7 @@
   "2026-11-06T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1793580996.5253088,
+  "fetched": 1793603509.419868,
   "events": [
    {
     "title": "Congressional Elections",
