@@ -16,20 +16,6 @@
  },
  "alert_ref_gold": 3907.2,
  "seen": {
-  "daily coffee report 10 29 26": 1793316532,
-  "us gdp looks good inflation doesn t and savings won t last forever": 1793316532,
-  "treasury yields fall following major central banks hold": 1793316532,
-  "warsh s forward silence risks bigger treasury market swings": 1793316532,
-  "gold silver futures settle lower": 1793316532,
-  "world s no 2 gold miner says diesel risks driving up 2027 costs": 1793316532,
-  "lbma members back tokenised gold but seek legal certainty and safeguards": 1793316532,
-  "tối nay giá vàng lại giảm thử thách mốc 4 000 usd ounce": 1793316532,
-  "coffee prices fall to 1 month as concerns continue about brazilian sales": 1793316532,
-  "treasury yields fall amid hot u s indicators": 1793316532,
-  "us inflation heats up in september consumer spending rises": 1793316532,
-  "warsh s ai optimism may box him in at the fed": 1793316532,
-  "gold slides as higher u s inflation reinforces fed tightening bets": 1793316532,
-  "the fed s ai puzzle will high rates slow the boom": 1793316532,
   "bản tin nông sản hôm nay 30 10 giá cà phê giảm": 1793328556,
   "dollar s rate fueled rally set to ride out us midterm gridlock": 1793328556,
   "daily:🥇 Vàng:2026-10-30": 1793328556,
@@ -146,7 +132,15 @@
   "us critical minerals push delivers a gold rush for washington lobbyists": 1793552478,
   "watch tech selloff could ease pressure on the fed": 1793552478,
   "giá vàng có thể giảm tiếp sau khi chạm đáy một năm": 1793567906,
-  "the 19 people in the room when the fed sets interest rates": 1793567906
+  "the 19 people in the room when the fed sets interest rates": 1793567906,
+  "gold rises but expectations of tighter u s monetary policy weigh": 1793580994,
+  "cuộc bầu cử ở mỹ có thể chi phối diễn biến giá vàng trong tuần này": 1793580994,
+  "không chỉ vì tỷ giá điều gì đang thúc đẩy doanh nghiệp giao dịch đồng nhân dân tệ": 1793580994,
+  "u s jobless claims unexpectedly edge lower": 1793580994,
+  "bản tin nông sản hôm nay 2 11 giá cà phê thế giới tăng mạnh": 1793580994,
+  "robusta trong tuần giá nội địa rời xa mốc 90 000 đồng kg hàng ra còn ít": 1793580994,
+  "gold settles lower ahead of fed decision": 1793580994,
+  "thiếu thông tin về thuế đất phi nông nghiệp": 1793580994
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -162,7 +156,7 @@
   "2026-11-06T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1793567908.3962183,
+  "fetched": 1793580996.5253088,
   "events": [
    {
     "title": "Congressional Elections",
