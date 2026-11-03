@@ -16,13 +16,6 @@
  },
  "alert_ref_gold": 3932.0,
  "seen": {
-  "giá vàng trong nước giảm không phanh người mua thiệt 12 triệu đồng lượng trong tháng 10": 1793467730,
-  "tin tức tối 31 10 giá vàng trong nước đã giảm 53 triệu đồng lượng từ mức đỉnh năm nay": 1793467730,
-  "download xaup data graniteshares 4x long gold etp price data": 1793467730,
-  "xaup graniteshares 4x long gold etp overview": 1793467730,
-  "fed s logan need at least 2 quarter point hikes calls for pause after 50 bps or rate incre": 1793467730,
-  "former richmond fed pres lacker on fed decision i m surprised at the lack of urgency": 1793467730,
-  "download d3r data austral gold ltd price data": 1793467730,
   "us jobs pickup may keep fed on track to hike rates again": 1793479030,
   "is dollar general charging too much": 1793479030,
   "daily:☕ Cà phê:2026-11-01": 1793479030,
@@ -149,7 +142,23 @@
   "giá vàng thế giới tăng hơn 2 sau khi chạm đáy một năm": 1793712425,
   "giá vàng thế giới tăng mạnh thoát đáy một năm": 1793712425,
   "treasury yields extend past month s slide as oil prices tumble": 1793712425,
-  "watch gold rebounds as investors seek cash": 1793712425
+  "watch gold rebounds as investors seek cash": 1793712425,
+  "gold s october correction was overdone commerzbank": 1793736798,
+  "frank giustra says dozens of black swans are waiting here s why he won t sell his gold": 1793736798,
+  "daily:☕ Cà phê:2026-11-04": 1793736798,
+  "keurig dr pepper flags slower fourth quarter coffee profits as shoppers trade down": 1793736798,
+  "dollar rises with us yields as focus on iran outweighs election": 1793736798,
+  "mark skousen told investors to sell gold in 1980 here s why he s cautious again": 1793736798,
+  "job openings posted big september gain in positive sign for labor market ahead of payrolls": 1793736798,
+  "treasury yields mixed as americans vote in midterm elections": 1793736798,
+  "gold gains silver slips as u s midterms and iran strikes unsettle markets kitco am report": 1793736798,
+  "weaker dollar views stick running into us midterms but strategists brace for resilience re": 1793736798,
+  "treasury yields rise as investors weigh midterm vote jobs data and iran tensions": 1793736798,
+  "giá vàng châu á giảm nhẹ trước thềm bầu cử giữa kỳ tại mỹ": 1793736798,
+  "fed needs to implement at least two more rate increases dallas fed s logan says": 1793736798,
+  "cảnh tượng tiệm vàng trong ngày giá 14 triệu đồng chỉ": 1793736798,
+  "ngân hàng trung ương thụy sỹ lãi 23 tỷ usd trong một quý": 1793736798,
+  "gold edges lower again as dollar yields strengthen us midterms in focus": 1793736798
  },
  "usd": {
   "2026-10-28T14:00:00-04:00": {
@@ -161,7 +170,9 @@
   "2026-10-29T08:30:00-04:00": {
    "done": 1793280513
   },
-  "2026-11-03T10:16:00-05:00": {},
+  "2026-11-03T10:16:00-05:00": {
+   "done": 1793736800
+  },
   "2026-11-06T08:30:00-05:00": {}
  },
  "cal": {
