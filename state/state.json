@@ -16,26 +16,6 @@
  },
  "alert_ref_gold": 4134.5,
  "seen": {
-  "coffee prices climb on tighter ice inventories": 1793639893,
-  "gold and silver prices surge after sharp selloff india set to ramp up silver imports into ": 1793639893,
-  "gold rises over 1 from one year low on softer oil prices us midterms in focus": 1793639893,
-  "tối 2 11 giá vàng tăng vọt": 1793639893,
-  "arabica coffee futures rally": 1793639893,
-  "gold edges higher but remains below 4 000 an ounce": 1793639893,
-  "sốc khi nhận thông báo nợ thuế đất phi nông nghiệp gần 27 triệu đồng": 1793639893,
-  "thuế đất phi nông nghiệp rủi ro có thể phát sinh và những lưu ý": 1793639893,
-  "treasury yields are mixed as oil prices tumble ahead of the midterms": 1793639893,
-  "giá dầu thô hạ nhiệt tạo lực đẩy cho thị trường vàng phục hồi": 1793639893,
-  "giá vàng chạm đáy 1 năm chứng khoán mỹ bị bán tháo chuyên gia nhấn mạnh đừng vội bắt đáy": 1793639893,
-  "giá vàng quay đầu tăng": 1793639893,
-  "gold rebounds from one year low as oil slides ahead of u s midterms": 1793639893,
-  "gold rises over 2 from one year low on softer oil prices us midterms in focus": 1793639893,
-  "hai thương hiệu vàng trong nước đảo chiều tăng 1 triệu đồng mỗi lượng": 1793639893,
-  "rupee ends little changed as traders stay cautious despite oil dollar drop": 1793639893,
-  "đa dạng thị trường cho cà phê arabica": 1793639893,
-  "daily:☕ Cà phê:2026-11-02": 1793639893,
-  "dollar declines ahead of us midterms as oil falls bitcoin steadies after crypto theft": 1793639893,
-  "watch us gdp dollar very exposed to ai pullback mufg says": 1793639893,
   "giá vàng 13 triệu chỉ có nên mua lúc này": 1793663882,
   "gold silver recover from october rout as oil drops fed tightening bets persist kitco pm re": 1793663882,
   "what millions of data points reveal about us inflation": 1793663882,
@@ -249,15 +229,29 @@
   "dollar edges lower as u s election outcome cheers global markets": 1793898282,
   "tỷ giá hạ nhiệt đồng usd suy yếu trên thị trường quốc tế": 1793898282,
   "một gã khổng lồ vung tiền mua vàng khi giá tăng mạnh nhất 3 tháng": 1793898282,
-  "white house sets hearing on fed s cook for december 14 nyt says": 1793898282
+  "white house sets hearing on fed s cook for december 14 nyt says": 1793898282,
+  "gold holds gains silver slips as wall street plunges fed hike bets ease kitco pm report": 1793918680,
+  "the october jobs report is out friday here s everything to expect": 1793918680,
+  "first jobs report after midterms could show the challenge ahead": 1793918680,
+  "poland central bank chief leaves door open to more gold buying after hitting 700 ton targe": 1793918680,
+  "expanding brazil coffee exports weigh on arabica prices": 1793918680,
+  "daily:☕ Cà phê:2026-11-06": 1793918680,
+  "fed s hammack says restrictive rates needed to cool prices": 1793918680,
+  "treasury yields rise after post election decline": 1793918680,
+  "gold hits 2 week high as dollar yields oil fall after us midterms": 1793918680,
+  "tỷ giá usd giảm mạnh nhất một tháng": 1793918680,
+  "gold climbs above 4 100 as falling yields softer labor costs support bullion kitco am repo": 1793918680,
+  "banks are turning cautious on lending according to the fed what it means for the economy": 1793918680,
+  "trump s trouncing gives warsh more room for maneuver on rates": 1793918680,
+  "gold prices holding above 4 100 as weekly jobless claims rise by 189k": 1793918680,
+  "gold market holding solid gains even as boe raises interest rates due to rising inflation": 1793918680,
+  "how the federal reserve emerged as a winner from the us election": 1793918680,
+  "mapping the market after hot run dollar tree shares could rally further": 1793918680,
+  "gold at more than two week high as dollar yields weaken u s payrolls data awaited": 1793918680,
+  "dollar little changed as oil prices bounce payrolls eyed": 1793918680,
+  "watch us economy jobless claims fall below estimates to 189 000": 1793918680
  },
  "usd": {
-  "2026-10-28T14:00:00-04:00": {
-   "done": 1793218287
-  },
-  "2026-10-28T14:30:00-04:00": {
-   "done": 1793218289
-  },
   "2026-10-29T08:30:00-04:00": {
    "done": 1793280513
   },
@@ -267,7 +261,7 @@
   "2026-11-06T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1793898284.1205304,
+  "fetched": 1793918682.1066675,
   "events": [
    {
     "title": "Congressional Elections",
