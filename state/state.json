@@ -1,7 +1,7 @@
 {
  "last_prices": {
-  "world_gold": 4064.9,
-  "world_gold_vnd": 125854055.64692369,
+  "world_gold": 4067.1,
+  "world_gold_vnd": 125431819.08846924,
   "domestic": {
    "Vàng miếng SJC": [
     138000000,
@@ -250,7 +250,7 @@
   "2026-11-06T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1793953119.242522,
+  "fetched": 1793983961.0222826,
   "events": [
    {
     "title": "Congressional Elections",
