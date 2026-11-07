@@ -1,7 +1,7 @@
 {
  "last_prices": {
-  "world_gold": 4067.1,
-  "world_gold_vnd": 125431819.08846924,
+  "world_gold": 4074.9,
+  "world_gold_vnd": 125672375.7969077,
   "domestic": {
    "Vàng miếng SJC": [
     138000000,
@@ -12,7 +12,7 @@
     140300000
    ]
   },
-  "coffee": 84200
+  "coffee": 84600
  },
  "alert_ref_gold": 4076.2,
  "seen": {
@@ -251,7 +251,7 @@
   }
  },
  "cal": {
-  "fetched": 1794020355.6002347,
+  "fetched": 1794036942.5454047,
   "events": [
    {
     "title": "Congressional Elections",
