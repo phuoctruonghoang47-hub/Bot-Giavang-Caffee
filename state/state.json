@@ -16,26 +16,6 @@
  },
  "alert_ref_gold": 4076.2,
  "seen": {
-  "china crackdown pushes wealthy to gold lifting hong kong jewelry sales": 1793868989,
-  "giá vàng giảm sau tăng mạnh": 1793868989,
-  "agricultural products today 5 11 coffee prices reverse to increase": 1793868989,
-  "nông sản hôm nay 5 11 giá cà phê đảo chiều tăng": 1793868989,
-  "sau khi đồng loạt tăng lãi suất trong tháng 9 các ngân hàng trung ương tạm dừng trong thán": 1793868989,
-  "indonesia kicks off first dollar bond sale since msci fallout": 1793868989,
-  "gold hits a two week high as dollar treasury yields ease after u s midterm elections": 1793868989,
-  "có bao nhiêu tấn vàng trên trái đất": 1793868989,
-  "gold rises on falling treasury yields post midterms": 1793868989,
-  "giá vàng thế giới tăng 3 sau cú hích từ bầu cử giữa nhiệm kỳ ở mỹ": 1793868989,
-  "copper is booming but not everyone is striking gold": 1793868989,
-  "white house panel delays hearing on fed s lisa cook to dec 14": 1793868989,
-  "the dollar decides what the midterm rally in gold and silver says about the next turn": 1793868989,
-  "treasury yields little changed french bonds outperform": 1793868989,
-  "wsj dollar index falls 0 30 to 96 94": 1793868989,
-  "gold climbs above 4 000 wall street rallies as dems take congress kitco pm report": 1793868989,
-  "treasury yields down following democrats midterm win": 1793868989,
-  "gold settles lower ahead of fed decision": 1793868989,
-  "bill baruch on gold reclaiming the 4 000 level": 1793868989,
-  "higher energy gold exports offset us tariff impact on canada": 1793868989,
   "us weekly jobless claims at 57 year lows worker productivity surges in third quarter": 1793898282,
   "gold at 4 000 looks very attractive to a mine builder who started at 140 robert quartermai": 1793898282,
   "fed s hammack says restrictive rates needed to cool inflation": 1793898282,
@@ -211,7 +191,10 @@
   "daily:🥇 Vàng:2026-11-08": 1794109945,
   "wsj dollar index rises 0 04 this month to 97 08": 1794109945,
   "bản tin nông sản hôm nay 11 9 giá cà phê ổn định": 1794109945,
-  "pirate gold corp yarr v stock price latest news": 1794109945
+  "pirate gold corp yarr v stock price latest news": 1794109945,
+  "the democratic surge will cap trump s reach at the fed": 1794135522,
+  "mua vàng ở 3 cửa hàng khác nhau khi bán lại cần chú ý điều gì": 1794135522,
+  "prcgf precore gold corp sec filings": 1794135522
  },
  "usd": {
   "2026-11-03T10:16:00-05:00": {
@@ -219,10 +202,12 @@
   },
   "2026-11-06T08:30:00-05:00": {
    "done": 1793988689
-  }
+  },
+  "2026-11-10T08:30:00-05:00": {},
+  "2026-11-13T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794123895.9257302,
+  "fetched": 1794135524.4884272,
   "events": [
    {
     "title": "Core CPI m/m",
