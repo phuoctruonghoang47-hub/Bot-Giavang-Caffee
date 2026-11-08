@@ -16,20 +16,6 @@
  },
  "alert_ref_gold": 4076.2,
  "seen": {
-  "daily:🥇 Vàng:2026-11-05": 1793843805,
-  "gold holds above 4 000 as dollar yields fall on midterm result": 1793843805,
-  "dollar edges lower as us election outcome cheers global markets": 1793843805,
-  "daily coffee report 11 4 26": 1793843805,
-  "bản tin nông sản hôm nay 5 11 giá cà phê tiếp tục giảm": 1793843805,
-  "giá vàng tăng mạnh nhất gần 3 tháng đồng usd và lợi suất trái phiếu kho bạc mỹ đồng loạt g": 1793843805,
-  "người mua vàng lúc 18 triệu đồng chỉ nên làm gì": 1793843805,
-  "trump committee hearing on fed governor lisa cook rescheduled to dec 14": 1793843805,
-  "expectations of larger brazil coffee exports weigh on prices": 1793843805,
-  "canada s trade surplus widens as oil gold drive record exports": 1793843805,
-  "fury gold mines eyes more than 100 000 ounces a year at eau claire tim clark": 1793843805,
-  "galiano gold heads into 2027 with higher output and no hedge matt badylak": 1793843805,
-  "kraft heinz to divest north american coffee business": 1793843805,
-  "dollar falls after democrats take congress in midterm elections": 1793843805,
   "china crackdown pushes wealthy to gold lifting hong kong jewelry sales": 1793868989,
   "giá vàng giảm sau tăng mạnh": 1793868989,
   "agricultural products today 5 11 coffee prices reverse to increase": 1793868989,
@@ -219,7 +205,13 @@
   "provenance gold corp pvgdf stock price today the wall street journal": 1794082988,
   "treasury yields rise on jobs number fall for the week": 1794082988,
   "us inflation set to simmer down some after recent pickup": 1794095167,
-  "ego eldorado gold corp profile": 1794095167
+  "ego eldorado gold corp profile": 1794095167,
+  "bản tin nông sản hôm nay 8 11 giá cà phê và hồ tiêu đồng loạt tăng": 1794109945,
+  "wsj dollar index rises 0 23 to 97 22": 1794109945,
+  "daily:🥇 Vàng:2026-11-08": 1794109945,
+  "wsj dollar index rises 0 04 this month to 97 08": 1794109945,
+  "bản tin nông sản hôm nay 11 9 giá cà phê ổn định": 1794109945,
+  "pirate gold corp yarr v stock price latest news": 1794109945
  },
  "usd": {
   "2026-11-03T10:16:00-05:00": {
@@ -230,7 +222,7 @@
   }
  },
  "cal": {
-  "fetched": 1794095169.0717022,
+  "fetched": 1794109947.335155,
   "events": [
    {
     "title": "Congressional Elections",
