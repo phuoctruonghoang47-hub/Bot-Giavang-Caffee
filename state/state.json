@@ -16,19 +16,6 @@
  },
  "alert_ref_gold": 4076.2,
  "seen": {
-  "daily:🥇 Vàng:2026-11-06": 1793934147,
-  "quan chức fed bất ngờ phát tín hiệu mới về lãi suất": 1793934147,
-  "giá vàng thế giới tiếp tục tăng chứng khoán mỹ lao dốc": 1793934147,
-  "giá vàng giữ đà tăng trong lúc chờ báo cáo việc làm mỹ": 1793934147,
-  "bản tin nông sản hôm nay 6 11 giá cà phê tăng": 1793934147,
-  "giá cà phê đồng loạt tăng": 1793934147,
-  "the dollar s bullish case holds firm after midterms shakeout": 1793934147,
-  "fed s hammack barkin favor gradual rate hike path to lower inflation": 1793934147,
-  "world bank sees gold holding above 4 000 through 2028 but warns silver faces steeper corre": 1793934147,
-  "gold settles higher as yields u s dollar weaken": 1793934147,
-  "hedge fund adviser lb macro sees us midterms boosting the dollar": 1793934147,
-  "keep the bullion cut the miners as tech stocks tumble says ted oakley": 1793934147,
-  "dollar is little changed as oil prices bounce payrolls eyed": 1793934147,
   "wall st week ahead as tech swoon roils market us inflation data on tap": 1793963799,
   "gold falls but remains on track for weekly gains ahead of payrolls data": 1793963799,
   "us treasury traders make bullish bets ahead of jobs report": 1793963799,
@@ -169,7 +156,23 @@
   "daily:☕ Cà phê:2026-11-09": 1794171445,
   "pearl gold ag pgag sg stock price latest news": 1794171445,
   "western copper gold corp wrn stock price today the wall street journal": 1794171445,
-  "visi telekomunikasi infrastruktur tbk pt gold jk stock price latest news": 1794171445
+  "visi telekomunikasi infrastruktur tbk pt gold jk stock price latest news": 1794171445,
+  "new zealand dollar advances as ruling party gets election edge": 1794209495,
+  "chênh lệch giá vàng trong nước và thế giới thấp nhất trong 3 tuần": 1794209495,
+  "exclusive chinese banks boost dollar deposit rates sources say as beijing seeks to smooth ": 1794209495,
+  "agricultural products today 9 11 coffee prices continuously increase": 1794209495,
+  "nông sản hôm nay 9 11 giá cà phê liên tiếp nâng giá": 1794209495,
+  "u s dollar holds onto payrolls gains nz dollar rises after election": 1794209495,
+  "gold rises over 1 as softer oil prices ease inflation worries": 1794209495,
+  "giá vàng thế giới trước những phép thử mới": 1794209495,
+  "db gold double short etn exp 15 feb 2038 dzz n stock price latest news": 1794209495,
+  "bản tin nông sản hôm nay 9 11 giá cà phê dao động trong khoảng 84 000 84 700 đồng kg": 1794209495,
+  "áp lực giảm giá vàng còn lớn do triển vọng lãi suất cao hơn lâu hơn": 1794209495,
+  "gold edges higher amid mixed signals": 1794209495,
+  "commentary gold s short term volatility contrasts with long term bullishness": 1794209495,
+  "canada s trade surplus widens as oil gold drive record exports": 1794209495,
+  "wsj dollar index falls 0 30 to 96 94": 1794209495,
+  "outcrop silver gold corp ocg to stock price latest news": 1794209495
  },
  "usd": {
   "2026-11-03T10:16:00-05:00": {
@@ -182,7 +185,7 @@
   "2026-11-13T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794184899.1656437,
+  "fetched": 1794209498.05768,
   "events": [
    {
     "title": "Core CPI m/m",
