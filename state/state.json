@@ -16,12 +16,6 @@
  },
  "alert_ref_gold": 4029.1,
  "seen": {
-  "daily:☕ Cà phê:2026-11-08": 1794082988,
-  "trung đông nóng lên giá vàng tuần tới ra sao": 1794082988,
-  "giá vàng bạc giảm mạnh có nên mua lúc này": 1794082988,
-  "2 kiểu người khi mua vàng": 1794082988,
-  "provenance gold corp pvgdf stock price today the wall street journal": 1794082988,
-  "treasury yields rise on jobs number fall for the week": 1794082988,
   "us inflation set to simmer down some after recent pickup": 1794095167,
   "ego eldorado gold corp profile": 1794095167,
   "bản tin nông sản hôm nay 8 11 giá cà phê và hồ tiêu đồng loạt tăng": 1794109945,
@@ -151,7 +145,29 @@
   "dollar steadies as waller argues for more rate hikes inflation up next": 1794330680,
   "gold falls more than 2 as cpi tops forecasts lifting dollar and yields": 1794330680,
   "dollar strengthens after us inflation data boosts fed rate hike expectations": 1794330680,
-  "wsj dollar index falls 0 46 to 97 07": 1794330680
+  "wsj dollar index falls 0 46 to 97 07": 1794330680,
+  "will democrats make gold shine again": 1794349627,
+  "wall st ends lower as hot inflation data fed comments heighten rate worries": 1794349627,
+  "interest rate hike debate sparked by fed s waller logan after hot inflation": 1794349627,
+  "fed s bowman still work to do to bring inflation closer to 2": 1794349627,
+  "coffee prices slide as the brazilian real weakens and supplies build": 1794349627,
+  "daily:☕ Cà phê:2026-11-11": 1794349627,
+  "gold reserve repatriations don t mean central banks are de dollarizing fed s weiss": 1794349627,
+  "gold has been in a bear market since january katie stockton sees a comeback ahead": 1794349627,
+  "fed s logan calls for two more rate hikes possibly rapidly": 1794349627,
+  "fed s logan possible to hike rates more rapidly this winter than in the fall": 1794349627,
+  "fed s logan says two more hikes needed pace could quicken": 1794349627,
+  "dollar strengthens as sticky inflation fuels fed hike bets": 1794349627,
+  "fed s waller plans to support at least a quarter point rate hike in december": 1794349627,
+  "treasury yields rise on hotter than expected inflation": 1794349627,
+  "market spooked because now the fed may need a supersized hike in december": 1794349627,
+  "fed to raise rates once more in december as inflation risks stay high reuters poll": 1794349627,
+  "lạm phát mỹ bất ngờ tăng mạnh hơn dự báo thị trường dự đoán fed gần như chắc chắn tăng lãi": 1794349627,
+  "gold silver retreat as high core cpi lifts december fed hike odds kitco am report": 1794349627,
+  "bonds tumble as hot inflation fuels bets on more fed rate hikes": 1794349627,
+  "treasuries slide as hot inflation sparks bets on fed rate rise": 1794349627,
+  "gold drops 1 on hawkish fed comments ahead of us inflation data": 1794349627,
+  "gold falls nearly 3 as cpi tops forecasts lifting dollar and yields": 1794349627
  },
  "usd": {
   "2026-11-03T10:16:00-05:00": {
@@ -166,7 +182,7 @@
   "2026-11-13T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794330685.1890216,
+  "fetched": 1794349629.4570255,
   "events": [
    {
     "title": "Core CPI m/m",
