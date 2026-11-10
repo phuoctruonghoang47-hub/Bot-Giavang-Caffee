@@ -14,42 +14,8 @@
   },
   "coffee": 84900
  },
- "alert_ref_gold": 4145.1,
+ "alert_ref_gold": 4029.1,
  "seen": {
-  "daily:🥇 Vàng:2026-11-07": 1794067307,
-  "xem nhanh 20h ngày 7 11 giá vàng giảm mạnh có nên mua vào bắt phạm nhân cuối cùng trốn trạ": 1794067307,
-  "gold spot prices silver prices platinum palladium": 1794067307,
-  "kitco global index kgx track gold silver oil crypto more vs usd": 1794067307,
-  "nalg north america lithium gold corp profile": 1794067307,
-  "central banks accelerated gold buying in third quarter": 1794067307,
-  "giá vàng liên tục biến động nhà đầu tư nên mua hay bán": 1794067307,
-  "agricultural products today 7 11 coffee and pepper prices increase sharply": 1794067307,
-  "nông sản hôm nay 7 11 giá cà phê hồ tiêu tăng mạnh": 1794067307,
-  "giá vàng bật tăng trở lại sau chuỗi giảm 3 tuần liên tiếp": 1794067307,
-  "china extends gold buying streak to two years as prices drop": 1794067307,
-  "giá vàng thế giới tuần qua tăng mạnh nhất kể từ tháng 8 năm 2026": 1794067307,
-  "gold futures slip amid oil price volatility": 1794067307,
-  "spanish mountain gold ltd spa v stock price latest news": 1794067307,
-  "watch us jobs surge raises odds of december fed hike": 1794067307,
-  "wsj dollar index rises 0 46 this week to 97 52": 1794067307,
-  "phlx gold silver index xau index price today the wall street journal": 1794067307,
-  "canadian dollar set for worst week since september on weak jobs": 1794067307,
-  "canadian dollar posts steepest decline since january on surprise jobs loss": 1794067307,
-  "inflations plus strong jobs number could give fed latitude to raise rates says moody s mar": 1794067307,
-  "gold and silver alert can the rebound survive another dip": 1794067307,
-  "october jobs report beats expectations here s what it means": 1794067307,
-  "gold set for biggest weekly gain since august after us midterms": 1794067307,
-  "dems spending plans would crush the u s dollar and that gives gold a floor phoenix futures": 1794067307,
-  "how markets are reacting to the jobs report in charts": 1794067307,
-  "bản tin nông sản hôm nay 11 8 giá cà phê tăng nhẹ": 1794067307,
-  "the bond market is telling two stories and gold is listening": 1794067307,
-  "why is the us jobs report so hard to forecast": 1794067307,
-  "crossmark global s bob doll on jobs report the economy is in good shape": 1794067307,
-  "watch cnbc s full interview with san francisco fed president mary daly": 1794067307,
-  "conroy gold natural resources plc final results for the year to 31 may 2026 company announ": 1794067307,
-  "october jobs report suggests economy is healthy says former minneapolis fed president gary": 1794067307,
-  "breakingviews commentary kevin warsh wins the midterm elections for now": 1794067307,
-  "watch multiple fed rate hikes reasonable pimco s wilding": 1794067307,
   "daily:☕ Cà phê:2026-11-08": 1794082988,
   "trung đông nóng lên giá vàng tuần tới ra sao": 1794082988,
   "giá vàng bạc giảm mạnh có nên mua lúc này": 1794082988,
@@ -166,7 +132,26 @@
   "giá vàng thế giới tăng hơn 1 khi lo ngại lạm phát hạ nhiệt": 1794301464,
   "gold reclaims long term support silver challenges its triangle what s next": 1794301464,
   "gold silver advance as dollar weakens fed rate expectations face inflation test kitco pm r": 1794301464,
-  "barrick s marquee gold project faces hazy study timing": 1794301464
+  "barrick s marquee gold project faces hazy study timing": 1794301464,
+  "brazilian real weakness and rising brazil exports weigh on coffee prices": 1794330680,
+  "fed s waller backs december rate hike open to larger move": 1794330680,
+  "fed officials open door to a half point hike after inflation beats expectations": 1794330680,
+  "gold futures decline after u s cpi data": 1794330680,
+  "us core cpi rises by more than forecast supporting fed hike": 1794330680,
+  "consumer prices rose 0 4 in october more than expected complicating fed s inflation fight": 1794330680,
+  "gold prices down 2 on the day as us cpi rises more than expected": 1794330680,
+  "treasury yields turn higher on fed s waller comments eurozone bond yields fall": 1794330680,
+  "liệu có nhịp phục hồi giá vàng bạc trong tháng 11": 1794330680,
+  "top federal reserve official considers largest rate rise since 2022": 1794330680,
+  "fed governor waller sees december hike likely opens door to possible half point increase": 1794330680,
+  "singapore central bank rolls out gold vaulting services to boost trading hub": 1794330680,
+  "giá vàng rơi 30 từ đỉnh hàng xóm việt nam gom hàng chục tấn mỗi tháng mua ròng liên tiếp 2": 1794330680,
+  "singapore launches gold vaulting service for central banks": 1794330680,
+  "giá vàng bật tăng mạnh cá mập spdr tranh thủ gom hàng": 1794330680,
+  "dollar steadies as waller argues for more rate hikes inflation up next": 1794330680,
+  "gold falls more than 2 as cpi tops forecasts lifting dollar and yields": 1794330680,
+  "dollar strengthens after us inflation data boosts fed rate hike expectations": 1794330680,
+  "wsj dollar index falls 0 46 to 97 07": 1794330680
  },
  "usd": {
   "2026-11-03T10:16:00-05:00": {
@@ -175,11 +160,13 @@
   "2026-11-06T08:30:00-05:00": {
    "done": 1793988689
   },
-  "2026-11-10T08:30:00-05:00": {},
+  "2026-11-10T08:30:00-05:00": {
+   "done": 1794330685
+  },
   "2026-11-13T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794300126.17946,
+  "fetched": 1794330685.1890216,
   "events": [
    {
     "title": "Core CPI m/m",
