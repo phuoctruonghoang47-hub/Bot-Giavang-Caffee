@@ -1,18 +1,18 @@
 {
  "last_prices": {
-  "world_gold": 4006.8,
-  "world_gold_vnd": 123915118.22884059,
+  "world_gold": 3954.2,
+  "world_gold_vnd": 122288399.84538318,
   "domestic": {
    "Vàng miếng SJC": [
-    137000000,
-    140000000
+    136000000,
+    139000000
    ],
    "Nhẫn trơn PNJ 999.9": [
-    134700000,
-    138900000
+    133700000,
+    137900000
    ]
   },
-  "coffee": 84100
+  "coffee": 83700
  },
  "alert_ref_gold": 3984.7,
  "seen": {
