@@ -16,33 +16,6 @@
  },
  "alert_ref_gold": 3908.6,
  "seen": {
-  "daily:🥇 Vàng:2026-11-10": 1794274924,
-  "gold edges lower as investors await key u s inflation data": 1794274924,
-  "giá vàng tăng mạnh nhờ giá dầu và usd đồng loạt giảm spdr gold trust mua ròng": 1794274924,
-  "bản tin nông sản hôm nay 10 11 giá cà phê tăng nhẹ": 1794274924,
-  "3 unexpected reasons the october jobs report was so strong": 1794274924,
-  "treasury yields edge higher ahead of cpi data": 1794274924,
-  "canadian dollar underperforms most g10 currencies as oil falls": 1794274924,
-  "coffee prices undercut by rising brazil coffee exports": 1794274924,
-  "gold holds decline as us jobs data fan december rate hike bets": 1794274924,
-  "gold futures extend gains as oil prices retreat": 1794274924,
-  "bls will not publish 12 month cpi core cpi figures for october": 1794274924,
-  "exclusive a circa 1890s mansion on san francisco s gold coast lists for 34 95 million": 1794274924,
-  "fed s goolsbee says officials must address inflation failure": 1794274924,
-  "fed s barkin says policy direction clear needs careful pace": 1794274924,
-  "ny fed survey finds americans more worried over future jobless levels": 1794274924,
-  "private credit s rapid growth draws regional fed banks scrutiny": 1794274924,
-  "giá vàng thế giới chạm 4 130 usd ounce vàng miếng sjc tăng 200 000 đồng lượng": 1794274924,
-  "steady inflation outlook mixed views for jobs in ny fed survey": 1794274924,
-  "gold price today price of gold per ounce 24 hour spot chart": 1794274924,
-  "gold and silver prices extend post election rebound central banks on pace to beat 2025 pur": 1794274924,
-  "the price of gold today nov 9 2026 and the best places to buy": 1794274924,
-  "gold swot central bank gold buying remains strong in 2026": 1794274924,
-  "gold silver rise as iran diplomacy pressures crude dollar weakens kitco am report": 1794274924,
-  "gold gains as lower oil prices ease inflation fears": 1794274924,
-  "treasury yields rise as investors await october cpi and producer prices": 1794274924,
-  "ice coffee warehouse stocks down 8 303 bags at 1 878 032 bags april 21": 1794274924,
-  "bản tin nông sản hôm nay 11 10 giá cà phê trong nước đồng loạt tăng": 1794274924,
   "treasury yields edge up ahead of u s inflation data": 1794301464,
   "vì sao đồng yên khó phục hồi lên mức cao hơn sau đợt can thiệp tỷ giá kỷ lục của nhật bản": 1794301464,
   "gold edges lower as focus shifts to u s inflation data": 1794301464,
@@ -243,7 +216,19 @@
   "10 year treasury yield jumps back above 5 as oil gains and more fed rate hikes expected": 1794519149,
   "gold drops to over one year low as fading middle east peace hopes fan inflation fears": 1794519149,
   "dollar reaches 19 month high as rate expectations dominate": 1794519149,
-  "dollar drops slightly from 19 month highs rate divergence in focus": 1794519149
+  "dollar drops slightly from 19 month highs rate divergence in focus": 1794519149,
+  "daily:🥇 Vàng:2026-11-13": 1794536389,
+  "fed s williams says inflation far too high work to do": 1794536389,
+  "giá vàng giảm người đang giữ vàng cần kiểm tra lại 4 con số": 1794536389,
+  "bản tin nông sản hôm nay 13 11 giá cà phê giảm": 1794536389,
+  "daily coffee report 11 12 26": 1794536389,
+  "gold holds drop to near one year low as rate hike bets increase": 1794536389,
+  "fed has time to calibrate rate hikes daly says": 1794536389,
+  "canadian dollar steadies near 19 month low ahead of us inflation data": 1794536389,
+  "fed s daly says more rate hikes needed to cool inflation": 1794536389,
+  "in a policy switch the fed says its october 2027 meeting will not see a vote on interest r": 1794536389,
+  "fed s barr us should prepare for serious ai job disruption widening inequality": 1794536389,
+  "giá vàng thế giới lao dốc xuống thấp nhất hơn một năm": 1794536389
  },
  "usd": {
   "2026-11-06T08:30:00-05:00": {
@@ -255,7 +240,7 @@
   "2026-11-13T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794519151.1421034,
+  "fetched": 1794536391.7794106,
   "events": [
    {
     "title": "Core CPI m/m",
