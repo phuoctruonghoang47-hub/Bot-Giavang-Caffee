@@ -1,7 +1,7 @@
 {
  "last_prices": {
-  "world_gold": 3897.8,
-  "world_gold_vnd": 120652247.9506214,
+  "world_gold": 3888.8,
+  "world_gold_vnd": 120547138.64014073,
   "domestic": {
    "Vàng miếng SJC": [
     135000000,
@@ -241,7 +241,7 @@
   "2026-11-13T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794558696.7393486,
+  "fetched": 1794590343.835419,
   "events": [
    {
     "title": "Core CPI m/m",
