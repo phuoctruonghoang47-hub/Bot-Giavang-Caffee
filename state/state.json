@@ -16,25 +16,6 @@
  },
  "alert_ref_gold": 3908.6,
  "seen": {
-  "brazilian real weakness and rising brazil exports weigh on coffee prices": 1794330680,
-  "fed s waller backs december rate hike open to larger move": 1794330680,
-  "fed officials open door to a half point hike after inflation beats expectations": 1794330680,
-  "gold futures decline after u s cpi data": 1794330680,
-  "us core cpi rises by more than forecast supporting fed hike": 1794330680,
-  "consumer prices rose 0 4 in october more than expected complicating fed s inflation fight": 1794330680,
-  "gold prices down 2 on the day as us cpi rises more than expected": 1794330680,
-  "treasury yields turn higher on fed s waller comments eurozone bond yields fall": 1794330680,
-  "liệu có nhịp phục hồi giá vàng bạc trong tháng 11": 1794330680,
-  "top federal reserve official considers largest rate rise since 2022": 1794330680,
-  "fed governor waller sees december hike likely opens door to possible half point increase": 1794330680,
-  "singapore central bank rolls out gold vaulting services to boost trading hub": 1794330680,
-  "giá vàng rơi 30 từ đỉnh hàng xóm việt nam gom hàng chục tấn mỗi tháng mua ròng liên tiếp 2": 1794330680,
-  "singapore launches gold vaulting service for central banks": 1794330680,
-  "giá vàng bật tăng mạnh cá mập spdr tranh thủ gom hàng": 1794330680,
-  "dollar steadies as waller argues for more rate hikes inflation up next": 1794330680,
-  "gold falls more than 2 as cpi tops forecasts lifting dollar and yields": 1794330680,
-  "dollar strengthens after us inflation data boosts fed rate hike expectations": 1794330680,
-  "wsj dollar index falls 0 46 to 97 07": 1794330680,
   "will democrats make gold shine again": 1794349627,
   "wall st ends lower as hot inflation data fed comments heighten rate worries": 1794349627,
   "interest rate hike debate sparked by fed s waller logan after hot inflation": 1794349627,
@@ -229,7 +210,24 @@
   "treasury yields edge higher ahead of cpi data": 1794563366,
   "the gold is all there tether gold releases kpmg audit of its reserves": 1794563366,
   "bonds inflation and the fed plus nvidia in turmoil": 1794563366,
-  "gold falls to more than 1 year low as u s dollar yields rise": 1794563366
+  "gold falls to more than 1 year low as u s dollar yields rise": 1794563366,
+  "coffee prices erase early gains as the brazilian real tumbles": 1794590892,
+  "bloomberg surveillance ppi data eases fed hike worry": 1794590892,
+  "india gold demand stays firm as lower prices draw festive buying": 1794590892,
+  "logan says treasury market functioning very well fed needs to strengthen support tools": 1794590892,
+  "kevin warsh puts his stamp on the fed one canceled rate decision at a time": 1794590892,
+  "the price of gold today nov 13 2026 and the best places to buy": 1794590892,
+  "week ahead for fx bonds fed minutes u k data in focus": 1794590892,
+  "fed cảnh báo ai có thể gây cú sốc lớn cho thị trường việc làm mỹ": 1794590892,
+  "the fed expected rate cuts this year now it s bracing for another inflation fight": 1794590892,
+  "latin america may have found crypto s killer app it s the dollar": 1794590892,
+  "kevin warsh": 1794590892,
+  "gold rebounds but heads for weekly fall before us inflation data": 1794590892,
+  "rate hike bets keep gold on track for its worst week in four months": 1794590892,
+  "indian rupee snaps rising streak on hawkish fed oil rise": 1794590892,
+  "giá vàng lao dốc 2 9 thủng mốc 3 900 usd ounce chạm đáy hơn 1 năm khi thị trường gần như c": 1794590892,
+  "aris mining announces positive pfs results for the toroparu gold project": 1794590892,
+  "fed sets new meeting schedule for 2027 as foretold by warsh": 1794590892
  },
  "usd": {
   "2026-11-06T08:30:00-05:00": {
@@ -238,7 +236,9 @@
   "2026-11-10T08:30:00-05:00": {
    "done": 1794330685
   },
-  "2026-11-13T08:30:00-05:00": {}
+  "2026-11-13T08:30:00-05:00": {
+   "done": 1794590894
+  }
  },
  "cal": {
   "fetched": 1794590343.835419,
