@@ -16,16 +16,6 @@
  },
  "alert_ref_gold": 3908.6,
  "seen": {
-  "indonesia rupiah drops to record low on strong dollar msci woes": 1794462164,
-  "gold falls to over one week low on firm dollar fed rate hike bets": 1794462164,
-  "phát hiện doanh nghiệp việt nam xuất khẩu hơn 836 triệu usd cà phê trong một niên vụ một m": 1794462164,
-  "giá vàng trong nước tiếp tục giảm sjc lùi về ngưỡng 139 triệu đồng": 1794462164,
-  "đồng usd cao nhất 19 tháng do khả năng fed phải tăng lãi suất mạnh tay hơn": 1794462164,
-  "daily:🥇 Vàng:2026-11-12": 1794462164,
-  "gold holds below 4 000 as market looks ahead to fed rate hike": 1794462164,
-  "gold futures slip back under 4 000 level": 1794462164,
-  "gold miners enjoy strong q2 despite lower gold price higher expenses and operational disru": 1794462164,
-  "the fed trending news latest updates analysis": 1794462164,
   "gold silver extend losses as fed hike bets lift dollar treasury yields kitco am report": 1794493730,
   "u s jobless claims rise more than expected in the week": 1794493730,
   "gold price tests 3 900 oz after u s weekly jobless claims rise to 200k": 1794493730,
@@ -198,7 +188,13 @@
   "bản tin nông sản hôm nay 15 11 giá cà phê thế giới tiếp tục giảm": 1794703044,
   "fed có thông báo bất ngờ về lãi suất": 1794703044,
   "50 feared dead in congo gold mine collapse": 1794703044,
-  "covid hospital fed up with careless french public": 1794703044
+  "covid hospital fed up with careless french public": 1794703044,
+  "daily:🥇 Vàng:2026-11-15": 1794727582,
+  "alamos gold inc agi n stock price latest news": 1794727582,
+  "marvel gold ltd grxmf pk stock price latest news": 1794727582,
+  "outcrop silver gold corp ocgsf pk stock price latest news": 1794727582,
+  "zijin gold international co ltd 2259 hk stock price latest news": 1794727582,
+  "china gold international resources corp ltd jinff pkl forecasts ft com": 1794727582
  },
  "usd": {
   "2026-11-10T08:30:00-05:00": {
@@ -206,42 +202,45 @@
   },
   "2026-11-13T08:30:00-05:00": {
    "done": 1794590894
-  }
+  },
+  "2026-11-16T12:00:00-05:00": {},
+  "2026-11-17T08:30:00-05:00": {},
+  "2026-11-18T14:00:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794703046.5332026,
+  "fetched": 1794727584.2694066,
   "events": [
    {
-    "title": "Core CPI m/m",
+    "title": "Fed Chairman Warsh Speaks",
     "country": "USD",
-    "date": "2026-11-10T08:30:00-05:00",
+    "date": "2026-11-16T12:00:00-05:00",
     "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.3%"
+    "forecast": "",
+    "previous": ""
    },
    {
-    "title": "CPI m/m",
+    "title": "Core Retail Sales m/m",
     "country": "USD",
-    "date": "2026-11-10T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.6%"
-   },
-   {
-    "title": "Core PPI m/m",
-    "country": "USD",
-    "date": "2026-11-13T08:30:00-05:00",
-    "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.7%"
-   },
-   {
-    "title": "PPI m/m",
-    "country": "USD",
-    "date": "2026-11-13T08:30:00-05:00",
+    "date": "2026-11-17T08:30:00-05:00",
     "impact": "High",
     "forecast": "0.4%",
-    "previous": "1.3%"
+    "previous": "0.9%"
+   },
+   {
+    "title": "Retail Sales m/m",
+    "country": "USD",
+    "date": "2026-11-17T08:30:00-05:00",
+    "impact": "High",
+    "forecast": "0.2%",
+    "previous": "0.8%"
+   },
+   {
+    "title": "FOMC Meeting Minutes",
+    "country": "USD",
+    "date": "2026-11-18T14:00:00-05:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
    }
   ]
  }
