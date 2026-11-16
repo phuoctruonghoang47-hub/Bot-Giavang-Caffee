@@ -16,24 +16,6 @@
  },
  "alert_ref_gold": 3843.1,
  "seen": {
-  "tt đường cà phê ngày 13 11 giá arabica bật tăng từ đáy thị trường nội địa duy trì ổn định": 1794563366,
-  "giá vàng nhẫn 4 số 9 giảm 3 7 triệu đồng lượng trong 4 phiên": 1794563366,
-  "upward pressure remains in treasury yields even as two year yield stabilizes": 1794563366,
-  "lùi về 138 triệu đồng lượng giá vàng thấp nhất gần 1 năm": 1794563366,
-  "gold rises on bargain hunting but heads for weekly decline": 1794563366,
-  "các đồng tiền châu á đương đầu áp lực mất giá mạnh vì dự báo fed tăng lãi suất": 1794563366,
-  "giá vàng bốc hơi thêm hơn 100 usd oz vì giá dầu đồng usd và lợi suất trái phiếu đồng loạt ": 1794563366,
-  "giá vàng trong nước giảm 1 triệu đồng vàng sjc xuống còn 138 triệu đồng mỗi lượng": 1794563366,
-  "fed s williams says central bank has work to do to get inflation back on target": 1794563366,
-  "fed s williams says still work to do to get monetary policy to right place": 1794563366,
-  "gold edges higher in technical rebound": 1794563366,
-  "giá vàng thế giới giảm xuống mức thấp nhất trong hơn 1 năm": 1794563366,
-  "nghe podcasts điểm tin 6h jensen huang từ chức ceo nvidia sau 33 năm giá vàng thế giới lao": 1794563366,
-  "gold silver slide as treasury yields surge fed hike concerns intensify kitco pm report": 1794563366,
-  "treasury yields edge higher ahead of cpi data": 1794563366,
-  "the gold is all there tether gold releases kpmg audit of its reserves": 1794563366,
-  "bonds inflation and the fed plus nvidia in turmoil": 1794563366,
-  "gold falls to more than 1 year low as u s dollar yields rise": 1794563366,
   "coffee prices erase early gains as the brazilian real tumbles": 1794590892,
   "bloomberg surveillance ppi data eases fed hike worry": 1794590892,
   "india gold demand stays firm as lower prices draw festive buying": 1794590892,
@@ -185,7 +167,34 @@
   "freeman gold corp fmanf pk stock price latest news": 1794812379,
   "lavras gold corp lgc v stock price latest news": 1794812379,
   "serabi gold plc b9o2 d stock price latest news": 1794812379,
-  "i 80 gold corp 8ji f stock price latest news": 1794812379
+  "i 80 gold corp 8ji f stock price latest news": 1794812379,
+  "gold futures kept down by strong u s dollar": 1794847995,
+  "the price of gold today nov 16 2026 and the best places to buy": 1794847995,
+  "gold price slides as fed hike bets rise silver bar and coin sales drop despite lower price": 1794847995,
+  "treasury yields slip ahead of fedspeak": 1794847995,
+  "supreme court rejects crypto bank custodia s bid for fed payment access": 1794847995,
+  "việt nam là nước xuất khẩu cà phê hòa tan lớn nhất thế giới": 1794847995,
+  "commentary warsh s honeymoon period is over": 1794847995,
+  "u s treasury yields decline but fed rate hike prospects in focus": 1794847995,
+  "fed s barr warns on ai risks to financial system": 1794847995,
+  "fed s barr says ai agents could fuel future bank runs": 1794847995,
+  "treasury yields fall as investors await comments from fed chairman warsh": 1794847995,
+  "dự báo về sự cứng rắn của fed lãi suất có thể tăng vào tháng 12 2026 và tháng 1 2027": 1794847995,
+  "quan chức fed cảnh báo lạm phát mỹ chệch hướng thị trường cược 100 khả năng tăng lãi suất ": 1794847995,
+  "vico 2026 thúc đẩy phát triển bền vững ngành cà phê việt nam": 1794847995,
+  "idr usd indonesian rupiah falls to record low as fed bets boost dollar": 1794847995,
+  "gold fall to more than one year low on resilient dollar as hawkish fed bets build": 1794847995,
+  "những người vui ra mặt khi giá vàng giảm": 1794847995,
+  "vàng sjc giao dịch ở mức 137 5 triệu đồng chênh lệch với thế giới vẫn cao": 1794847995,
+  "wsj dollar index rises 0 44 to 97 97": 1794847995,
+  "giá vàng thế giới phục hồi trước thềm bài phát biểu của chủ tịch fed": 1794847995,
+  "xuất khẩu cà phê của việt nam 10 tháng đạt 7 08 tỷ usd": 1794847995,
+  "robusta trong tuần giá quanh 83 000 đồng kg nông dân nên ưu tiên phơi nắng tự nhiên": 1794847995,
+  "daily:🏦 Vĩ mô:2026-11-16": 1794847995,
+  "us iran deal uncertainty to weigh on rupee and bonds fed rbi rate paths eyed": 1794847995,
+  "gold hits over one year low on resilient dollar as hawkish fed bets build": 1794847995,
+  "daily:🥇 Vàng:2026-11-16": 1794847995,
+  "desert gold ventures inc dau v stock price latest news": 1794847995
  },
  "usd": {
   "2026-11-10T08:30:00-05:00": {
@@ -194,12 +203,15 @@
   "2026-11-13T08:30:00-05:00": {
    "done": 1794590894
   },
-  "2026-11-16T12:00:00-05:00": {},
+  "2026-11-16T12:00:00-05:00": {
+   "pre": 1794847997,
+   "done": 1794850201
+  },
   "2026-11-17T08:30:00-05:00": {},
   "2026-11-18T14:00:00-05:00": {}
  },
  "cal": {
-  "fetched": 1794812381.710533,
+  "fetched": 1794847997.6231806,
   "events": [
    {
     "title": "Fed Chairman Warsh Speaks",
