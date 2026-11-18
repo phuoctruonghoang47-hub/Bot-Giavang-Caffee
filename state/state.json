@@ -16,20 +16,6 @@
  },
  "alert_ref_gold": 3770.0,
  "seen": {
-  "fed has some work to do on inflation kansas city fed chief says": 1794773136,
-  "fed has some work to do on inflation kc fed chief says": 1794773136,
-  "schmid says fed has more work to do to bring down inflation": 1794773136,
-  "daily:☕ Cà phê:2026-11-16": 1794773136,
-  "gold futures slip back under 4 000 level": 1794773136,
-  "giá vàng thế giới có thể giảm tiếp tuần này": 1794773136,
-  "gold rush turns deadly in guinea": 1794773136,
-  "zijin gold international co ltd zjngf pk stock price latest news": 1794773136,
-  "trx gold corp trx stock price latest news": 1794773136,
-  "equinox gold corp eqx a stock price latest news": 1794773136,
-  "gold terra resource corp ygt v stock price latest news": 1794773136,
-  "canadian gold resources ltd cdngf pk stock price latest news": 1794773136,
-  "mackay gold silver corp mack v stock price latest news": 1794773136,
-  "altamira gold corp t6up d stock price latest news": 1794773136,
   "bản tin nông sản hôm nay 16 11 giá cà phê hồ tiêu đi ngang": 1794787686,
   "besra gold inc bez ax stock price latest news": 1794787686,
   "first mining gold corp ff to stock price latest news": 1794787686,
@@ -231,7 +217,27 @@
   "giá vàng trong nước đảo chiều giảm 500 000 đồng mỗi lượng": 1795023851,
   "dollar higher as hawkish waller backs aggressive fed action": 1795023851,
   "wsj dollar index falls 0 04 to 98 42": 1795023851,
-  "guinea s miners stockpile gold after refinery rules halted exports sources say": 1795023851
+  "guinea s miners stockpile gold after refinery rules halted exports sources say": 1795023851,
+  "daily:🥇 Vàng:2026-11-19": 1795045668,
+  "cà phê niên vụ 2026 2027 kỳ vọng bứt phá về giá trị": 1795045668,
+  "gold plunges below 3 750 silver tumbles as hawkish fed minutes pressure metals kitco pm re": 1795045668,
+  "wall street ends mixed after nvidia earnings fed minutes": 1795045668,
+  "fed minutes show almost all officials expect more rate hikes": 1795045668,
+  "week ahead for fx bonds fed minutes u k data in focus": 1795045668,
+  "gold prices remain under pressure as fed minutes show central bank committed to cooling in": 1795045668,
+  "daily:☕ Cà phê:2026-11-19": 1795045668,
+  "uae top destination for smuggled african gold despite tighter measures ngo says": 1795045668,
+  "south african rand hits eight month low on gold fed hike bets": 1795045668,
+  "waller says on cnbc the fed needs to get more aggressive in inflation response": 1795045668,
+  "spot gold at 3 775 oz after u s housing starts rise 9 9 building permits fall 7 4 in octob": 1795045668,
+  "waller says fed should consider half point rate hike": 1795045668,
+  "xem nhanh 20h ngày 18 11 công an thông tin vụ nổ súng ở công ty la ngà giá vàng bạc giảm k": 1795045668,
+  "fed s waller says central bank may need to shock people with half point rate hike": 1795045668,
+  "nóng bảo tín minh châu pnj doji sjc vào danh sách thanh tra năm 2027": 1795045668,
+  "longer dated treasury yields fall as traders weigh waller comments fed minutes": 1795045668,
+  "gold drops to 14 month low as dollar yields rise on hawkish fed rhetoric": 1795045668,
+  "rupee ends flat after hitting seven month high as firmer dollar offsets inflows": 1795045668,
+  "dollar firmer as hawkish waller backs aggressive fed action": 1795045668
  },
  "usd": {
   "2026-11-13T08:30:00-05:00": {
@@ -245,11 +251,12 @@
    "done": 1794938549
   },
   "2026-11-18T14:00:00-05:00": {
-   "pre": 1795023854
+   "pre": 1795023854,
+   "done": 1795045669
   }
  },
  "cal": {
-  "fetched": 1795023854.0036237,
+  "fetched": 1795045669.872947,
   "events": [
    {
     "title": "Fed Chairman Warsh Speaks",
