@@ -16,15 +16,6 @@
  },
  "alert_ref_gold": 3770.0,
  "seen": {
-  "những người đang muốn mua vàng đừng bỏ qua điều này": 1794754467,
-  "gold and silver are supposed to protect against inflation so why are both metals tumbling ": 1794754467,
-  "lexington gold ltd lex l stock price latest news": 1794754467,
-  "dryden gold corp drygf pk stock price latest news": 1794754467,
-  "dome gold mines ltd dme ax stock price latest news": 1794754467,
-  "equinox gold corp eqx to stock price latest news": 1794754467,
-  "merdeka gold resources pt tbk emas jk stock price latest news": 1794754467,
-  "lode gold resources inc lodff pk stock price latest news": 1794754467,
-  "lundin gold inc f1yn fra directors and dealings ft com": 1794754467,
   "fed has some work to do on inflation kansas city fed chief says": 1794773136,
   "fed has some work to do on inflation kc fed chief says": 1794773136,
   "schmid says fed has more work to do to bring down inflation": 1794773136,
@@ -219,12 +210,30 @@
   "fed s williams still favors tighter monetary policy but says now is not the time for drama": 1794991616,
   "dollar rises to 19 month high on fed rate hike bets": 1794991616,
   "india s gold demand boosted by lower prices in october with jewelry etfs and imports stron": 1794991616,
-  "gold futures inch higher as u s yields dollar slip": 1794991616
+  "gold futures inch higher as u s yields dollar slip": 1794991616,
+  "coffee prices plunge on expectations for larger global supplies": 1795023851,
+  "nông nghiệp đắk lắk đối mặt hạn hán và giá cà phê giảm": 1795023851,
+  "the price of gold today nov 18 2026 and the best places to buy": 1795023851,
+  "spot gold slides to 3 756 oz as u s pending home sales drop 4 7 in october": 1795023851,
+  "these charts show why young people across the world are fed up with the economy": 1795023851,
+  "gold plunges to 14 month low silver tumbles as fed rate hike bets intensify kitco am repor": 1795023851,
+  "treasury yields rise amid hawkish fedspeak": 1795023851,
+  "đắk lắk ngành trồng trọt năm 2026 vượt kế hoạch xuất khẩu cà phê tăng trưởng mạnh": 1795023851,
+  "dự kiến thanh tra sjc doji pnj phú quý bảo tín minh châu về phòng chống rửa tiền": 1795023851,
+  "gold down 2 5 on firmer dollar rate hike bets": 1795023851,
+  "two year treasury note yield climbs as waller warns that fed may need to shock people with": 1795023851,
+  "giá vàng giảm xuống mức thấp nhất trong vòng 14 tháng qua": 1795023851,
+  "sáng 18 11 tỷ giá tại các ngân hàng thương mại đồng loạt giảm": 1795023851,
+  "giá vàng thế giới lao dốc vàng sjc giảm nhỏ giọt chênh lệch lên cao nhất gần 4 tháng": 1795023851,
+  "quỹ vàng lớn nhất thế giới bất ngờ gom thêm khi giá vàng thủng đáy": 1795023851,
+  "gold drops 2 to over one year low as hawkish fed signals boost dollar": 1795023851,
+  "gold drops to 14 month low as hawkish fed rhetoric boosts dollar yields": 1795023851,
+  "giá vàng trong nước đảo chiều giảm 500 000 đồng mỗi lượng": 1795023851,
+  "dollar higher as hawkish waller backs aggressive fed action": 1795023851,
+  "wsj dollar index falls 0 04 to 98 42": 1795023851,
+  "guinea s miners stockpile gold after refinery rules halted exports sources say": 1795023851
  },
  "usd": {
-  "2026-11-10T08:30:00-05:00": {
-   "done": 1794330685
-  },
   "2026-11-13T08:30:00-05:00": {
    "done": 1794590894
   },
@@ -235,10 +244,12 @@
   "2026-11-17T08:30:00-05:00": {
    "done": 1794938549
   },
-  "2026-11-18T14:00:00-05:00": {}
+  "2026-11-18T14:00:00-05:00": {
+   "pre": 1795023854
+  }
  },
  "cal": {
-  "fetched": 1794991618.225592,
+  "fetched": 1795023854.0036237,
   "events": [
    {
     "title": "Fed Chairman Warsh Speaks",
