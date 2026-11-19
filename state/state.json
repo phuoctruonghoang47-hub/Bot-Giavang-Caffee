@@ -1,18 +1,18 @@
 {
  "last_prices": {
-  "world_gold": 3742.8,
-  "world_gold_vnd": 115994276.08041555,
+  "world_gold": 3737.8,
+  "world_gold_vnd": 115839319.52906308,
   "domestic": {
    "Vàng miếng SJC": [
-    134200000,
-    137200000
+    133200000,
+    136200000
    ],
    "Nhẫn trơn PNJ 999.9": [
-    130800000,
-    135000000
+    128800000,
+    133000000
    ]
   },
-  "coffee": 77100
+  "coffee": 74900
  },
  "alert_ref_gold": 3729.5,
  "seen": {
@@ -273,7 +273,7 @@
   }
  },
  "cal": {
-  "fetched": 1795066249.9144442,
+  "fetched": 1795079442.319564,
   "events": [
    {
     "title": "Fed Chairman Warsh Speaks",
