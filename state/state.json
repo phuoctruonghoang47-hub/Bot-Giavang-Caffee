@@ -16,31 +16,6 @@
  },
  "alert_ref_gold": 3541.0,
  "seen": {
-  "fed s jefferson says ai boosting inflation productivity impact possible in the future": 1795100556,
-  "gold struggles near 3 700 despite weaker philly fed renewed hormuz tensions kitco am repor": 1795100556,
-  "u s jobless claims unexpectedly move higher": 1795100556,
-  "us weekly jobless claims increase slightly": 1795100556,
-  "gold s bad year is getting worse why its price keeps falling": 1795100556,
-  "gold remains under pressure as philly fed survey drops to six month low": 1795100556,
-  "giá cà phê giảm 8 phiên liên tiếp điều gì đang xảy ra": 1795100556,
-  "người phụ nữ thái tiên phong đưa cà phê arabica sơn la bay xa": 1795100556,
-  "gold pressured by rate hike bets broader commodities retreat": 1795100556,
-  "vàng đang thất sủng": 1795100556,
-  "việt nam và kho vàng trắng hydrogen từ câu chuyện mali nhanh chân để hiện thực hóa cơ hội": 1795100556,
-  "commentary the ai dollar has arrived its direction hasn t": 1795100556,
-  "gold recoups from 14 month low tighter fed outlook caps gains": 1795100556,
-  "gold loses its lustre for investors": 1795100556,
-  "giá vàng bốc hơi hơn 30 từ đỉnh chuyên gia chỉ ra tín hiệu tạo đáy quan trọng": 1795100556,
-  "giá vàng thủng đáy 14 tháng quỹ vàng lớn nhất thế giới có động thái lạ": 1795100556,
-  "u s dollar hovers near 19 month high aussie falls after soft jobs data": 1795100556,
-  "giá vàng trong nước giảm nhưng vẫn cao hơn thế giới tới 19 7 triệu đồng": 1795100556,
-  "indian rupee s inflow driven upward momentum faces hawkish fed headwinds": 1795100556,
-  "biên bản họp fed được công bố gần như toàn bộ quan chức muốn tăng lãi suất giá vàng lập tứ": 1795100556,
-  "tin tức sáng 19 11 giá vàng thế giới giảm về sát 3 700 usd ounce vẫn đang dò đáy": 1795100556,
-  "giá vàng lao dốc 3 xuống thấp nhất 14 tháng do dấu hiệu cứng rắn của fed và xu hướng tăng ": 1795100556,
-  "fed s barr says rate rises likely lie ahead": 1795100556,
-  "watch us initial jobless claims unexpectedly rise by 1 000": 1795100556,
-  "giá vàng thế giới tiếp tục lao dốc hơn 3 trước tín hiệu từ fed": 1795100556,
   "gold falls below 3 650 silver tumbles as fed rate concerns pressure metals kitco pm report": 1795128178,
   "gold steadies near 14 month low as fed signals more rate hikes": 1795128178,
   "treasury yields fall as anthropic fails to sustain risk appetite": 1795128178,
@@ -189,7 +164,15 @@
   "lỡ cả đời này vàng không lên lại 190 triệu đồng thì sao": 1795339465,
   "daily:🥇 Vàng:2026-11-22": 1795339465,
   "these charts show why young people across the world are fed up with the economy": 1795339465,
-  "giá cà phê đồng loạt tăng": 1795339465
+  "giá cà phê đồng loạt tăng": 1795339465,
+  "bessent warns fed risks overtightening as us markets swoon": 1795367780,
+  "new zealand dollar slumps to a six year low": 1795367780,
+  "xuất khẩu cà phê của đắk lắk vượt 1 3 tỉ usd": 1795367780,
+  "nông dân và doanh nghiệp ở đắk lắk ứng phó khi giá cà phê sụt giảm": 1795367780,
+  "agricultural products today 22 11 coffee prices lose 11 000 vnd kg after 1 week of deep de": 1795367780,
+  "nông sản hôm nay 22 11 giá cà phê đánh mất 11 000 đồng kg sau 1 tuần giảm sâu": 1795367780,
+  "treasury yields mixed amid hawkish fedspeak": 1795367780,
+  "watch fed s inflation fight may require more hikes": 1795367780
  },
  "usd": {
   "2026-11-16T12:00:00-05:00": {
@@ -206,7 +189,7 @@
   "2026-11-25T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1795336380.9975495,
+  "fetched": 1795367782.7302444,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
