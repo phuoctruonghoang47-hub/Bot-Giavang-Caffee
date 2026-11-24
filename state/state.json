@@ -14,24 +14,8 @@
   },
   "coffee": 71100
  },
- "alert_ref_gold": 3623.5,
+ "alert_ref_gold": 3549.6,
  "seen": {
-  "một tuần giá vàng thế giới mất đến 350 usd ounce": 1795279993,
-  "an illusion of glitz and glamour inside california s modern day gold rush where miners can": 1795279993,
-  "inside california s modern day gold rush": 1795279993,
-  "pnj thay đổi chính sách thu đổi vàng nhận tiền sau 1 ngày kim cương chờ 4 tháng": 1795279993,
-  "daily coffee report 11 20 26": 1795279993,
-  "gold price canada today live gold price in cad": 1795279993,
-  "precious metals prices canada gold silver platinum palladium rhodium in cad": 1795279993,
-  "treasury yields fall german bunds tick higher": 1795279993,
-  "giá vàng giảm mạnh những ai mua thời trên đỉnh giờ tính sao": 1795279993,
-  "pnj cho đổi vàng sang kim cương nhưng không cho đổi kim cương sang vàng": 1795279993,
-  "chuyển động 12h vì sao giá vàng giảm nhanh hlv cristiano roland tự hào về u 17 việt nam": 1795279993,
-  "giá vàng lao dốc chuyên gia đưa ra dự báo bất ngờ": 1795279993,
-  "buy 2027 1 oz gold eagle coins 20 per tube mintfirst us ships week of jan 14": 1795279993,
-  "buy 2027 1 oz gold eagle coins buy gold coins": 1795279993,
-  "new zealand dollar hits lowest since global financial crisis": 1795279993,
-  "gold futures inch higher as u s yields dollar slip": 1795279993,
   "daily:☕ Cà phê:2026-11-22": 1795298318,
   "inside california s modern day gold rush where miners can bring in millions": 1795298318,
   "david powell": 1795298318,
@@ -137,13 +121,30 @@
   "fed s john williams indicates higher interest rates likely over time to address inflation": 1795519162,
   "gold silver futures rebound as markets get nvidia boost": 1795519162,
   "gold futures rebound as nvidia news lifts markets": 1795519162,
-  "tag gold market liquidity": 1795519162
+  "tag gold market liquidity": 1795519162,
+  "canadian dollar gains most since august on boc inflation warning": 1795555566,
+  "coffee prices fall as supply concerns ease": 1795555566,
+  "hsbc j p morgan and stonex complete first live trades using pooled gold interests pgi": 1795555566,
+  "bca research ends four year bullish gold trade as us dollar fed take their toll": 1795555566,
+  "daily:☕ Cà phê:2026-11-25": 1795555566,
+  "easing supply concerns pressure coffee prices": 1795555566,
+  "dollar could rise further in 2027 if fed lifts rates": 1795555566,
+  "arabica drops as exchange stockpiles surge most in 28 years": 1795555566,
+  "gold price testing support near 3 600 as us consumer confidence sees sharp rise in novembe": 1795555566,
+  "gold struggles to extend rebound as fed rate hike bets pressure silver kitco am report": 1795555566,
+  "giá vàng giằng co quanh ngưỡng 3 620 usd ounce trước kỳ nghỉ lễ tạ ơn": 1795555566,
+  "pound claws above 19 month low as dollar pauses after nvidia driven rally": 1795555566,
+  "jpmorgan hsbc trade new london digital gold for first time": 1795555566,
+  "ai boom looms over warsh s fed as inflation worries grow": 1795555566,
+  "giá vàng giảm khi thị trường chờ đợi dữ liệu lạm phát của mỹ": 1795555566,
+  "treasury yields are steady as investors await more economic data": 1795555566,
+  "treasury yields tick lower after inflation warning from new york fed s williams investors ": 1795555566,
+  "west africa s rush to refine its own gold unleashes flood of capacity": 1795555566,
+  "gold ticks lower on hawkish fed bets u s inflation data in focus": 1795555566,
+  "forex dollar slips as nvidia fueled ai rally fades": 1795555566,
+  "gold falls 2 on hawkish fed bets us inflation data in focus": 1795555566
  },
  "usd": {
-  "2026-11-16T12:00:00-05:00": {
-   "pre": 1794847997,
-   "done": 1794850201
-  },
   "2026-11-17T08:30:00-05:00": {
    "done": 1794938549
   },
@@ -154,7 +155,7 @@
   "2026-11-25T08:30:00-05:00": {}
  },
  "cal": {
-  "fetched": 1795519163.933479,
+  "fetched": 1795555568.3440294,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
