@@ -14,13 +14,8 @@
   },
   "coffee": 70100
  },
- "alert_ref_gold": 3549.6,
+ "alert_ref_gold": 3496.8,
  "seen": {
-  "giá vàng thế giới giảm mạnh nhất trong 8 tháng tuần tới có nhích lên": 1795339465,
-  "lỡ cả đời này vàng không lên lại 190 triệu đồng thì sao": 1795339465,
-  "daily:🥇 Vàng:2026-11-22": 1795339465,
-  "these charts show why young people across the world are fed up with the economy": 1795339465,
-  "giá cà phê đồng loạt tăng": 1795339465,
   "bessent warns fed risks overtightening as us markets swoon": 1795367780,
   "new zealand dollar slumps to a six year low": 1795367780,
   "xuất khẩu cà phê của đắk lắk vượt 1 3 tỉ usd": 1795367780,
@@ -152,20 +147,45 @@
   "gold futures give back gains following nvidia driven rally": 1795580797,
   "comex gold settles 3 16 lower at 3736 80": 1795580797,
   "the price of gold today nov 24 2026 and the best places to buy": 1795580797,
-  "gold falls 2 on hawkish fed bets u s inflation data in focus": 1795580797
+  "gold falls 2 on hawkish fed bets u s inflation data in focus": 1795580797,
+  "u s treasury yields tick down after pce gdp and jobless reports": 1795618025,
+  "gold silver remain under pressure as strong gdp sticky inflation reinforce fed hike bets k": 1795618025,
+  "gold prices drop 1 as us q3 gdp revised to 4 3 with contained pce inflation": 1795618025,
+  "gold prices drop another 1 as us q3 gdp revised to 4 3 with contained pce inflation": 1795618025,
+  "us consumer spending stalls core pce rises 0 3 for third month": 1795618025,
+  "watch tech selloff pesists ahead of pce us prepares tariff hikes": 1795618025,
+  "robusta coffee prices fall to 3 year low": 1795618025,
+  "giá cà phê robusta giảm xuống mức thấp nhất trong 3 năm": 1795618025,
+  "agricultural products today november 25 coffee and pepper prices plummet": 1795618025,
+  "nông sản hôm nay 25 11 giá cà phê hồ tiêu lao dốc": 1795618025,
+  "treasury yields fall as investors await key inflation signal": 1795618025,
+  "gold spot prices silver prices platinum palladium": 1795618025,
+  "gold slips on stronger dollar us inflation data in focus": 1795618025,
+  "fed rate hike is driving the story of the year morgan stanley": 1795618025,
+  "pnj hạ giá vàng nhẫn trơn xuống thấp hơn nhiều thương hiệu lớn": 1795618025,
+  "báo cáo chuyên đề dự báo tỷ giá": 1795618025,
+  "giá vàng giảm mạnh tỷ giá trung tâm lập kỷ lục mới": 1795618025,
+  "huang put is the fed s thanksgiving pardon": 1795618025,
+  "từng đặt cược vào vàng suốt 4 năm một tổ chức bất ngờ rút lui": 1795618025,
+  "daily:🥇 Vàng:2026-11-25": 1795618025,
+  "global risk off mood lifts dollar ahead of inflation data": 1795618025,
+  "gold and silver slide to key support as rate hike fears build": 1795618025,
+  "gold falters ahead of key us inflation print": 1795618025,
+  "canadian dollar gains most since august on inflation warning": 1795618025,
+  "canadian dollar hits 11 day high as investors raise boc rate hike bets": 1795618025,
+  "gold is doing something strange here s one way to play it": 1795618025
  },
  "usd": {
-  "2026-11-17T08:30:00-05:00": {
-   "done": 1794938549
-  },
   "2026-11-18T14:00:00-05:00": {
    "pre": 1795023854,
    "done": 1795045669
   },
-  "2026-11-25T08:30:00-05:00": {}
+  "2026-11-25T08:30:00-05:00": {
+   "done": 1795618027
+  }
  },
  "cal": {
-  "fetched": 1795601521.2515903,
+  "fetched": 1795618027.24064,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
