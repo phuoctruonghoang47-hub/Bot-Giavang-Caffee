@@ -16,13 +16,6 @@
  },
  "alert_ref_gold": 3599.9,
  "seen": {
-  "giá vàng sjc bật tăng 1 5 triệu đồng mỗi lượng phiên đầu tuần": 1795404416,
-  "india s nifty stands apart as global stocks gold suffer rare joint selloff": 1795404416,
-  "vì sao mua vàng từ lỗ đến lỗ": 1795404416,
-  "giá usd hôm nay 23 11 2026 tỷ giá trung tâm lên kỷ lục": 1795404416,
-  "wsj dollar index rises 0 22 to 98 64": 1795404416,
-  "gold rises in likely technical rebound": 1795404416,
-  "bản tin nông sản hôm nay 23 11 giá lúa gạo ít biến động giá cà phê và hồ tiêu giảm": 1795404416,
   "gold rebounds after sharpest weekly decline since march": 1795440496,
   "turkey may use gold tools to improve fx position governor says": 1795440496,
   "freeman gold advances lemhi gold project permitting with acceptance into fast 41 u s feder": 1795440496,
@@ -192,7 +185,27 @@
   "watch what the pce data means for fed policy": 1795649223,
   "watch core pce momentum remained elevated in october": 1795649223,
   "giá cà phê đồng loạt tăng": 1795649223,
-  "the wsj dollar index falls 0 27 to 98 75": 1795649223
+  "the wsj dollar index falls 0 27 to 98 75": 1795649223,
+  "giá vàng nhẫn pnj thấp hơn lên đến 2 triệu đồng lượng": 1795670269,
+  "agricultural products today november 26 coffee and pepper prices fall rapidly": 1795670269,
+  "nông sản hôm nay 26 11 giá cà phê hồ tiêu giảm nhanh": 1795670269,
+  "behind the plunge falling to the lowest level in 3 years of coffee prices": 1795670269,
+  "gold steadies after hitting over 1 year low fed outlook in focus": 1795670269,
+  "daily:🥇 Vàng:2026-11-26": 1795670269,
+  "dollar steady as sliding yields temper safe haven bid": 1795670269,
+  "u s inflation could move near 4 in coming months economist": 1795670269,
+  "điểm tin 6h thuế bổ sung mỹ đề xuất áp với việt nam có thể giảm giá vàng thế giới mất mốc ": 1795670269,
+  "gold price today price of gold per ounce 24 hour spot chart": 1795670269,
+  "hot inflation data and shaky markets poise new test for fed ahead of december meeting": 1795670269,
+  "treasury yields extend fall after u s data flurry": 1795670269,
+  "fed policymakers at odds over causes of high inflation": 1795670269,
+  "fed survey shows continued economic growth sticky inflation in recent weeks": 1795670269,
+  "fed contacts expect costs and prices to keep rising": 1795670269,
+  "fed beige book shows moderate growth uptick in wage pressures": 1795670269,
+  "metals rout deepens as ai fed worries fuel bearish sentiment": 1795670269,
+  "there s still no substitute for 10 15 gold allocation in investor portfolios ray dalio": 1795670269,
+  "giá vàng thế giới tăng trở lại sau khi mất mốc 3 500 usd": 1795670269,
+  "turkey gold mine hit by landslide restarts after two year halt": 1795670269
  },
  "usd": {
   "2026-11-18T14:00:00-05:00": {
@@ -204,7 +217,7 @@
   }
  },
  "cal": {
-  "fetched": 1795649225.394485,
+  "fetched": 1795670271.8634155,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
