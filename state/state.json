@@ -16,27 +16,6 @@
  },
  "alert_ref_gold": 3702.5,
  "seen": {
-  "canadian dollar gains most since august on boc inflation warning": 1795555566,
-  "coffee prices fall as supply concerns ease": 1795555566,
-  "hsbc j p morgan and stonex complete first live trades using pooled gold interests pgi": 1795555566,
-  "bca research ends four year bullish gold trade as us dollar fed take their toll": 1795555566,
-  "daily:☕ Cà phê:2026-11-25": 1795555566,
-  "easing supply concerns pressure coffee prices": 1795555566,
-  "dollar could rise further in 2027 if fed lifts rates": 1795555566,
-  "arabica drops as exchange stockpiles surge most in 28 years": 1795555566,
-  "gold price testing support near 3 600 as us consumer confidence sees sharp rise in novembe": 1795555566,
-  "gold struggles to extend rebound as fed rate hike bets pressure silver kitco am report": 1795555566,
-  "giá vàng giằng co quanh ngưỡng 3 620 usd ounce trước kỳ nghỉ lễ tạ ơn": 1795555566,
-  "pound claws above 19 month low as dollar pauses after nvidia driven rally": 1795555566,
-  "jpmorgan hsbc trade new london digital gold for first time": 1795555566,
-  "ai boom looms over warsh s fed as inflation worries grow": 1795555566,
-  "giá vàng giảm khi thị trường chờ đợi dữ liệu lạm phát của mỹ": 1795555566,
-  "treasury yields are steady as investors await more economic data": 1795555566,
-  "treasury yields tick lower after inflation warning from new york fed s williams investors ": 1795555566,
-  "west africa s rush to refine its own gold unleashes flood of capacity": 1795555566,
-  "gold ticks lower on hawkish fed bets u s inflation data in focus": 1795555566,
-  "forex dollar slips as nvidia fueled ai rally fades": 1795555566,
-  "gold falls 2 on hawkish fed bets us inflation data in focus": 1795555566,
   "giá vàng tăng sau cả tuần liên tục giảm": 1795580797,
   "động thái lạ của quỹ vàng lớn nhất thế giới sau 4 phiên xả hàng liên tiếp": 1795580797,
   "giá vàng trong nước giảm 1 5 triệu đồng sjc về ngưỡng 133 5 triệu đồng": 1795580797,
@@ -206,7 +185,18 @@
   "giá vàng sjc bật tăng lên ngưỡng 135 5 triệu đồng vàng nhẫn đứng yên": 1795804719,
   "risk sensitive currencies rise on tech rebound dollar set for weekly gain": 1795804719,
   "soma gold reports financial results for the third quarter of 2026 company announcement": 1795804719,
-  "barranco gold mining completes second tranche of flow through offering": 1795804719
+  "barranco gold mining completes second tranche of flow through offering": 1795804719,
+  "người mua vàng từ đầu năm đã lỗ bao nhiêu": 1795830314,
+  "giá vàng tăng mạnh theo chứng khoán mỹ hoàn tất một tuần hồi phục": 1795830314,
+  "bản tin nông sản hôm nay 28 11 giá cà phê trong nước tăng": 1795830314,
+  "nguồn cung ngoại tệ cải thiện tỷ giá có thêm yếu tố hỗ trợ cuối năm": 1795830314,
+  "wall street s bullish bets tick higher after gold bounces back above 3 600 main street mai": 1795830314,
+  "canadian dollar holds on to weekly gain as investors bet on december rate hike": 1795830314,
+  "brazilian real strength lifts coffee prices": 1795830314,
+  "kazakh banks raise 1 5 billion to fund private takeover of gold miner altynalmas": 1795830314,
+  "gold rallies above 3 600 silver surges as dollar weakness supports metals kitco am report": 1795830314,
+  "tsx futures rise on strength in gold copper": 1795830314,
+  "watch fed s dec meeting may mark turning point for markets economist": 1795830314
  },
  "usd": {
   "2026-11-25T08:30:00-05:00": {
@@ -214,7 +204,7 @@
   }
  },
  "cal": {
-  "fetched": 1795804721.0733185,
+  "fetched": 1795830316.2229855,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
