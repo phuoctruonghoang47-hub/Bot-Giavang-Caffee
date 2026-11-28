@@ -1,18 +1,18 @@
 {
  "last_prices": {
-  "world_gold": 3707.2,
-  "world_gold_vnd": 115427337.04934235,
+  "world_gold": 3668.5,
+  "world_gold_vnd": 114222374.2893592,
   "domestic": {
    "Vàng miếng SJC": [
-    130500000,
-    135500000
+    131000000,
+    136000000
    ],
    "Nhẫn trơn PNJ 999.9": [
-    126800000,
-    133000000
+    127500000,
+    133700000
    ]
   },
-  "coffee": 70400
+  "coffee": 72800
  },
  "alert_ref_gold": 3702.5,
  "seen": {
@@ -204,7 +204,7 @@
   }
  },
  "cal": {
-  "fetched": 1795830316.2229855,
+  "fetched": 1795857159.4023793,
   "events": [
    {
     "title": "Core PCE Price Index m/m",
